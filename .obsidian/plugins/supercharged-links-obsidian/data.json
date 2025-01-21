@@ -1,0 +1,28 @@
+{
+  "targetAttributes": [
+    "NoteIcon"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "insediamento",
+      "value": "insediamento",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "6da3-d023",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}
