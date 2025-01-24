@@ -227,7 +227,7 @@ Le difese principali del Castello Cragmaw sono la sua ubicazione segreta e l’a
 >[!note]- Leggere ad Alta Voce
 >*Questa piccola stanza è invasa dai detriti. La feritoia sul lato opposto rispetto alla porta fornisce una linea di tiro ottimale sulla terrazza di fronte alla porta del castello.*
 
-Due **goblin** occupano ognuna di queste due stanze. Alternandosi l’uno con l’altro per scagliare frecce e farsi poi indietro, entrambi gli arcieri possono fare fuoco ogni round sui bersagli all’esterno. Quando i personaggi entrano nella stanza, i goblin lasciano cadere gli archi corti e sfoderano le loro armi da mischia. 
+Due **goblin** occupano ognuna di queste due stanze. Alternandosi l’uno con l’altro per scagliare frecce e farsi poi indietro, entrambi gli arcieri possono fare fuoco ogni round sui bersagli all’esterno. Quando i personaggi entrano nella stanza, un goblin lascia cadere l'arco corto e sfodera le sue armi da mischia, mentre l'altro corre a cercare rinforzi dalle stanze C7 o C9.
 
 ### C4. Dormitori in Rovina
 I goblin Cragmaw sfruttano ogni angolo di spazio disponibile nel castello.
@@ -235,7 +235,7 @@ I goblin Cragmaw sfruttano ogni angolo di spazio disponibile nel castello.
 >[!note]- Leggere ad Alta Voce
 >*La torre sudovest del castello è poco più di un cumulo di detriti. Vari giacigli sporchi sono sparsi sui tratti di pavimento sgombri e un piccolo passaggio tortuoso conduce a est attraverso le macerie*.
 
-Tre **goblin** si sono accampati in quest’area. Anche se le macerie hanno un aspetto pericoloso, la torre è stabile e il passaggio a est è sicuro.
+La stanza è vuota. Anche se le macerie hanno un aspetto pericoloso, la torre è stabile e il passaggio a est è sicuro.
 
 ######  Sviluppi
 Un rumore forte in questa zona attira l’attenzione dei goblin nell’area 7. Un goblin giunge a indagare sul frastuono. Se non ritorna, o se nota qualcosa che non va e suona l’allarme, gli altri arrivano a indagare a loro volta.
