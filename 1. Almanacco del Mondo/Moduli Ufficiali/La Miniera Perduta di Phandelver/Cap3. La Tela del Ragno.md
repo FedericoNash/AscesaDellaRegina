@@ -189,7 +189,7 @@ I secoli non sono stati generosi con il Castello Cragmaw. I goblin hanno rinforz
 ***Soffitti***. I soffitti sono alti 4,5 metri salvo dove specificato diversamente.
 ***Porte***. Le porte interne sono fatte di legno e rinforzate da bande di ferro. Non hanno né chiavistelli né serrature. Per sfondare una porta sbarrata è necessario effettuare con successo una prova di Forza con CD 15.
 ***Pavimenti***. Le pietre lastricate e irregolari del pavimento lasciano intravedere in più punti il terriccio sottostante.
-***Luce***. Un minimo di luce naturale filtra dalle feritoie che si aprono lungo tutto il castello. Durante il giorno, questo procura luce fioca alla maggior parte delle aree. Di notte, tutte le aree sono immerse nell’oscurità.
+***Luce***. Un minimo di luce naturale filtra dalle feritoie che si aprono lungo tutto il castello. Durante il giorno, questo procura *luce fioca* alla maggior parte delle aree. Di notte, tutte le aree sono immerse nell’*oscurità*.
 ***Pareti***. Le mura esterne e le pareti portanti interne sono spesse 1,5 metri, con uno strato di terra e malta spesso 90 centimetri tra due strati di blocchi di pietra spessi 30 centimetri. Le pareti interne sono spesse 30 centimetri e sono di pietra lavorata.
 Le feritoie lungo le mura del castello si trovano a 3 metri d’altezza rispetto al terreno esterno e a 1,2 metri d’altezza rispetto al pavimento interno, sono larghe 20 centimetri e alte 1,2 metri. Una creatura su un lato di una feritoia ottiene tre quarti di copertura contro gli attacchi provenienti dall’altro lato (vedi “Copertura” nel regolamento).
 
