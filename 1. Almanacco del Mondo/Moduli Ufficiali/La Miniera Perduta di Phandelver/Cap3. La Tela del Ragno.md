@@ -255,7 +255,7 @@ I Cragmaw sono una tribù mista di goblinoidi: una manciata di bugbear spadroneg
 >[!note]- Leggere ad Alta Voce
 >*Quattro semplici giacigli e pagliericci sono stati allineati lungo il pavimento di questo dormitorio. Sui supporti di legno montati alle pareti sono agganciate numerose armi: lance, spade, morning star e altro ancora. Il muro nord sembra essere danneggiato, ma il pavimento è stato ripulito e sgombrato dai detriti.*
 
-Quattro **hobgoblin** alloggiano in questa stanza. Dal momento che i goblin loro vicini si azzuffano in continuazione, non prestano attenzione ai rumori nelle aree 2 o 3. Tuttavia, reagiscono rapidamente per difendere la loro torre se qualche intruso fa la sua comparsa o se un goblin di sentinella lancia l’allarme.
+Un **hobgoblin** alloggia in questa stanza. Dal momento che i goblin loro vicini si azzuffano in continuazione, non presta attenzione ai rumori nelle aree 2 o 3. Tuttavia, reagiscono rapidamente per difendere la loro torre se qualche intruso fa la sua comparsa o se un goblin di sentinella lancia l’allarme.
 
 ###### Tesoro
 Cinque lance, quattro spade lunghe, tre morning star, due spadoni e un bastone ferrato pregiato sono appesi alle pareti. Il bastone ferrato è decorato con incisioni stilizzate che raffigurano delle piume, è sorprendentemente leggero (0,5 kg) e vale 10 mo.
@@ -317,7 +317,7 @@ Le creature di questa stanza montano la guardia alla feritoia, quindi ogni perso
 >[!note]- Leggere ad Alta Voce
 >*Al centro di questo piccolo dormitorio è stato collocato un braciere di pietra pieno di carboni ardenti. Quattro pagliericci sono stati disposti lungo la parete est. La parte sud è crollata, ma una porta di legno sbarrata in quella direzione è ancora intatta. Una tenda copre un’arcata che si apre verso nord.*
 
-Due **hobgoblin** montano la guardia in questa stanza. Sono intelligenti, robusti e fedeli a Re Grol. All’inizio del combattimento, un hobgoblin fugge ad avvertire il re nell’area 14, poi torna 2 round dopo per riprendere la lotta. Quest’area era un tempo un salone degli occupanti umani del castello, ma i suoi mobili marciti sono stati fatti a pezzi dai Cragmaw, che li usano come legna da ardere.
+Tre **hobgoblin** montano la guardia in questa stanza. Sono intelligenti, robusti e fedeli a Re Grol. All’inizio del combattimento, un hobgoblin fugge ad avvertire il re nell’area 14, poi torna 2 round dopo per riprendere la lotta. Non appena le cose si mettono male per gli hobgoblin, uno di loro apre la porta della stanza C13 nel tentativo di sfruttare l'orsogu Quest’area era un tempo un salone degli occupanti umani del castello, ma i suoi mobili marciti sono stati fatti a pezzi dai Cragmaw, che li usano come legna da ardere.
 
 ### C13. Torre dell’Orsogufo
 La porta di questa stanza è sprangata con un pesante palo di legno, un sottile messaggio di avvertimento riguardo al pericolo che contiene. Quando il palo viene sollevato, la creatura nella stanza si sveglia e lancia un terribile ruggito. Le feritoie sono state tappate per lasciare la stanza al buio. Il riquadro di testo presume che i personaggi siano dotati di scurovisione o di una fonte di luce.
