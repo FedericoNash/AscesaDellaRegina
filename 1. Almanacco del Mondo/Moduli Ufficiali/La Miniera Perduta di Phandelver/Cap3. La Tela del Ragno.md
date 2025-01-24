@@ -179,7 +179,7 @@ Feritoie per frecce fiancheggiano le pareti di questo posto di guardia vuoto.
 Questo tetto alto 9 metri offre una vista senza ostacoli sulla radura intorno al lodge e sui boschi vicini.
 
 ### Assalto degli Orchi
-Durante il soggiorno dei personaggi, la Loggia di Falco viene attaccata da un gruppo di goblin e orchi mandati dal Ragno Nero. Un **gigante delle colline** sfonda la palizzata mentre 10 **orchi** e 10 **goblin** assaltano la magione.
+Durante il soggiorno dei personaggi, la Loggia di Falco viene attaccata da un gruppo di goblin e orchi mandati dal Ragno Nero. Un **gigante delle colline** sfonda la palizzata mentre 10 **orchi** e 10 **goblin** assaltano la magione, cercando di recuperare la mappa dei personaggi se è ancora in loro possesso.
 
 ## Castello Cragmaw
 La tribù dei Cragmaw è composta da bande di predoni goblinoidi rivali sparpagliate per tutta l’area della Pista di Triboar e del Bosco di Neverwinter. Tuttavia, c’è un capotribù che è riconosciuto a malincuore da tutti come il capo supremo: Re Grol del Castello Cragmaw. Il Castello Cragmaw non è una costruzione dei goblin e non è il nome originale della struttura. La roccaforte, costruita da un abile mago nobile del vecchio Phalorm (un antico reame che un tempo controllava buona parte del Nord), è composta da sette torri sovrapposte, anche se i suoi livelli superiori sono da tempo ridotti a semplici cumuli di macerie. Soltanto il pianterreno è ancora abbastanza solido da risultare abitabile.
