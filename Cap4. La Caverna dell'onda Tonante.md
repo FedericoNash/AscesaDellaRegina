@@ -171,6 +171,10 @@ I danni strutturali e i resti scheletrici di quest’area sono la prova della de
 Tre **bugbear** si trovano in quest’area davanti all'ingresso della Forgia degli Incantesimi. Un **doppelganger** di nome Monteith vigila sulle attività con le fattezze di un maschio drow. Gli edifici danneggiati sono descritti nelle aree 14 e 15. I minerali nel soffitto sono belli a vedersi, ma non sono magici e non hanno alcun valore.
 Qualsiasi personaggio competente in Arcano può percepire una sottile aura di magia in questa caverna. (Un incantesimo *individuazione del magico* rivela la stessa cosa.) L’aura diventa più forte se ci si avvicina all’edificio a nord (l’area 15).
 
+###### Sviluppi
+Se due o più bugbear vengono uccisi, il doppelganger fugge verso l’area 19 per mettere in guardia Nezznar.
+Il doppleganger ha con sè una nota che recita: "Monteith, pattuglia la caverna insieme ai bugbear, elimina ogni minaccia presente. Per nessun motivo devo essere disturbata, il rompicapo "
+
 #### W14. Alloggi dei Maghi
 Le porte che conducono a quest’area sono crepate e i loro cardini di ferro sono parzialmente fusi. Per scardinare o sfondare le porte è necessario effettuare con successo una prova di Forza con CD 15.
 
