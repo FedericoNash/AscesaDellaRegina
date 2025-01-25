@@ -133,7 +133,7 @@ Le seguenti posizioni sono indicate nella mappa della casa di caccia del falco.
 ###### F1. Ponte di pietra 
 Il ponte di pietra largo 5 piedi che attraversa il fiume è robusto e di recente costruzione.
 
-###### F2. Gatehouse 
+###### F2. Portineria 
 Una scala di legno sale a una botola nel soffitto che garantisce l'accesso al tetto alto 12 piedi della portineria. Un'asta della bandiera nell'angolo nord-est del tetto sfoggia uno stendardo nero con le insegne di un falco d'argento.
 
 ###### F3. Pensione 
@@ -142,7 +142,7 @@ La pensione ha una qualità simile a un fienile. Un tappeto di paglia copre il p
 ###### F4. Scuderie 
 Il cavallo di Falco, un affidabile stallone grigio di nome Baatorius, è solitamente alloggiato nella stalla più occidentale. Le altre bancarelle sono vuote.
 
-###### F5. Immagazzinamento 
+###### F5. Magazzino 
 Qui si tiene l'attrezzatura da equitazione, insieme al cibo per gli animali.
 
 ###### F6. Fucina 
