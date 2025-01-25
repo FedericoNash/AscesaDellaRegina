@@ -85,6 +85,18 @@ Dietro il bancone c’è una cassaforte chiusa a chiave, che può essere aperta 
 Questo era un dormitorio dei minatori. È qui che i più abili scavatori che lavoravano nella Caverna dell’Onda Tonante venivano a riposarsi tra un turno e l’altro. Se un personaggio origlia alla porta socchiusa, effettuando con successo una prova di Saggezza (Percezione) con CD 10 sente il rumore attutito di qualcosa che si spezza, seguito da un costante rosicchiare.
 
 >[!note]- Leggere ad Alta Voce
->Testo
+>*File ordinate di vecchie brandine di pietra corrono lungo questa camera, al cui centro si erge un vecchio braciere di ferro arrugginito pieno di carboni spenti. A terra giacciono le ossa di una mezza dozzina di nani e di orchi, che ancora indossano alcuni frammenti di armatura. Tre figure grigie e ricurve frugano tra i resti, palpeggiando i frammenti e rosicchiando le ossa.*
 
 Tre **ghoul** del branco nell’area 9 si trovano in questa stanza, impegnati a spezzare e rosicchiare le antiche ossa dei caduti nella vana speranza di trovare qualche rimasuglio di midollo. I ghoul, impazienti di cibarsi di carne fresca, attaccano immediatamente.
+
+###### Tesoro
+Una delle armatura degli scheletri è ancora in buone condizioni.
+
+#### W7. Magazzino in Rovina
+Nonostante la distruzione circostante, la parte nord di quest’area di stoccaggio è rimasta relativamente intatta.
+
+>[!note]- Leggere ad Alta Voce
+>*La parete est di questa camera è crollata e ora non resta che un cumulo di detriti. A nord è visibile una porta socchiusa che conduce a un magazzino di ampie dimensioni. Lungo le pareti è stata impilata una serie di barilotti, tutti crepati o spaccati a causa dell’usura del tempo.*
+
+Pur non essendo comodo, il magazzino è un luogo sicuro dove riposare. Nessun mostro viene da queste parti. Inoltre, la porta del magazzino è in buone condizioni e può essere facilmente bloccata o sbarrata dall’interno.
+Il contenuto dei barilotti è evaporato da tempo.
