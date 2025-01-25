@@ -105,7 +105,33 @@ Il contenuto dei barilotti è evaporato da tempo.
 Questa caverna ha bloccato l’esplorazione di Nezznar. Il drow sospetta che le officine magiche della miniera siano vicine, ma preferirebbe non correre il rischio di affrontare i mostri che infestano l’area.
 
 >[!note]- Leggere ad Alta Voce
->*La parete est di questa camera è crollata e ora non resta che un cumulo di detriti. A nord è visibile una porta socchiusa che conduce a un magazzino di ampie dimensioni. Lungo le pareti è stata impilata una serie di barilotti, tutti crepati o spaccati a causa dell’usura del tempo.*
+>*Un fitto strato di strani funghi copre una vasta sezione del terreno in questa caverna. La coltura include numerose vesce del diametro di trenta centimetri, strane poliporacee che crescono sulle stalagmiti e funghi dal gambo e dal cappello che raggiungono un metro e mezzo d’altezza. Alcune vesce risplendono di una strana fosforescenza verdastra*
 
 La maggior parte dei funghi è innocua e il bagliore verdastro dei funghi fosforescenti consente alle creature di vedere tutta la caverna senza bisogno di scurovisione o di fonti di luce.
 ***Gas Velenoso.*** Ogni volta che una creatura tenta di attraversare la caverna, lo strato di funghi che ricopre buona parte del terreno sprigiona nell’aria un gas velenoso. Ogni creatura all’interno della caverna deve superare un tiro salvezza su Costituzione con CD 11, altrimenti subirà 3d6 danni da veleno e sarà avvelenata per 10 minuti (vedi il regolamento per ulteriori informazioni sulla condizione di avvelenato). Il gas si disperde dopo 1 minuto, ma fino ad allora, ogni creatura vivente che termina il proprio turno nella caverna deve ripetere il tiro salvezza.
+
+#### W9. Grande Caverna
+Questa caverna un tempo fungeva da sala dei banchetti, area di incontri e sala del sidro per i minatori.
+
+>[!note]- Leggere ad Alta Voce
+>*Due ripide scarpate dividono questa grande caverna in tre sezioni, delimitate da alte terrazze alle estremità e una sezione più bassa al centro. Due scalinate di pietra scolpita salgono fino alle terrazze. Due grossi tavoli sono stati collocati nella sezione centrale, assieme a un paio di vecchi bracieri. Un tavolo più piccolo è situato sulla terrazza est. I resti scheletrici di dozzine di combattenti (nani, gnomi, orchi e ogre) sono una muta testimonianza dello scontro feroce di cui fu teatro questo luogo molto tempo fa.*
+
+Sette **ghoul** si annidano sulla terrazza ovest, nascosti tra le ombre. Notano le eventuali luci o rumori negli altri punti della caverna e balzano giù rapidamente per attaccare. I non morti sono affamati e combattono fino alla distruzione.
+Le scarpate sono alte 3 metri e per scalarle è necessario effettuare con successo una prova di Forza (Atletica) con CD 12. Una creatura che cade o viene spinta giù dalla scarpata subisce 1d6 danni contundenti e atterra prona.
+
+#### W10. Pozza Oscura
+Questa caverna piena d’acqua nasconde un tesoro.
+
+>[!note]- Leggere ad Alta Voce
+>Testo
+
+La pozza è profonda 6 metri al centro. Il torrente a nordest è profondo 90 centimetri e il soffitto del passaggio arriva a 60 - 90 centimetri al di sopra dell’acqua. I personaggi possono facilmente guadare il torrente per raggiungere l’area 18.
+Se un personaggio esplora la pozza, può effettuare una prova di Saggezza (P) trova un vecchio
+scheletro che giace sul fondo, a 3 metri dalla riva e a 3 metri
+di profondità. Si tratta dei resti di un mago umano del vecchio
+Phandalin che morì difendendo le miniere dall’attacco degli
+orchi. Varie frecce orchesche sono ancora piantate nella
+cassa toracica dello scheletro.
+Tesoro
+Lo scheletro indossa due anelli di platino (75 mo ciascuno) e
+stringe tra le dita ossute una bacchetta dei dardi incantati.
