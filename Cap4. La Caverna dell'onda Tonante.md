@@ -53,4 +53,20 @@ Questo labirinto di passaggi è una vecchia sezione delle miniere originali dell
 I vicoli ciechi sono cunicoli in cui i minatori avevano rinunciato ad avanzare ulteriormente, decidendo di passare a scavare in altri punti. In uno di essi attende pazientemente un **cubo gelatinoso.** 
 
 #### W3. Vecchia Entrata
-Il tunnel che si inoltra a sud era l’entrata originale della Caverna dell’Onda Tonante, ma crollò a causa dei tumulti che sconvolsero le miniere secoli fa. Quando gli orchi lanciarono il loro assalto, all’interno delle miniere scoppiò una furibonda battaglia. I morti giacciono ancora nel punto in cui sono caduti
+Il tunnel che si inoltra a sud era l’entrata originale della Caverna dell’Onda Tonante, ma crollò a causa dei tumulti che sconvolsero le miniere secoli fa. Quando gli orchi lanciarono il loro assalto, all’interno delle miniere scoppiò una furibonda battaglia. I morti giacciono ancora nel punto in cui sono caduti.
+
+>[!note]- Leggere ad Alta Voce
+>*Molti tunnel convergono in questa caverna naturale alta nove metri. Sulle pareti sono stati scolpiti vari bassorilievi che mostrano nani e gnomi minatori intenti a lavorare. Sotto i bassorilievi, circa due dozzine di scheletri che indossano frammenti arrugginiti di armatura giacciono disseminati per il pavimento della caverna. Alcuni sono scheletri nanici, mentre altri sono resti orcheschi. Una mezza dozzina di grosse lanterne di ottone occupa una serie di nicchie o di costoni lungo i margini della caverna, ma nessuna di esse è accesa.*
+
+Dieci **uccelli stigei** si aggrappano al soffitto come se fossero pipistrelli. I mostri trovano ben poche prede vive nelle miniere e sono affamati. Se i personaggi esaminano gli scheletri sul pavimento, gli uccelli stigei riescono molto probabilmente a coglierli alla sprovvista. 
+Per passare senza attirare l’attenzione degli uccelli, devono superare una prova di Furtività di gruppo con CD 15. Se svegliati gli uccelli attaccano il party una volta e volano via verso l’uscita, i personaggi devono superare un tiro salvezza su Forza per evitare che si attacchino, altrimenti subiscono 2d6 danni perforanti.
+Le lanterne e le sculture dei minatori al lavoro avevano in origine lo scopo di dare il benvenuto ai nuovi arrivati.
+
+#### W4. Vecchia Sala delle Guardie
+Questa sala delle guardie un tempo proteggeva la vicina entrata della miniera, ma fu invasa all’inizio della battaglia, quando gli orchi attaccarono.
+
+>[!note]- Leggere ad Alta Voce
+>*Questa stanza è occupata da panche di pietra spaccate e cumuli di detriti caduti da un soffitto parzialmente crollato. Tra le brandine di pietra in rovina e le rastrelliere di armi rovesciate giacciono le ossa di vari nani e orchi.*
+
+Nel round successivo a quello in cui una creatura vivente entra in questa camera, le ossa iniziano a muoversi e rinsaldarsi, formando nove **scheletri**. Gli scheletri combattono fino alla distruzione.
+
