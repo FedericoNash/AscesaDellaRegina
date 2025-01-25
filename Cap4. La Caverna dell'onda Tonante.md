@@ -171,3 +171,23 @@ I danni strutturali e i resti scheletrici di quest’area sono la prova della de
 Gli edifici danneggiati sono descritti nelle aree 14 e 15. I minerali nel soffitto sono belli a vedersi, ma non sono magici e non hanno alcun valore.
 Qualsiasi personaggio competente in Arcano può percepire una sottile aura di magia in questa caverna. (Un incantesimo *individuazione del magico* rivela la stessa cosa.) L’aura diventa più forte se ci si avvicina all’edificio a nord (l’area 15).
 
+#### W14. Alloggi dei Maghi
+Le porte che conducono a quest’area sono crepate e i loro cardini di ferro sono parzialmente fusi. Per scardinare o sfondare le porte è necessario effettuare con successo una prova di Forza con CD 15.
+
+>[!note]- Leggere ad Alta Voce
+>Testo
+
+Questa stanza ospita lo spirito irrequieto dell’ultimo mago che morì al suo interno, **Mormesk il wraith**. Non è immediatamente visibile, ma emerge dal pavimento quando una creatura vivente entra nella stanza.
+Mormesk era un potente mago che andò incontro al suo destino durante la battaglia magica che segnò il culmine dell’attacco degli orchi. Secoli e secoli di collera hanno avvelenato la sua anima, trasformandolo in un’apparizione carica di odio.
+Mormesk ha il comando dei non morti che infestano la Caverna dell’Onda Tonante. Il wraith trascorre il suo tempo quaggiù perché il tesoro che aveva accumulato in vita si trova nel forziere annerito (vedi la sezione “Tesoro”). Non essendo più corporeo, non può toccare o maneggiare le ricchezze che possedeva in vita.
+Questo edificio fungeva da casa degli ospiti per i maghi in visita che lavoravano alla Forgia degli Incantesimi (area 15), molti dei quali erano umani provenienti dalle città vicine.
+Tutti i mobili sono a misura di umano.
+
+###### Interpretare Mormesk
+Mormesk parla con voce rauca e sussurrante. Quando emerge dal pavimento per la prima volta, esclama: “La vostra presenza è un’offesa per me, come anche la vostra vita. I miei tesori appartengono soltanto a me, non vi consentirò di saccheggiarli!” Se i personaggi non fanno alcun tentativo di ragionare col wraith, la creatura attacca.
+Se i personaggi tentano di ragionare con il wraith, ascolta ciò che hanno da dire, purché non gli abbiano fatto del male in alcun modo e non si siano impossessati di alcuna delle sue proprietà. Il wraith è irrimediabilmente malvagio, quindi l’unico modo in cui i personaggi possono fermare la sua furia spettrale è offrendogli qualcosa che un vecchio mago potrebbe considerare prezioso, in cambio delle loro vite. Mormesk apprezza gli oggetti magici (specialmente le pergamene), i libri degli incantesimi e le conoscenze arcane. Qualunque dono gli venga offerto, un personaggio deve effettuare con successo una prova di Carisma (Persuasione) con CD 10 per convincere il wraith che si tratta di un oggetto di valore.
+A prescindere da ciò che i personaggi offrono, il wraith non rinuncerà alla pipa di legno nel suo forziere bruciato. È disposto tuttavia a separarsi dalle monete e dalle gemme se i personaggi accettano di uccidere lo spectator nella Forgia degli Incantesimi. (Il wraith non spiega cosa sia uno spectator. Si limita a indirizzarli verso l’area 15.) Una volta ricevuto il suo dono, il wraith consente ai personaggi di frugare tra i suoi libri e di tenere la mappa segreta contenuta in uno di essi (vedi la sezione “Tesoro”).
+
+Tesoro
+Il forziere bruciato non è chiuso a chiave e contiene 1.100 mr, 160 ma, 50 me, tre diamanti (del valore di 100 mo ciascuno) e una pipa di legno filigranata in platino (150 mo). 
+Sugli scaffali si trovano ancora alcuni tomi preservati magicamente. Molti sono soltanto libri di storie, ma uno ha una mappa cucita all’interno della copertina. È possibile notare la mappa effettuando con successo una prova di Intelligenza (Indagare) con CD 12. La mappa mostra l’ubicazione di un dungeon di creazione del DM. Quando i personaggi avranno concluso la loro esplorazione della miniera, questa vecchia mappa potrà condurli alla loro prossima avventura.
