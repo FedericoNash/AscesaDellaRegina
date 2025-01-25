@@ -1,4 +1,7 @@
-### Mostri Erranti
+# Chi ha la Mappa Stellare?
+Se la Mappa Stellare è in possesso dei personaggi, Nezznar si trova davanti alla porta dell'area W19 che sta cercando di aprirla. Il DM in questo caso usa una ***clessidra*** da 5 minuti per monitorare il tempo: ogni volta che il tempo della clessidra finisce, il DM tira un d10
+
+# Mostri Erranti
 Mostri di ogni genere si aggirano in tutte le aree della miniera. Gli incontri casuali servono a ricordare ai giocatori che i mostri non sono necessariamente vincolati a un’area specifica e che nessuna parte del dungeon è sicura. Gli incontri con i mostri erranti sono un modo efficace di mantenere i giocatori e i personaggi sulle spine, alleviare la noia dei giocatori e consumare le risorse del gruppo. Tuttavia, troppi incontri casuali possono diventare tediosi, quindi il DM dovrà usarli con parsimonia. Se i personaggi trascorrono troppo tempo nella stessa area, il DM può controllare se compaiono dei mostri erranti tirando un d20. Con un risultato di 17–20, ha luogo un incontro. Viceversa, se i giocatori sembrano irrequieti, il DM può decidere direttamente che si verifica un incontro: tira un d12 e consulta la tabella “Mostri Erranti” per determinare ciò che il gruppo incontra.
 
 ###### Mostri Erranti
@@ -173,7 +176,7 @@ Qualsiasi personaggio competente in Arcano può percepire una sottile aura di ma
 
 ###### Sviluppi
 Se due o più bugbear vengono uccisi, il doppelganger fugge verso l’area 19 per mettere in guardia Nezznar.
-Il doppleganger ha con sè una nota che recita: "Monteith, pattuglia la caverna insieme ai bugbear, elimina ogni minaccia presente. Per nessun motivo devo essere disturbata, il rompicapo "
+Il doppleganger ha con sè una nota che recita: "Monteith, pattuglia la caverna insieme ai bugbear, elimina ogni minaccia presente. Per nessun motivo devo essere disturbata, il rompicapo è molto più complesso di quanto avessi immaginato. Ah un'ultima cosa, se vedi ancora quegli avventurieri, uccidili senza esitazione."
 
 #### W14. Alloggi dei Maghi
 Le porte che conducono a quest’area sono crepate e i loro cardini di ferro sono parzialmente fusi. Per scardinare o sfondare le porte è necessario effettuare con successo una prova di Forza con CD 15.
