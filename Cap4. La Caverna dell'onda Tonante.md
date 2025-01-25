@@ -135,16 +135,15 @@ Lo scheletro indossa due anelli di platino (75 mo ciascuno) e stringe tra le dit
 La porta est è barricata dall’interno e per aprirla con la forza è necessario superare una prova di Forza con CD 20. Un personaggio che origlia a una delle due porte e supera una prova di Saggezza (Percezione) con CD 10 sente delle voci rauche che parlano in Goblin e affermano di essere affamate.
 
 >[!note]- Leggere ad Alta Voce
->Testo
+>*Lungo le pareti di questo dormitorio, riscaldato e illuminato da un braciere di ferro fiammeggiante al centro della stanza, sono state allineate varie brandine di pietra.*
 
 Se il gruppo entra da ovest, il DM aggiunge:
 
 >[!note]- Leggere ad Alta Voce
->Testo
+>*Sul lato opposto della stanza è visibile un’altra porta, bloccata da una barricata ricavata dai resti di un tavolo di legno*
 
-Cinque bugbear risiedono in questa camera. Sono i fedeli servitori di Nezznar. Questa camera costituisce la prima linea dell’assalto del Ragno Nero alla Caverna dell’Onda Tonante e i bugbear sono qui per evitare che i ghoul, gli zombi o gli altri non morti disturbino il loro padrone nella sua tana (area 19).
+Cinque **bugbear** risiedono in questa camera. Sono i fedeli servitori di Nezznar. Questa camera costituisce la prima linea dell’assalto del Ragno Nero alla Caverna dell’Onda Tonante e i bugbear sono qui per evitare che i ghoul, gli zombi o gli altri non morti disturbino il loro padrone nella sua tana (area 19).
 Come nel caso dell’area 6, anche questa stanza un tempo era un dormitorio dei minatori. I bugbear di Nezznar hanno rimosso i cadaveri che hanno trovato all’interno e hanno eretto la barricata.
 
 ###### Tesoro
-Il più grosso bugbear porta una borsa che contiene 15 mr, 13
-me e una pozione di vitalità.
+Il più grosso bugbear porta una borsa che contiene 15 mr, 13 me e una *pozione di vitalità*.
