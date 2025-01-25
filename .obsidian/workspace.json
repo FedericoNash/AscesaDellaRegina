@@ -76,6 +76,29 @@
               "icon": "lucide-file",
               "title": "Cap4. La Caverna dell'onda Tonante"
             }
+          },
+          {
+            "id": "20d8578d335033ee",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap0. Introduzione.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cap0. Introduzione"
+            }
           }
         ],
         "currentTab": 1
@@ -871,15 +894,15 @@
   },
   "active": "c0db7366c13b49a1",
   "lastOpenFiles": [
+    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap0. Introduzione.md",
+    "Cap4. La Caverna dell'onda Tonante.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap1. Le Frecce dei Goblin.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap2. I Marchi Rossi.md",
-    "Cap4. La Caverna dell'onda Tonante.md",
     "z_Allegati/Misc/048-map-4.01-wave-echo-cave-1.webp",
     "1. Almanacco del Mondo/Forgotten Realms/Faerun/Phandalin.md",
     "z_Allegati/Misc/044-map-3.04-cragmaw-castle-1.webp",
     "z_Allegati/Misc/043-03-008.map303-wyvern-tor-1.webp",
-    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap0. Introduzione.md",
     "z_Allegati/Misc/036-03-003.map301-old-owl-well-1.webp",
     "z_Allegati/Misc/The Driftwood Tavern neverwinter.webp",
     "z_Allegati/z_Template/1. Template - Mondo/Template - Quest.md",
