@@ -29,7 +29,7 @@ La miniera è fredda, umida e sorprendentemente ventosa. In molti dei suoi passa
 
 # Incontri sulla Mappa
 Tutti gli incontri di questa parte dell’avventura sono indicati sulla mappa della Caverna dell’Onda Tonante.
-***Il tempo è cruciale:*** se i personaggi si fermano a fare un riposo breve, tira un d10. Con un risultato da 1-9 non succede nulla, mentre con un 10 riesce ad entrare nella Forgia degli Incantesimi ed ottiene un’abilità speciale. Se Nezzar non ha la scatola, tira con svantaggio. Se il party si attarda tuttavia sarà più facile per il Ragno Nero entrare, quindi dal 3° riposo breve tira con vantaggio.
+***Il tempo è cruciale:*** se i personaggi si fermano a fare un riposo breve, tira un d10. Con un risultato da 1-9 non succede nulla, mentre con un 10 riesce ad entrare nel Tempio di Bahamut ed ottiene un’abilità speciale. Se Nezznar non ha la mappa stellare, tira con svantaggio. Se il party si attarda tuttavia sarà più facile per il Ragno Nero entrare, quindi dal 3° riposo breve tira con vantaggio.
 
 ![[048-map-4.01-wave-echo-cave-1.webp]]
 
@@ -48,6 +48,9 @@ Che i personaggi seguano la mappa di Gundren o ricevano le indicazioni per raggi
 Questo labirinto di passaggi è una vecchia sezione delle miniere originali della Caverna dell’Onda Tonante.
 
 >[!note]- Leggere ad Alta Voce
->Testo
+>*Quest’area è composta da numerosi passaggi che si intersecano. Qui i soffitti sono alti soltanto 1,8 metri e vari passaggi terminano in vicoli ciechi scavati parzialmente.*
 
-I vicoli ciechi sono cunicoli in cui i minatori avevano rinunciato ad avanzare ulteriormente, decidendo di passare a scavare in altri punti. In uno di essi attende pazientemente un **cubo gelatinoso.** Quando il gruppo entra in questa sezione della miniera, l’ameba inizia a seguirlo, attendendo istintivamente l’opportunità di attaccare un bersaglio solitario.
+I vicoli ciechi sono cunicoli in cui i minatori avevano rinunciato ad avanzare ulteriormente, decidendo di passare a scavare in altri punti. In uno di essi attende pazientemente un **cubo gelatinoso.** 
+
+#### W3. Vecchia Entrata
+Il tunnel che si inoltra a sud era l’entrata originale della Caverna dell’Onda Tonante, ma crollò a causa dei tumulti che sconvolsero le miniere secoli fa. Quando gli orchi lanciarono il loro assalto, all’interno delle miniere scoppiò una furibonda battaglia. I morti giacciono ancora nel punto in cui sono caduti
