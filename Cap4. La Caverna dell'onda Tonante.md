@@ -125,13 +125,26 @@ Questa caverna piena d’acqua nasconde un tesoro.
 >[!note]- Leggere ad Alta Voce
 >Testo
 
-La pozza è profonda 6 metri al centro. Il torrente a nordest è profondo 90 centimetri e il soffitto del passaggio arriva a 60 - 90 centimetri al di sopra dell’acqua. I personaggi possono facilmente guadare il torrente per raggiungere l’area 18.
-Se un personaggio esplora la pozza, può effettuare una prova di Saggezza (P) trova un vecchio
-scheletro che giace sul fondo, a 3 metri dalla riva e a 3 metri
-di profondità. Si tratta dei resti di un mago umano del vecchio
-Phandalin che morì difendendo le miniere dall’attacco degli
-orchi. Varie frecce orchesche sono ancora piantate nella
-cassa toracica dello scheletro.
-Tesoro
-Lo scheletro indossa due anelli di platino (75 mo ciascuno) e
-stringe tra le dita ossute una bacchetta dei dardi incantati.
+La pozza è profonda 6 metri al centro. Il torrente a nordest è profondo 90 centimetri e il soffitto del passaggio arriva a 60 - 90 centimetri al di sopra dell’acqua. I personaggi possono facilmente guadare il torrente per raggiungere l’area 18. L'acqua è piuttosto fredda, quindi i personaggi che vogliono guadare il fiume devono superare un tiro salvezza su Costituzione con CD 10 per resistere al freddo o subire un livello di [[Condizioni#Indebolimento|Indebolimento]].
+Se un personaggio esplora la pozza, può effettuare una prova di Saggezza (Percezione) con CD 12. Se supera la prova, nota un vecchio scheletro che giace sul fondo, a 3 metri dalla riva e a 3 metri di profondità. Si tratta dei resti di un mago umano del vecchio Phandalin che morì difendendo le miniere dall’attacco degli orchi. Varie frecce orchesche sono ancora piantate nella cassa toracica dello scheletro.
+
+###### Tesoro
+Lo scheletro indossa due anelli di platino (75 mo ciascuno) e stringe tra le dita ossute una *bacchetta dei dardi incantati*.
+
+#### W11. Dormitorio a Nord
+La porta est è barricata dall’interno e per aprirla con la forza è necessario superare una prova di Forza con CD 20. Un personaggio che origlia a una delle due porte e supera una prova di Saggezza (Percezione) con CD 10 sente delle voci rauche che parlano in Goblin e affermano di essere affamate.
+
+>[!note]- Leggere ad Alta Voce
+>Testo
+
+Se il gruppo entra da ovest, il DM aggiunge:
+
+>[!note]- Leggere ad Alta Voce
+>Testo
+
+Cinque bugbear risiedono in questa camera. Sono i fedeli servitori di Nezznar. Questa camera costituisce la prima linea dell’assalto del Ragno Nero alla Caverna dell’Onda Tonante e i bugbear sono qui per evitare che i ghoul, gli zombi o gli altri non morti disturbino il loro padrone nella sua tana (area 19).
+Come nel caso dell’area 6, anche questa stanza un tempo era un dormitorio dei minatori. I bugbear di Nezznar hanno rimosso i cadaveri che hanno trovato all’interno e hanno eretto la barricata.
+
+###### Tesoro
+Il più grosso bugbear porta una borsa che contiene 15 mr, 13
+me e una pozione di vitalità.
