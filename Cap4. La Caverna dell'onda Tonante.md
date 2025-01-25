@@ -90,7 +90,7 @@ Questo era un dormitorio dei minatori. È qui che i più abili scavatori che lav
 Tre **ghoul** del branco nell’area 9 si trovano in questa stanza, impegnati a spezzare e rosicchiare le antiche ossa dei caduti nella vana speranza di trovare qualche rimasuglio di midollo. I ghoul, impazienti di cibarsi di carne fresca, attaccano immediatamente.
 
 ###### Tesoro
-Una delle armatura degli scheletri è ancora in buone condizioni.
+Una delle armature (tipologia a scelta del DM) degli scheletri è ancora in buone condizioni ed è utilizzabile. 
 
 #### W7. Magazzino in Rovina
 Nonostante la distruzione circostante, la parte nord di quest’area di stoccaggio è rimasta relativamente intatta.
@@ -100,3 +100,12 @@ Nonostante la distruzione circostante, la parte nord di quest’area di stoccagg
 
 Pur non essendo comodo, il magazzino è un luogo sicuro dove riposare. Nessun mostro viene da queste parti. Inoltre, la porta del magazzino è in buone condizioni e può essere facilmente bloccata o sbarrata dall’interno.
 Il contenuto dei barilotti è evaporato da tempo.
+
+#### W8. Caverna dei Funghi
+Questa caverna ha bloccato l’esplorazione di Nezznar. Il drow sospetta che le officine magiche della miniera siano vicine, ma preferirebbe non correre il rischio di affrontare i mostri che infestano l’area.
+
+>[!note]- Leggere ad Alta Voce
+>*La parete est di questa camera è crollata e ora non resta che un cumulo di detriti. A nord è visibile una porta socchiusa che conduce a un magazzino di ampie dimensioni. Lungo le pareti è stata impilata una serie di barilotti, tutti crepati o spaccati a causa dell’usura del tempo.*
+
+La maggior parte dei funghi è innocua e il bagliore verdastro dei funghi fosforescenti consente alle creature di vedere tutta la caverna senza bisogno di scurovisione o di fonti di luce.
+***Gas Velenoso.*** Ogni volta che una creatura tenta di attraversare la caverna, lo strato di funghi che ricopre buona parte del terreno sprigiona nell’aria un gas velenoso. Ogni creatura all’interno della caverna deve superare un tiro salvezza su Costituzione con CD 11, altrimenti subirà 3d6 danni da veleno e sarà avvelenata per 10 minuti (vedi il regolamento per ulteriori informazioni sulla condizione di avvelenato). Il gas si disperde dopo 1 minuto, ma fino ad allora, ogni creatura vivente che termina il proprio turno nella caverna deve ripetere il tiro salvezza.
