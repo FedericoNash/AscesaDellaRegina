@@ -70,3 +70,21 @@ Questa sala delle guardie un tempo proteggeva la vicina entrata della miniera, m
 
 Nel round successivo a quello in cui una creatura vivente entra in questa camera, le ossa iniziano a muoversi e rinsaldarsi, formando nove **scheletri**. Gli scheletri combattono fino alla distruzione.
 
+#### W5. Ufficio dei Saggiatori
+I saggiatori della miniera un tempo lavoravano qui, soppesando e valutando i campioni di metallo e pagando gli scavatori per il loro lavoro.
+
+>[!note]- Leggere ad Alta Voce
+>*Questa camera un tempo era un ufficio o un magazzino di qualche tipo. Su un grosso bancone di pietra che divide in due la stanza sono ancora visibili tre impolverate bilance di ferro. Una fila di nicchie scavate lungo la parete nord è piena di fogli di carta polverosi. I cadaveri di alcune creature morte molto tempo fa (gnomi e orchi, a giudicare dall’aspetto) giacciono ancora sul pavimento.*
+
+I documenti vecchi di secoli custoditi nelle nicchie si sbriciolano al minimo tocco, ma un personaggio in grado di leggere il Nanico può notare alcuni segni sbiaditi sui frammenti rimanenti, una serie di annotazioni relative a pesi e rimborsi.
+
+###### Tesoro
+Dietro il bancone c’è una cassaforte chiusa a chiave, che può essere aperta usando degli arnesi da scasso ed effettuando con successo una prova di Destrezza con CD 20. Questo forziere delle paghe fu ignorato nel corso dei combattimenti e contiene 600 mr, 180 ma, 90 me, 60 mo, una *pozione di guarigione* e una *pozione di scurovisione*.
+
+#### W6. Dormitorio a Sud
+Questo era un dormitorio dei minatori. È qui che i più abili scavatori che lavoravano nella Caverna dell’Onda Tonante venivano a riposarsi tra un turno e l’altro. Se un personaggio origlia alla porta socchiusa, effettuando con successo una prova di Saggezza (Percezione) con CD 10 sente il rumore attutito di qualcosa che si spezza, seguito da un costante rosicchiare.
+
+>[!note]- Leggere ad Alta Voce
+>Testo
+
+Tre **ghoul** del branco nell’area 9 si trovano in questa stanza, impegnati a spezzare e rosicchiare le antiche ossa dei caduti nella vana speranza di trovare qualche rimasuglio di midollo. I ghoul, impazienti di cibarsi di carne fresca, attaccano immediatamente.
