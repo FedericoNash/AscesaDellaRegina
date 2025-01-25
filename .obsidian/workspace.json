@@ -29,8 +29,32 @@
               "icon": "lucide-file",
               "title": "Cap3. La Tela del Ragno"
             }
+          },
+          {
+            "id": "c0db7366c13b49a1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap4. La Caverna dell'onda Tonante.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cap4. La Caverna dell'onda Tonante"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -821,11 +845,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "57e8db0076f7090e",
+  "active": "c0db7366c13b49a1",
   "lastOpenFiles": [
+    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md",
+    "Cap4. La Caverna dell'onda Tonante.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap2. I Marchi Rossi.md",
     "1. Almanacco del Mondo/Forgotten Realms/Faerun/Phandalin.md",
-    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md",
     "z_Allegati/Misc/044-map-3.04-cragmaw-castle-1.webp",
     "z_Allegati/Misc/043-03-008.map303-wyvern-tor-1.webp",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap0. Introduzione.md",
