@@ -29,6 +29,7 @@ La miniera è fredda, umida e sorprendentemente ventosa. In molti dei suoi passa
 
 # Incontri sulla Mappa
 Tutti gli incontri di questa parte dell’avventura sono indicati sulla mappa della Caverna dell’Onda Tonante.
+***Il tempo è cruciale:*** se i personaggi si fermano a fare un riposo breve, tira un d10. Con un risultato da 1-9 non succede nulla, mentre con un 10 riesce ad entrare nella Forgia degli Incantesimi ed ottiene un’abilità speciale. Se Nezzar non ha la scatola, tira con svantaggio. Se il party si attarda tuttavia sarà più facile per il Ragno Nero entrare, quindi dal 3° riposo breve tira con vantaggio.
 
 ![[048-map-4.01-wave-echo-cave-1.webp]]
 
