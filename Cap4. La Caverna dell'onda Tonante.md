@@ -27,3 +27,26 @@ La miniera è fredda, umida e sorprendentemente ventosa. In molti dei suoi passa
 > Tutti i migliori dungeon possiedono delle caratteristiche che li rendono unici e la Caverna dell’Onda Tonante non fa eccezione. Il rombo ritmico delle onde che si infrangono riverbera in tutta la miniera ed è abbastanza forte da far tremare la pietra sotto i piedi dei personaggi. Le onde si ripetono a intervalli di circa due minuti e si fanno più forti in direzione nordest.
 >La Caverna dell’Onda Tonante è molto lontana dall’oceano, ma una caverna della miniera, invasa dall’acqua, è collegata a una sorgente sotterranea di acqua calda. Quella sorgente ribolle in continuazione, fino a generare un geyser che sale all’interno di uno stretto condotto di pietra, generando un suono simile a quello di un’onda che si infrange contro le rocce. Il DM può descrivere questo suono ai giocatori di tanto in tanto. Servirà a stuzzicare la loro curiosità e ad attirarli verso la sua origine, conducendoli di conseguenza verso il cuore della miniera.
 
+# Incontri sulla Mappa
+Tutti gli incontri di questa parte dell’avventura sono indicati sulla mappa della Caverna dell’Onda Tonante.
+
+![[048-map-4.01-wave-echo-cave-1.webp]]
+
+#### W1. Ingresso della Caverna
+Che i personaggi seguano la mappa di Gundren o ricevano le indicazioni per raggiungere la Caverna dell’Onda Tonante da un’altra fonte, il loro approccio iniziale li porta all’imboccatura di uno stretto tunnel nascosto tra le pendici delle Montagne della Spada.
+
+>[!note]- Leggere ad Alta Voce
+>*Il tunnel d’ingresso conduce in una grande caverna sorretta da una colonna di roccia naturale e con tre stalagmiti. Nella parte ovest della caverna, dietro la colonna di roccia, sono visibili tre giacigli e un cumulo di scorte assortite (sacchi di farina, borse di sale, barilotti di carne salata, lanterne, ampolle di olio per lampade, picconi, pale e altri utensili). In mezzo alle scorte giace il cadavere di un nano minatore, morto da almeno una settimana*.
+>*La sezione nordest della caverna è crollata, formando una fossa larga tre metri e profonda sei metri. Una solida corda di canapa è stata legata a una vicina stalagmite e penzola da un bordo della fossa. In fondo alla fossa è visibile un rozzo tunnel che conduce a nordovest e a est.*
+
+
+È qui che si erano accampati i Rockseeker. Il nano morto è Tharden, il fratello di Gundren, ucciso dal Ragno Nero. Anche l’altro fratello di Gundren, Nundro, si trovava qui ed è attualmente tenuto prigioniero dal Ragno Nero nell’area 20. Le scorte dei nani possono tornare utili, ma non hanno alcun valore particolare.
+***Fossa Aperta.*** Per entrare o uscire dalla fossa scalandone le pareti senza una corda è necessaria una prova di Forza (Atletica) con CD 15. Se un personaggio fallisce la prova di 5 o più, cade e subisce 1d6 danni contundenti per ogni 3 metri di caduta, atterrando prono sul fondo. Il tunnel in fondo alla fossa conduce a nordovest vero l’area 2 e a est verso l’area 3.
+
+#### W2. Tunnel delle Miniere
+Questo labirinto di passaggi è una vecchia sezione delle miniere originali della Caverna dell’Onda Tonante.
+
+>[!note]- Leggere ad Alta Voce
+>Testo
+
+I vicoli ciechi sono cunicoli in cui i minatori avevano rinunciato ad avanzare ulteriormente, decidendo di passare a scavare in altri punti. In uno di essi attende pazientemente un **cubo gelatinoso.** Quando il gruppo entra in questa sezione della miniera, l’ameba inizia a seguirlo, attendendo istintivamente l’opportunità di attaccare un bersaglio solitario.
