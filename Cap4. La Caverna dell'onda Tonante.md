@@ -190,4 +190,4 @@ A prescindere da ciò che i personaggi offrono, il wraith non rinuncerà alla pi
 
 Tesoro
 Il forziere bruciato non è chiuso a chiave e contiene 1.100 mr, 160 ma, 50 me, tre diamanti (del valore di 100 mo ciascuno) e una pipa di legno filigranata in platino (150 mo). 
-Sugli scaffali si trovano ancora alcuni tomi preservati magicamente. Molti sono soltanto libri di storie, ma uno ha una mappa cucita all’interno della copertina. È possibile notare la mappa effettuando con successo una prova di Intelligenza (Indagare) con CD 12. La mappa mostra l’ubicazione di un dungeon di creazione del DM. Quando i personaggi avranno concluso la loro esplorazione della miniera, questa vecchia mappa potrà condurli alla loro prossima avventura.
+Sugli scaffali si trovano ancora alcuni tomi preservati magicamente. Molti sono soltanto libri di storie, ma un diario racconta della caduta della Caverna dell'Onda Tonante. È possibile notare il libro effettuando con successo una prova di Intelligenza (Indagare) con CD 12. Il libro racconta di come nacque 
