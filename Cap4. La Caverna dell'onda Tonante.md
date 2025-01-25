@@ -153,7 +153,21 @@ Il più grosso bugbear porta una borsa che contiene 15 mr, 13 me e una *pozione 
 Come la caverna dei funghi nell’area 8, questa caverna costituisce un serio ostacolo che impedisce a Nezznar di raggiungere il suo obiettivo, la Forgia degli Incantesimi (area 15). Il drow deve ancora formulare un piano che gli consenta di superare i guardiani non morti presenti in quest’area.
 
 >[!note]- Leggere ad Alta Voce
->Testo
+>*Una fornace e un mantice meccanico alimentato da una ruota ad acqua occupano buona parte di questa grande camera. La fornace è fredda e buia, ma accanto ci sono cumuli di carbone e carretti pieni di metallo allo stato grezzo. La ruota ad acqua si trova in un canale largo tre metri scavato nel pavimento della stanza, ma che ora è asciutto. Ci sono passaggi che si dirigono a ovest, a sud e a est, ma il canale vuoto esce dalla stanza a nord e a est.*
+>*Più di una dozzina di cadaveri avvizziti giacciono all’interno della stanza. Appartengono ai nani e agli orchi uccisi in battaglia e indossano ancora brandelli delle loro armature. Sopra di essi fluttua un teschio avvolto nelle fiamme verdi.*
 
 Quest’area è sorvegliata da un non morto molto più intelligente: un **teschio infuocato**. Questa creatura era un servitore dei maghi umani alleati con i nani e gli gnomi di Phandelver e continua ad agire secondo le antiche istruzioni ricevute, impedendo a qualsiasi intruso di passare.
 Questa imponente camera era il cuore delle operazioni minerarie della Caverna dell’Onda Tonante. Era qui che i nani fondevano i loro minerali per raffinarli e farne dei lingotti d’oro, d’argento e di platino. Il canale prosciugato veniva alimentato dal torrente dell’area 18, che i nani deviavano per mettere in moto la ruota ad acqua, che a sua volta metteva in funzione il mantice che alimentava la fornace.
+Il canale è profondo 1,5 metri rispetto al pavimento e non è necessaria alcuna prova di caratteristica per entrarvi o uscirne. Un personaggio sul fondo del canale può seguirlo per uscire da questa stanza verso nord o verso est, anche se il soffitto diventa alto solo 1,5 metri una volta che il canale è uscito dalla stanza.
+
+#### W13. Caverna Stellata
+I danni strutturali e i resti scheletrici di quest’area sono la prova della devastante battaglia magica che si combatté qui secoli fa, quando gli orchi e i loro maghi mercenari assaltarono la miniera.
+
+>[!note]- Leggere ad Alta Voce
+>*I minerali luccicanti sul soffitto di questa ampia caverna rifrangono la luce simulando l’effetto di un cielo stellato notturno. Dozzine di scheletri (molti dei quali schiacciati dai detriti caduti) giacciono riversi sul pavimento.*
+>*La caverna è abbastanza grande da ospitare due strutture separate. Ognuno di questi edifici in pietra è stato costruito a misura di umano, a differenza delle porte e dei mobili a misura di nano che avete visto in altre aree delle miniere. Entrambe le strutture mostrano mura annerite e consumate, e le loro doppie porte sono crepate e consumate dalle fiamme.*
+>*La caverna è divisa da una scarpata in cui è stata creata una rampa di scale. I passaggi che escono da quest’area conducono a nord, a sud e a ovest.*
+
+Gli edifici danneggiati sono descritti nelle aree 14 e 15. I minerali nel soffitto sono belli a vedersi, ma non sono magici e non hanno alcun valore.
+Qualsiasi personaggio competente in Arcano può percepire una sottile aura di magia in questa caverna. (Un incantesimo *individuazione del magico* rivela la stessa cosa.) L’aura diventa più forte se ci si avvicina all’edificio a nord (l’area 15).
+
