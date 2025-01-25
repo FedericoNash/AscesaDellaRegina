@@ -87,7 +87,8 @@ Questo era un dormitorio dei minatori. È qui che i più abili scavatori che lav
 >[!note]- Leggere ad Alta Voce
 >*File ordinate di vecchie brandine di pietra corrono lungo questa camera, al cui centro si erge un vecchio braciere di ferro arrugginito pieno di carboni spenti. A terra giacciono le ossa di una mezza dozzina di nani e di orchi, che ancora indossano alcuni frammenti di armatura. Tre figure grigie e ricurve frugano tra i resti, palpeggiando i frammenti e rosicchiando le ossa.*
 
-Tre **ghoul** del branco nell’area 9 si trovano in questa stanza, impegnati a spezzare e rosicchiare le antiche ossa dei caduti nella vana speranza di trovare qualche rimasuglio di midollo. I ghoul, impazienti di cibarsi di carne fresca, attaccano immediatamente.
+Tre **ghoul** del branco nell’area 9 si trovano in questa stanza, impegnati a spezzare e rosicchiare le antiche ossa dei caduti nella vana speranza di trovare qualche rimasuglio di midollo. I ghoul, impazienti di cibarsi di carne fresca, attaccano immediatamente. 
+I rumori del combattimento attirano l'attenzione di altri quattro **ghoul** che arrivano dall'area W9 dopo 2 round. 
 
 ###### Tesoro
 Una delle armature (tipologia a scelta del DM) degli scheletri è ancora in buone condizioni ed è utilizzabile. 
@@ -147,3 +148,12 @@ Come nel caso dell’area 6, anche questa stanza un tempo era un dormitorio dei 
 
 ###### Tesoro
 Il più grosso bugbear porta una borsa che contiene 15 mr, 13 me e una *pozione di vitalità*.
+
+#### W12. Caverna della Fonderia
+Come la caverna dei funghi nell’area 8, questa caverna costituisce un serio ostacolo che impedisce a Nezznar di raggiungere il suo obiettivo, la Forgia degli Incantesimi (area 15). Il drow deve ancora formulare un piano che gli consenta di superare i guardiani non morti presenti in quest’area.
+
+>[!note]- Leggere ad Alta Voce
+>Testo
+
+Quest’area è sorvegliata da un non morto molto più intelligente: un **teschio infuocato**. Questa creatura era un servitore dei maghi umani alleati con i nani e gli gnomi di Phandelver e continua ad agire secondo le antiche istruzioni ricevute, impedendo a qualsiasi intruso di passare.
+Questa imponente camera era il cuore delle operazioni minerarie della Caverna dell’Onda Tonante. Era qui che i nani fondevano i loro minerali per raffinarli e farne dei lingotti d’oro, d’argento e di platino. Il canale prosciugato veniva alimentato dal torrente dell’area 18, che i nani deviavano per mettere in moto la ruota ad acqua, che a sua volta metteva in funzione il mantice che alimentava la fornace.
