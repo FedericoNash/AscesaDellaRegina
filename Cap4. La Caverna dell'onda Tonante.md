@@ -289,4 +289,5 @@ Come avviene lo scontro finale dipende da chi possiede la Mappa Stellare:
 
 >[!note]- Leggere ad Alta Voce
 >La Mappa Stellare nelle tue mani inizia a brillare intensamente di luce lunare e una collana traslucida fatta di polvere di stelle si forma al collo della drow. Gli occhi di smeraldo della statua si illuminano ed essa si alza dal trono, inginocchiandosi di fronte a te.
->Una voce femminile rieccheggia alle vostre spalle: "Molto bravi, complimenti, avete trovato una delle Maschere del Drago." Nezznar, accompagnata da alcuni ragni e bugbear, mentre uno di loro tiene in ostaggio un nano che riconoscete: Facevo bene a non sottovalutarvi, ma adesso è finito il tempo di giocare a fare gli eroi: datemi la maschera altrimenti il nano si trov"
+>Una voce femminile rieccheggia alle vostre spalle: "Molto bravi, complimenti, avete trovato una delle Maschere del Drago." 
+>Nezznar si avvicina verso di voi entrando dalla porta, accompagnata da alcuni giganteschi ragni e bugbear. Uno di loro tiene in ostaggio un nano che riconoscete puntandogli una lama alla gola, e la drow continua: "Facevo bene a non sottovalutarvi, ma adesso è finito il tempo di giocare a fare gli eroi: datemi la maschera senza fare storie o il nano si troverà un bel sorriso gola, come suo fratello." 
