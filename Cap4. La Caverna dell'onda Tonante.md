@@ -76,9 +76,9 @@ Le lanterne e le sculture dei minatori al lavoro avevano in origine lo scopo di 
 Questa sala delle guardie un tempo proteggeva la vicina entrata della miniera, ma fu invasa all’inizio della battaglia, quando gli orchi attaccarono.
 
 >[!note]- Leggere ad Alta Voce
->*Questa stanza è occupata da panche di pietra spaccate e cumuli di detriti caduti da un soffitto parzialmente crollato. Tra le brandine di pietra in rovina e le rastrelliere di armi rovesciate giacciono le ossa di vari nani e orchi.*
+>*Questa stanza è occupata da panche di pietra spaccate e cumuli di detriti caduti da un soffitto parzialmente crollato. Tra le brandine di pietra in rovina e le rastrelliere di armi rovesciate giacciono le ossa di vari nani e orchi. Un odore nauseabondo di putrefazione assale le vostre narici.*
 
-Questa sala è diventata la piccola tana di un vermeiena che sta pasteggiando con le ossa degli orchi e dei nani.
+Questa sala è diventata la piccola tana di un **vermeiena** che sta pasteggiando con le ossa degli orchi e dei nani. Il vermeiena è attaccato al soffitto e cerca di restare nascosto nell'ombra quando entrano i personaggi, effettuando una prova di Destrezza (Furtività) contro il punteggio di Percezione Passiva dei personaggi per attaccarli di sorpresa. Se gli avventurieri hanno con sè una fonte di luce, come una torcia, il vermeiena effettua la prova con svantaggio.
 
 #### W5. Ufficio dei Saggiatori
 I saggiatori della miniera un tempo lavoravano qui, soppesando e valutando i campioni di metallo e pagando gli scavatori per il loro lavoro.
