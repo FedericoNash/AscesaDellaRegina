@@ -258,7 +258,11 @@ I nani deviavano il torrente nel canale che conduceva all’area 12 per attivare
 I servitori di Nezznar che occupano questa caverna hanno il compito di vigilare sulle incursioni dei non morti e di setacciare i detriti. 
 
 >[!note]- Leggere ad Alta Voce
->La metà orientale di questa caverna è occupata da una grossa crepa. Un torrente sgorga dalla parete ovest e si tuffa nella crepa, per poi uscirne sul lato nord. Varie corde assicurate a dei paletti di ferro piantati lungo il bordo ovest della crepa scendono fino al fondo del baratro e diversi corpi di bugbear sono sparsi in questa stanza.
+>*La metà orientale di questa caverna è occupata da una grossa crepa. Un torrente sgorga dalla parete ovest e si tuffa nella crepa, per poi uscirne sul lato nord. Varie corde assicurate a dei paletti di ferro piantati lungo il bordo ovest della crepa scendono fino al fondo del baratro e diversi corpi di bugbear sono sparsi in questa stanza.*
 
+I corpi sono i resti di alcuni bugbear uccisi dai ghoul. In fondo al crepaccio, tuttavia si nascondono due **ragni giganti**, i quali attaccano solo se qualcuno entra nel crepaccio.
+***Crepa***. La crepa è profonda 6 metri. Per entrare o uscire dalla crepa senza usare una corda è necessario effettuare con successo una prova di Forza (Atletica) con CD 10. Una creatura che fallisce la prova di 5 o più cade e subisce 1d6 danni contundenti per ogni 3 metri di caduta, atterrando prona sul fondo.
 
+###### Tesoro
+In fondo al crepaccio, sono presenti diverse ossa e resti
 
