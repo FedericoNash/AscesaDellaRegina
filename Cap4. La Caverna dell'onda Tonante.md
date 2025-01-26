@@ -281,11 +281,11 @@ Come avviene lo scontro finale dipende da chi possiede la Mappa Stellare:
 1. **Se la Mappa Stellare è in possesso di Nezznar,** i personaggi arrivano quando la drow riesce ad entrare in possesso della [[Maschera del Drago Nero]] e ad attivare il Guardiano Protettore, che risponde ai suoi comandi. Dopo aver letto il paragrafo qui sotto, **Nezznar il Ragno Nero** (con metà slot incantesimi e 27 Punti Ferita) e il **guardiano protettore** attaccano.
 
 >[!note]- Leggere ad Alta Voce
->*La Mappa Stellare nella mani del Ragno Nero inizia a brillare intensamente di luce lunare e una collana traslucida fatta di polvere di stelle si forma al collo della drow. Gli occhi di smeraldo della statua si illuminano ed essa si alza dal trono, inginocchiandosi di fronte a Nezznar, che prende la maschera tra le mani e si rivolge a voi con un sorriso crudele:*
+>*La Mappa Stellare nelle mani del Ragno Nero inizia a brillare intensamente di luce lunare e una collana traslucida fatta di polvere di stelle si forma al collo della drow. Gli occhi di smeraldo della statua si illuminano ed essa si alza dal trono, inginocchiandosi di fronte a Nezznar, che prende la maschera tra le mani e si rivolge a voi con un sorriso crudele:*
 > *"E' un vero peccato, ci siete andati così vicini. Finalmente il nostro piano può cominciare, Arkhan sarà fiero di me. Ed anche di voi, non ce l'avrei fatta senza di voi, dunque è giusto che vi meritiate un premio anche voi: un bel riposo... eterno." *
 > *Punta il dito contro di voi e si lascia andare ad una risata malefica, mentre il guardiano batte i pugni e si prepara ad attaccare.*
 
-2. **Se la Mappa Stellare è in possesso dei personaggi**, i personaggi arrivano prima di Nezznar, la quale arriva accompagnata da due **bugbear** e quattro **ragni giganti**. Se è ancora vivo anche il **doppleganger** Monteith si unisce al gruppo camuffato da bugbear. Non appena il possessore della Mappa Stellare arriva a 3 metri dalla statua, leggi:
+2. **Se la Mappa Stellare è in possesso dei personaggi**, i personaggi arrivano prima di Nezznar, la quale arriva accompagnata da due **bugbear** e quattro **ragni giganti**. Se è ancora vivo anche il **doppleganger** Monteith si unisce al gruppo camuffato da Nundro. Non appena il possessore della Mappa Stellare arriva a 3 metri dalla statua, leggi:
 
 >[!note]- Leggere ad Alta Voce
->Testo
+>La Mappa Stellare nelle tue mani inizia a brillare intensamente di luce lunare e una collana traslucida fatta di polvere di stelle si forma al collo della drow. Gli occhi di smeraldo della statua si illuminano ed essa si alza dal trono, inginocchiandosi di fronte a te
