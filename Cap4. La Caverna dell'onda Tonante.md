@@ -264,5 +264,11 @@ I corpi sono i resti di alcuni bugbear uccisi dai ghoul. In fondo al crepaccio, 
 ***Crepa***. La crepa è profonda 6 metri. Per entrare o uscire dalla crepa senza usare una corda è necessario effettuare con successo una prova di Forza (Atletica) con CD 10. Una creatura che fallisce la prova di 5 o più cade e subisce 1d6 danni contundenti per ogni 3 metri di caduta, atterrando prona sul fondo.
 
 ###### Tesoro
-In fondo al crepaccio, sono presenti diverse ossa e resti, tra cui sono presenti una pozione di guarigione superiore ed un capello 
+In fondo al crepaccio, sono presenti diverse ossa e resti, tra cui sono presenti una *pozione di guarigione superiore* ed un *capello della magia accademica*.
+
+W19. Tempio di Dumathoin
+Nezznar usa questa stanza come quartier generale mentre
+esplora la miniera alla ricerca della Forgia degli Incantesimi.
+Se gli occupanti della stanza non sapevano che i personaggi
+stanno arrivando, il DM aggiunge quanto segue:
 
