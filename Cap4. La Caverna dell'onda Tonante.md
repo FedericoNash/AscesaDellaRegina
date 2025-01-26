@@ -266,13 +266,12 @@ I corpi sono i resti di alcuni bugbear uccisi dai ghoul. In fondo al crepaccio, 
 ###### Tesoro
 In fondo al crepaccio, sono presenti diverse ossa e resti, tra cui sono presenti una *pozione di guarigione superiore* ed un *capello della magia accademica*.
 
-#### W19. Sala del Drago
+#### W19. Sala del Protettore
 Nezznar usa questa stanza come quartier generale mentre esplora la miniera alla ricerca della Forgia degli Incantesimi.
 
 >[!note]- Leggere ad Alta Voce
 >*Sei colonne di marmo screpolate si ergono lungo le pareti di questa sala. All’estremità nord si erge la statua di un nano seduto su un trono che tiene un grosso martello da guerra di pietra sulle ginocchia. La statua è alta quasi tre metri, i suoi occhi sono costituiti da due scintillanti smeraldi e sul capo porta una liscia maschera di ebano, munita di corna il cui viso ricorda uno scheletro.*
 >*La polvere e i detriti che ricoprivano il pavimento sono stati spazzati da un lato e un accampamento è stato allestito davanti alla statua. Una mezza dozzina di giacigli e di zaini sono stati meticolosamente disposti attorno a un falò improvvisato. Un tavolo di legno è posizionato sul lato ovest della stanza, tra due colonne.*
 
-Se gli occupanti della stanza non sapevano che i personaggi
-stanno arrivando, il DM aggiunge quanto segue:
+***Statua***. La statua raffigura Dumathoin, il dio nanico dei minatori. Qualsiasi personaggio che possieda competenza in Religione riconosce la divinità. La statua è magnificamente scolpita e i suoi occhi di smeraldo sembrano estremamente preziosi. In realtà i gioielli sono dei falsi di ottima fattura e non sono altro che due pezzi di vetro senza valore, come un esame più ravvicinato e una prova di Intelligenza (Indagare) con CD 15 effettuata con successo può rivelare. Nonostante questo, sono protetti da una potente magia e un incantesimo individuazione del magico rivela una forte aura di abiurazione che avvolge la statua. La statua in realtà è un **guardiano protettore** sopito, il cui compito attuale è quello di proteggere la [[Maschera del Drago Nero]] da chiunque, eccetto il portato
 
