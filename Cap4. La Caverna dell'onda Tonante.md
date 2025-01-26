@@ -98,7 +98,7 @@ Questo era un dormitorio dei minatori. È qui che i più abili scavatori che lav
 >*File ordinate di vecchie brandine di pietra corrono lungo questa camera, al cui centro si erge un vecchio braciere di ferro arrugginito pieno di carboni spenti. A terra giacciono le ossa di una mezza dozzina di nani e di orchi, che ancora indossano alcuni frammenti di armatura. Tre figure grigie e ricurve frugano tra i resti, palpeggiando i frammenti e rosicchiando le ossa.*
 
 Tre **ghoul** del branco nell’area 9 si trovano in questa stanza, impegnati a spezzare e rosicchiare le antiche ossa dei caduti nella vana speranza di trovare qualche rimasuglio di midollo. I ghoul, impazienti di cibarsi di carne fresca, attaccano immediatamente. 
-I rumori del combattimento attirano l'attenzione di altri due **ghoul** che arrivano dall'area W9 dopo 2 round. 
+I rumori del combattimento attirano l'attenzione degli altri **ghoul** che arrivano dall'area W9 dopo 2 round. 
 
 ###### Tesoro
 Una delle armature (tipologia a scelta del DM) degli scheletri è ancora in buone condizioni ed è utilizzabile. 
@@ -127,7 +127,7 @@ Questa caverna un tempo fungeva da sala dei banchetti, area di incontri e sala d
 >[!note]- Leggere ad Alta Voce
 >*Due ripide scarpate dividono questa grande caverna in tre sezioni, delimitate da alte terrazze alle estremità e una sezione più bassa al centro. Due scalinate di pietra scolpita salgono fino alle terrazze. Due grossi tavoli sono stati collocati nella sezione centrale, assieme a un paio di vecchi bracieri. Un tavolo più piccolo è situato sulla terrazza est. I resti scheletrici di dozzine di combattenti (nani, gnomi, orchi e ogre) sono una muta testimonianza dello scontro feroce di cui fu teatro questo luogo molto tempo fa.*
 
-Cinque **ghoul** si annidano sulla terrazza ovest, nascosti tra le ombre. Notano le eventuali luci o rumori negli altri punti della caverna e balzano giù rapidamente per attaccare. I non morti sono affamati e combattono fino alla distruzione. 
+Cinque **ghoul** si annidano sulla terrazza ovest, nascosti tra le ombre, mentre mangiano i resti dei bugbear dell'area W11. Notano le eventuali luci o rumori negli altri punti della caverna e balzano giù rapidamente per attaccare. I non morti sono affamati e combattono fino alla distruzione. 
 Le scarpate sono alte 3 metri e per scalarle è necessario effettuare con successo una prova di Forza (Atletica) con CD 12. Una creatura che cade o viene spinta giù dalla scarpata subisce 1d6 danni contundenti e atterra prona.
 
 #### W10. Pozza Oscura
@@ -153,7 +153,7 @@ Se il gruppo entra da ovest, il DM aggiunge:
 >[!note]- Leggere ad Alta Voce
 >*Sul lato opposto della stanza è visibile un’altra porta, bloccata da una barricata ricavata dai resti di un tavolo di legno*
 
-Cinque **bugbear** risiedono in questa camera. Sono i fedeli servitori di Nezznar. Questa camera costituisce la prima linea dell’assalto del Ragno Nero alla Caverna dell’Onda Tonante e i bugbear sono qui per evitare che i ghoul, gli zombi o gli altri non morti disturbino il loro padrone nella sua tana (area 19).
+Due **bugbear** risiedono in questa camera, mentre si rifugiano qui e fanno da guardia a Nundro. Sono i fedeli servitori di Nezznar. Questa camera costituisce la prima linea dell’assalto del Ragno Nero alla Caverna dell’Onda Tonante, ma i bugbear sono qui per rifugiarsi dai ghoul, gli zombi o gli altri non morti che hanno massacrato gli altri bugbear.
 Come nel caso dell’area 6, anche questa stanza un tempo era un dormitorio dei minatori. I bugbear di Nezznar hanno rimosso i cadaveri che hanno trovato all’interno e hanno eretto la barricata.
 
 ###### Tesoro
