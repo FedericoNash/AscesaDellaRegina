@@ -311,4 +311,6 @@ La porta di questa stanza è chiusa a chiave. Per aprirla è necessario usare de
 >*Dei tendaggi polverosi coprono le pareti di questa stanza, che contiene anche un letto e un braciere. Diversi libri ricoperti di polvere sono sparsi per la stanza.*
 
 ###### Tesoro
-Uno dei libri impolverati racconta la leggenda di Lady Tanamere Alagondar, una discendente dell'antica famiglia reale di Neverwinter. The request is not authorized because credentials are missing or invalid.
+Uno dei libri impolverati racconta la leggenda di Lady Tanamere Alagondar, una discendente dell'antica famiglia reale di Neverwinter. Il libro racconta che era un'avventuriera senza paura, famosa per brandire una lunga *spada ammazzadraghi*, e di come lei, insieme a due gruppi di avventurieri, combatté e uccise un drago verde di nome Azdraka che terrorizzava la Strada Alta.
+Dopo essere stata ferita mortalmente in battaglia, il suo ultimo desiderio era che lei e i suoi compatrioti caduti venissero sepolti con il cadavere di Azdraka in un tumulo vicino a dove il drago è caduto. Il colle venne creato nella forma di un drago in volo, e così divenne nota come Colle del Drago. 
+Nell'u
