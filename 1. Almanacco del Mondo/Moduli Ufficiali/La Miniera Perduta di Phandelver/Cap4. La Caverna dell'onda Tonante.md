@@ -302,7 +302,7 @@ Nezznar porta con sé una *pozione di guarigione* e un *bastone del ragno*. Espl
 ###### Sviluppi
 Le creature nell’area W16 possono sentire i rumori di un eventuale combattimento in questa stanza. Se non sono già state neutralizzate, arrivano dopo 3 round e agiscono immediatamente dopo i ragni giganti di Nezznar nell’ordine di iniziativa.
 Se i personaggi riducono Nezznar a meno di un quarto dei Punti Ferita, la drow all'inizio del suo prossimo turno inveisce contro i personaggi e cerca di fuggire lanciando *porta dimensionale*.
-Se i personaggi catturano Nezznar e lo portano alla villa del borgomastro a Phandalin, il drow viene tenuto sottochiave finché Sildar Hallwinter o un altro rappresentante dell’Alleanza dei Lord non arriva a scortarlo fino a Neverwinter, dove sarà interrogato e processato. Tuttavia, se i personaggi non piazzano delle guardie al di fuori della cella di Nezznar, Halia Thornton (vedi pagina 17) lo fa evadere di prigione, lo conduce di nascosto fuori da Phandalin.
+Se i personaggi catturano Nezznar e lo portano alla villa del borgomastro a Phandalin, il drow viene tenuto sottochiave finché Sildar Hallwinter o un altro rappresentante dell’Alleanza dei Lord non arriva a scortarlo fino a Neverwinter, dove sarà interrogato e processato. Tuttavia, se i personaggi non piazzano delle guardie al di fuori della cella di Nezznar, Favric (vedi pagina 17) lo fa evadere di prigione, lo conduce di nascosto fuori da Phandalin.
 
 #### W20. Alloggi dei Sacerdoti
 La porta di questa stanza è chiusa a chiave. Per aprirla è necessario usare degli arnesi da scasso ed effettuare con successo una prova di Destrezza con CD 15. La chiave si trova su uno dei tavoli della Forgia (area W15).

@@ -61,26 +61,32 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Cap3. La Tela del Ragno",
+                  "title": "Cap4. La Caverna dell'onda Tonante",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap3. La Tela del Ragno\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":117,\"ch\":127},\"to\":{\"line\":117,\"ch\":127}},\"scroll\":160.1682252284184}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap4. La Caverna dell'onda Tonante.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap4. La Caverna dell'onda Tonante\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":304,\"ch\":455},\"to\":{\"line\":304,\"ch\":455}},\"scroll\":222.9313724742338}"
                 },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Cap4. La Caverna dell'onda Tonante",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap4. La Caverna dell'onda Tonante.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap4. La Caverna dell'onda Tonante\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":315,\"ch\":288},\"to\":{\"line\":315,\"ch\":288}},\"scroll\":295.90215098021764}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap4. La Caverna dell'onda Tonante.md",
+                "file": "1. Almanacco del Mondo/Forgotten Realms/Faerun/Phandalin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cap4. La Caverna dell'onda Tonante"
+              "title": "Phandalin"
             }
           },
           {
@@ -900,13 +906,13 @@
   },
   "active": "c0db7366c13b49a1",
   "lastOpenFiles": [
+    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap4. La Caverna dell'onda Tonante.md",
+    "1. Almanacco del Mondo/Forgotten Realms/Faerun/Phandalin.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md",
-    "Cap4. La Caverna dell'onda Tonante.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap0. Introduzione.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap1. Le Frecce dei Goblin.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap2. I Marchi Rossi.md",
     "z_Allegati/Misc/048-map-4.01-wave-echo-cave-1.webp",
-    "1. Almanacco del Mondo/Forgotten Realms/Faerun/Phandalin.md",
     "z_Allegati/Misc/044-map-3.04-cragmaw-castle-1.webp",
     "z_Allegati/Misc/043-03-008.map303-wyvern-tor-1.webp",
     "z_Allegati/Misc/036-03-003.map301-old-owl-well-1.webp",

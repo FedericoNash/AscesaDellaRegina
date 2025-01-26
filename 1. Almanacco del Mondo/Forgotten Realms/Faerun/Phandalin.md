@@ -40,7 +40,7 @@ Placeholder
 - **Toblen Stonehill:** Locandiere
 - **Elmar Barthen:** Proprietario di un avamposto commerciale; deve dei soldi al gruppo, se è stato usato l’aggancio per l’avventura “Ci Vediamo a Phandalin”.
 - **Falco il Cacciatore:** Membro dell'Ordine del Guanto d'Arme. Proprietario della Loggia di Caccia. Conosce la posizione del Castello Cragmaw. 
-- **Linene Graywind:** Gestisce un avamposto commerciale e offre una ricompensa a chi recupera le sue provviste.
+- **Linene Graywind:** Membro dei Figli del Dragone. Gestisce un avamposto commerciale e offre una ricompensa a chi recupera le sue provviste.
 - **Halia Thornton**: Membro degli Zhentarim. Ha una missione per il gruppo (Missione Eliminare Iarno).
 - **Qelline Alderleaf**: Premurosa contadina halfling il cui figlio, Carp, conosce un passaggio segreto che conduce al nascondiglio dei Marchi Rossi. Sa che Falco potrebbe conoscere la posizione del Castello Cragmaw.
 - **Sorella Garaele:** Elfa chierica di Tymora e agente degli Arpisti. Ha una missione per il gruppo(Missione della Collina dell'Onta).

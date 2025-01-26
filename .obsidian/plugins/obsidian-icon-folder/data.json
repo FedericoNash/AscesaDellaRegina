@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🌊",
       "🕷",
       "❗",
       "🧢",
-      "🏹",
-      "🌟"
+      "🏹"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap0. Introduzione.md": "🌟",
   "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap1. Le Frecce dei Goblin.md": "🏹",
   "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap2. I Marchi Rossi.md": "❗",
-  "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md": "🕷"
+  "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md": "🕷",
+  "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap4. La Caverna dell'onda Tonante.md": "🌊"
 }
