@@ -146,7 +146,7 @@ Lo scheletro indossa due anelli di platino (75 mo ciascuno) e stringe tra le dit
 La porta est è barricata dall’interno e per aprirla con la forza è necessario superare una prova di Forza con CD 20. Un personaggio che origlia a una delle due porte e supera una prova di Saggezza (Percezione) con CD 10 sente delle voci rauche che parlano in Goblin e affermano di essere affamate.
 
 >[!note]- Leggere ad Alta Voce
->*Lungo le pareti di questo dormitorio, riscaldato e illuminato da un braciere di ferro fiammeggiante al centro della stanza, sono state allineate varie brandine di pietra.*
+>*Lungo le pareti di questo dormitorio, riscaldato e illuminato da un braciere di ferro fiammeggiante al centro della stanza, sono state allineate varie brandine di pietra. Un nano in pessime condizioni giace legato e privo di sensi sul freddo pavimento di pietra.*
 
 Se il gruppo entra da ovest, il DM aggiunge:
 
@@ -155,9 +155,13 @@ Se il gruppo entra da ovest, il DM aggiunge:
 
 Due **bugbear** risiedono in questa camera, mentre si rifugiano qui e fanno da guardia a Nundro. Sono i fedeli servitori di Nezznar. Questa camera costituisce la prima linea dell’assalto del Ragno Nero alla Caverna dell’Onda Tonante, ma i bugbear sono qui per rifugiarsi dai ghoul, gli zombi o gli altri non morti che hanno massacrato gli altri bugbear.
 Come nel caso dell’area 6, anche questa stanza un tempo era un dormitorio dei minatori. I bugbear di Nezznar hanno rimosso i cadaveri che hanno trovato all’interno e hanno eretto la barricata.
+La figura che giace sul pavimento è Nundro, un nano **popolano** e il più giovane dei tre fratelli Rockseeker. Nezznar lo ha risparmiato perché credeva che il nano potesse sapere più cose sulla miniera di quante non volesse ammettere. Il drow ha interrogato brutalmente Nundro una volta o due al giorno da quando lo ha catturato.
 
 ###### Tesoro
 Il più grosso bugbear porta una borsa che contiene 15 mr, 13 me e una *pozione di vitalità*.
+
+###### Sviluppi
+Se gli avventurieri salvano Nundro, il nano dimostra la sua gratitudine e si offre di accompagnarli per il resto della loro permanenza nella Caverna dell’Onda Tonante. Se Gundren è con i personaggi, si offre di portare Nundro via dalla miniera. Nundro non sa più di quanto già non sappiano i personaggi, quindi non ha molto da offrire al gruppo in termini di informazioni utili. 
 
 #### W12. Caverna della Fonderia
 Come la caverna dei funghi nell’area 8, questa caverna costituisce un serio ostacolo che impedisce a Nezznar di raggiungere il suo obiettivo, la Forgia degli Incantesimi (area 15). Il drow deve ancora formulare un piano che gli consenta di superare i guardiani non morti presenti in quest’area.
