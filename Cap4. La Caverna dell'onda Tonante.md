@@ -2,8 +2,8 @@
 Nezznar è già all'interno della Caverna e sta cercando la Sala del Drago, ma come avviene lo scontro finale dipende da chi possiede la Mappa Stellare. 
 La Mappa Stellare funge da chiave per la porta e funge da indizio per l'enigma della statua.
 Il DM usa una clessidra da 5 minuti per determinare se Nezznar riesce a entrare nel tempio mentre i personaggi esplorano la Caverna dell'Onda Tonante. Ogni volta che passano 10 minuti, il DM tira un d10 (la clessidra viene interrotta durante i combattimenti): su un risultato da 1 a 9 non succede nulla, se il risultato è 10, Nezznar riesce a risolvere un enigma, ottenendo così un potenziamento al suo statblock (ad esempio, i suoi attacchi effettuano un 1d6 danni da forza extra), i personaggi allora avvertono un forte tremore che si espande in tutta la caverna ed il drow continua all'enigma successivo: 
-- **Se la Mappa Stellare è in possesso di Nezznar,** i personaggi arrivano quando la drow riesce a superare il Guardiano della Sala che risponde ai suoi comandi ed entra in possesso della [[Maschera del Drago Nero]]. 
-- **Se la Mappa Stellare è in possesso dei personaggi**, Nezznar ha due opzioni:
+- **Se la Mappa Stellare è in possesso di Nezznar,** i personaggi arrivano quando la drow riesce ad aprire le porte della Sala e ad attivare il Guardiano Protettore, che risponde ai suoi comandi ed entra in possesso della [[Maschera del Drago Nero]]. 
+- **Se la Mappa Stellare è in possesso dei personaggi**, i personaggi arrivano prima di Nezznar, la quale ha due opzioni:
 1. Nascondersi con *invisibilità superiore* e tendere un agguato ai personaggi quando arrivano davanti alla Sala.
 2. Cercare di superare lo stesso il Guardiano, magari mandando un ragno o un bugbear a prendere la maschera, attivando così l'incantesimo custodito all'interno del Guardiano che colpirà la drow.
 
