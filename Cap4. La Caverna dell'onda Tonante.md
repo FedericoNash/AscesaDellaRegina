@@ -266,9 +266,13 @@ I corpi sono i resti di alcuni bugbear uccisi dai ghoul. In fondo al crepaccio, 
 ###### Tesoro
 In fondo al crepaccio, sono presenti diverse ossa e resti, tra cui sono presenti una *pozione di guarigione superiore* ed un *capello della magia accademica*.
 
-W19. Tempio di Dumathoin
-Nezznar usa questa stanza come quartier generale mentre
-esplora la miniera alla ricerca della Forgia degli Incantesimi.
+#### W19. Sala del Drago
+Nezznar usa questa stanza come quartier generale mentre esplora la miniera alla ricerca della Forgia degli Incantesimi.
+
+>[!note]- Leggere ad Alta Voce
+>*Sei colonne di marmo screpolate si ergono lungo le pareti di questa sala. All’estremità nord si erge la statua di un nano seduto su un trono che tiene un grosso martello da guerra di pietra sulle ginocchia. La statua è alta quasi tre metri, i suoi occhi sono costituiti da due scintillanti smeraldi e sul capo porta una liscia maschera di ebano, munita di corna il cui viso ricorda uno scheletro.*
+>*La polvere e i detriti che ricoprivano il pavimento sono stati spazzati da un lato e un accampamento è stato allestito davanti alla statua. Una mezza dozzina di giacigli e di zaini sono stati meticolosamente disposti attorno a un falò improvvisato. Un tavolo di legno è posizionato sul lato ovest della stanza, tra due colonne.*
+
 Se gli occupanti della stanza non sapevano che i personaggi
 stanno arrivando, il DM aggiunge quanto segue:
 
