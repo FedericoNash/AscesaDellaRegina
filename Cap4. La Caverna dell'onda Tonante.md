@@ -286,7 +286,7 @@ Come avviene lo scontro finale dipende da chi possiede la Mappa Stellare:
 > *"E' un vero peccato, ci siete andati così vicini. Finalmente una delle Maschere del Drago è mia, ora il nostro piano può cominciare, Arkhan sarà fiero di me. Ed anche di voi, non ce l'avrei fatta senza di voi, dunque è giusto che vi meritiate un premio anche voi: un bel riposo... eterno." *
 > *Punta il dito contro di voi e si lascia andare ad una risata malefica, mentre il guardiano batte i pugni e si prepara ad attaccare.*
 
-2. **Se la Mappa Stellare è in possesso dei personaggi**, i personaggi arrivano prima di Nezznar, la quale arriva accompagnata da due **bugbear** e quattro **ragni giganti**. Se è ancora vivo anche il **doppleganger** Monteith si unisce al gruppo camuffato da Nundro. Non appena il possessore della Mappa Stellare arriva a 3 metri dalla statua, leggi:
+2. **Se la Mappa Stellare è in possesso dei personaggi**, i personaggi arrivano prima di Nezznar, la quale arriva con tutti gli slot incantesimi, tutti i punti ferita ed accompagnata da due **bugbear** e quattro **ragni giganti**. Se è ancora vivo anche il **doppleganger** Monteith si unisce al gruppo camuffato da Nundro. Non appena il possessore della Mappa Stellare arriva a 3 metri dalla statua, leggi:
 
 >[!note]- Leggere ad Alta Voce
 >*La Mappa Stellare nelle tue mani inizia a brillare intensamente di luce lunare e una collana traslucida fatta di polvere di stelle si forma al collo della drow. Gli occhi di smeraldo della statua si illuminano ed essa si alza dal trono, inginocchiandosi di fronte a te, porgendoti la testa.*
@@ -294,4 +294,23 @@ Come avviene lo scontro finale dipende da chi possiede la Mappa Stellare:
 >*Nezznar si avvicina verso di voi entrando dalla porta, accompagnata da alcuni giganteschi ragni e bugbear. Uno di loro tiene in ostaggio un nano, che riconoscete essere Nundro, puntandogli una lama alla gola, e la drow continua: "Facevo bene a non sottovalutarvi, ma adesso è finito il tempo di giocare a fare gli eroi: datemi la maschera senza fare storie o il nano si troverà un bel sorriso gola, come suo fratello." *
 
 Il doppelganger dell’area 16 si è ritirato in quest’area, assume l’aspetto di Nundro Rockseeker in modo che Nezznar possa usare il “nano” come arma di ricatto per obbligare il gruppo ad arrendersi (anche se il drow non arriverà a fare veramente del male al doppelganger). 
-Se i personaggi hanno liberato Nundro dall'area W11, possono notare superando una prova di Saggezza (Percezione o Intuizione) con CD 12che i vestiti del nano non coincidono con quelli di quando lo hanno liberato.
+Se i personaggi hanno liberato Nundro dall'area W11, possono notare superando una prova di Saggezza (Percezione o Intuizione) con CD 10, che i vestiti del nano non coincidono con quelli di quando lo hanno liberato.
+
+###### Tesoro
+Nezznar porta con sé una *pozione di guarigione* e un *bastone del ragno*. Esplorando la Caverna dell’Onda Tonante, Nezznar ha recuperato alcuni tesori, che custodisce nel sacchetto sul tavolo di legno. Il sacchetto contiene 190 me, 130 mo, 15 mp, nove piccole gemme (10 mo ciascuna) e un boccale da birra nanico fatto in electrum lavorato (100 mo).
+
+###### Sviluppi
+Le creature nell’area W16 possono sentire i rumori di un eventuale combattimento in questa stanza. Se non sono già state neutralizzate, arrivano dopo 3 round e agiscono immediatamente dopo i ragni giganti di Nezznar nell’ordine di iniziativa.
+In ogni combatt
+Se i personaggi catturano Nezznar e lo portano alla
+villa del borgomastro a Phandalin, il drow viene tenuto
+sottochiave finché Sildar Hallwinter o un altro rappresentante
+dell’Alleanza dei Lord non arriva a scortarlo fino a
+Neverwinter, dove sarà interrogato e processato. Tuttavia, se
+i personaggi non piazzano delle guardie al di fuori della cella
+di Nezznar, Halia Thornton (vedi pagina 17) lo fa evadere
+di prigione, lo conduce di nascosto fuori da Phandalin e lo
+consegna agli Zhentarim, che lo attendono a braccia aperte.
+Gli Zhent vogliono sapere tutto ciò che il Ragno Nero conosce
+riguardo alla Caverna dell’Onda Tonante. Ciò che accade a
+Nezznar da lì in poi dipende dal DM.
