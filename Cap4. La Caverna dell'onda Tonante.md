@@ -264,5 +264,5 @@ I corpi sono i resti di alcuni bugbear uccisi dai ghoul. In fondo al crepaccio, 
 ***Crepa***. La crepa è profonda 6 metri. Per entrare o uscire dalla crepa senza usare una corda è necessario effettuare con successo una prova di Forza (Atletica) con CD 10. Una creatura che fallisce la prova di 5 o più cade e subisce 1d6 danni contundenti per ogni 3 metri di caduta, atterrando prona sul fondo.
 
 ###### Tesoro
-In fondo al crepaccio, sono presenti diverse ossa e resti
+In fondo al crepaccio, sono presenti diverse ossa e resti, tra cui sono presenti una pozione di guarigione superiore ed un capello 
 
