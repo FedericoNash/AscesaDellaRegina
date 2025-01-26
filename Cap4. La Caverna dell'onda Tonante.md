@@ -275,6 +275,7 @@ Nezznar usa questa stanza come quartier generale mentre esplora la miniera alla 
 
 ***Statua***. La statua raffigura Dumathoin, il dio nanico dei minatori. Qualsiasi personaggio che possieda competenza in Religione riconosce la divinità. La statua è magnificamente scolpita e i suoi occhi di smeraldo sembrano estremamente preziosi. In realtà i gioielli sono dei falsi di ottima fattura e non sono altro che due pezzi di vetro senza valore, come un esame più ravvicinato e una prova di Intelligenza (Indagare) con CD 15 effettuata con successo può rivelare. Nonostante questo, sono protetti da una potente magia e un incantesimo individuazione del magico rivela una forte aura di abiurazione che avvolge la statua. La statua in realtà è un **guardiano protettore** sopito, il cui compito attuale è quello di proteggere la [[Maschera del Drago Nero]] ed attacca chiunque si avvicini, eccetto il possessore della Mappa Stellare.
 Una creatura in possesso può comandare il guardiano protettore, ma solo all'interno della Caverna dell'Onda Tonante (purtroppo la magia che legava il protettore alla Mappa si indebolita nei secoli).
+***Tavolo***. Il tavolo è ricoperto di mappe e appunti stilati da Nezznar nel tentativo di esplorare la miniera. In mezzo alle scartoffie è nascosto un sacchetto di cuoio nero che contiene un tesoro (vedi la sezione “Tesoro”).
 
 ##### Scontro Finale
 Come avviene lo scontro finale dipende da chi possiede la Mappa Stellare:
@@ -288,6 +289,8 @@ Come avviene lo scontro finale dipende da chi possiede la Mappa Stellare:
 2. **Se la Mappa Stellare è in possesso dei personaggi**, i personaggi arrivano prima di Nezznar, la quale arriva accompagnata da due **bugbear** e quattro **ragni giganti**. Se è ancora vivo anche il **doppleganger** Monteith si unisce al gruppo camuffato da Nundro. Non appena il possessore della Mappa Stellare arriva a 3 metri dalla statua, leggi:
 
 >[!note]- Leggere ad Alta Voce
->La Mappa Stellare nelle tue mani inizia a brillare intensamente di luce lunare e una collana traslucida fatta di polvere di stelle si forma al collo della drow. Gli occhi di smeraldo della statua si illuminano ed essa si alza dal trono, inginocchiandosi di fronte a te.
->Una voce femminile rieccheggia alle vostre spalle: "Molto bravi, complimenti, avete trovato una delle Maschere del Drago." 
->Nezznar si avvicina verso di voi entrando dalla porta, accompagnata da alcuni giganteschi ragni e bugbear. Uno di loro tiene in ostaggio un nano che riconoscete puntandogli una lama alla gola, e la drow continua: "Facevo bene a non sottovalutarvi, ma adesso è finito il tempo di giocare a fare gli eroi: datemi la maschera senza fare storie o il nano si troverà un bel sorriso gola, come suo fratello." 
+>*La Mappa Stellare nelle tue mani inizia a brillare intensamente di luce lunare e una collana traslucida fatta di polvere di stelle si forma al collo della drow. Gli occhi di smeraldo della statua si illuminano ed essa si alza dal trono, inginocchiandosi di fronte a te, porgendoti la testa.*
+>*Una voce femminile rieccheggia alle vostre spalle: "Molto bravi, complimenti, avete trovato una delle Maschere del Drago." *
+>*Nezznar si avvicina verso di voi entrando dalla porta, accompagnata da alcuni giganteschi ragni e bugbear. Uno di loro tiene in ostaggio un nano, che riconoscete essere Nundro, puntandogli una lama alla gola, e la drow continua: "Facevo bene a non sottovalutarvi, ma adesso è finito il tempo di giocare a fare gli eroi: datemi la maschera senza fare storie o il nano si troverà un bel sorriso gola, come suo fratello." *
+
+Il doppelganger dell’area 16 si è ritirato in quest’area, assume l’aspetto di Nundro Rockseeker in modo che Nezznar possa usare il “nano” come arma di ricatto per obbligare il gruppo ad arrendersi (anche se il drow non arriverà a fare veramente del male al doppelganger).
