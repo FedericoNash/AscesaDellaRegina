@@ -312,5 +312,5 @@ La porta di questa stanza è chiusa a chiave. Per aprirla è necessario usare de
 
 ###### Tesoro
 Uno dei libri impolverati racconta la leggenda di Lady Tanamere Alagondar, una discendente dell'antica famiglia reale di Neverwinter. Il libro racconta che era un'avventuriera senza paura, famosa per brandire una lunga *spada ammazzadraghi*, e di come lei, insieme a due gruppi di avventurieri, combatté e uccise un drago verde di nome Azdraka che terrorizzava la Strada Alta.
-Dopo essere stata ferita mortalmente in battaglia, il suo ultimo desiderio era che lei e i suoi compatrioti caduti venissero sepolti con il cadavere di Azdraka in un tumulo vicino a dove il drago è caduto. Il colle venne creato nella forma di un drago in volo, e così divenne nota come Colle del Drago. 
-Nell'u
+Dopo essere stata ferita mortalmente in battaglia, il suo ultimo desiderio era che lei e i suoi compatrioti caduti venissero sepolti con il cadavere di Azdraka in un tumulo vicino a dove il drago è caduto, insieme alle sue armi. Il colle venne creato nella forma di un drago in volo, e così divenne nota come Colle del Drago. 
+I personaggi possono notare, superando una prova di Intelligenza (Indagare) con CD 12, che cucita sulla copertina finale si trova un mappa che indica l'ubicazione di Colle del Drago.
