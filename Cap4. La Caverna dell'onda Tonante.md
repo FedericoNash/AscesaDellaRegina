@@ -5,7 +5,7 @@ Il DM usa una clessidra da 5 minuti per determinare se Nezznar riesce a entrare 
 - **Se la Mappa Stellare è in possesso di Nezznar,** i personaggi arrivano quando la drow riesce a superare il Guardiano della Sala che risponde ai suoi comandi ed entra in possesso della [[Maschera del Drago Nero]]. 
 - **Se la Mappa Stellare è in possesso dei personaggi**, Nezznar ha due opzioni:
 1. Nascondersi con *invisibilità superiore* e tendere un agguato ai personaggi quando arrivano davanti alla Sala.
-2. Cercare di superare lo stesso il Guardiano, magari mandando un ragno o un bugbear
+2. Cercare di superare lo stesso il Guardiano, magari mandando un ragno o un bugbear a prendere la maschera, 
 
 
 # Mostri Erranti
