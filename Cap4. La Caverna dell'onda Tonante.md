@@ -2,7 +2,7 @@
 Nezznar è già all'interno della Caverna e sta cercando la Sala del Drago, ma come avviene lo scontro finale dipende da chi possiede la Mappa Stellare. 
 La Mappa Stellare funge da chiave per la porta e funge da indizio per l'enigma della statua.
 Il DM usa una clessidra da 5 minuti per determinare se Nezznar riesce a entrare nel tempio mentre i personaggi esplorano la Caverna dell'Onda Tonante. Ogni volta che passano 10 minuti, il DM tira un d10 (la clessidra viene interrotta durante i combattimenti): su un risultato da 1 a 9 non succede nulla, se il risultato è 10, Nezznar riesce a risolvere un enigma, ottenendo così un potenziamento al suo statblock (ad esempio, i suoi attacchi effettuano un 1d6 danni da forza extra), i personaggi allora avvertono un forte tremore che si espande in tutta la caverna: 
-- **Se la Mappa Stellare è in possesso di Nezznar,** i personaggi arrivano quando la drow riesce ad aprire le porte della Sala e ad attivare il Guardiano Protettore, che risponde ai suoi comandi ed entra in possesso della [[Maschera del Drago Nero]]. 
+- **Se la Mappa Stellare è in possesso di Nezznar,** i personaggi arrivano quando la drow riesce ad aprire le porte della Sala, ad entrare in possesso della [[Maschera del Drago Nero]] e ad attivare il Guardiano Protettore, che risponde ai suoi comandi. 
 - **Se la Mappa Stellare è in possesso dei personaggi**, i personaggi arrivano prima di Nezznar, la quale ha due opzioni:
 	1. Nascondersi con *invisibilità superiore* e tendere un agguato ai personaggi quando arrivano davanti alla Sala.
 	2. Cercare di superare lo stesso il Guardiano, magari mandando un ragno o un bugbear a prendere la maschera, attivando così l'incantesimo custodito all'interno del Guardiano che colpirà la drow.
@@ -275,4 +275,12 @@ Nezznar usa questa stanza come quartier generale mentre esplora la miniera alla 
 
 ***Statua***. La statua raffigura Dumathoin, il dio nanico dei minatori. Qualsiasi personaggio che possieda competenza in Religione riconosce la divinità. La statua è magnificamente scolpita e i suoi occhi di smeraldo sembrano estremamente preziosi. In realtà i gioielli sono dei falsi di ottima fattura e non sono altro che due pezzi di vetro senza valore, come un esame più ravvicinato e una prova di Intelligenza (Indagare) con CD 15 effettuata con successo può rivelare. Nonostante questo, sono protetti da una potente magia e un incantesimo individuazione del magico rivela una forte aura di abiurazione che avvolge la statua. La statua in realtà è un **guardiano protettore** sopito, il cui compito attuale è quello di proteggere la [[Maschera del Drago Nero]] ed attacca chiunque si avvicini, eccetto il possessore della Mappa Stellare.
 Una creatura in possesso può comandare il guardiano protettore, ma solo all'interno della Caverna dell'Onda Tonante (purtroppo la magia che legava il protettore alla Mappa si indebolita nei secoli).
+
+##### Scontro Finale
+Come avviene lo scontro finale dipende da chi possiede la Mappa Stellare:
+- **Se la Mappa Stellare è in possesso di Nezznar,** i personaggi arrivano quando la drow riesce ad entrare in possesso della [[Maschera del Drago Nero]] e ad attivare il Guardiano Protettore, che risponde ai suoi comandi. 
+
+>[!note]- Leggere ad Alta Voce
+>La Mappa Stellare nella mani del Ragno Nero inizia a brillare intensamente di luce lunare e una collana traslucida fatta di polvere di stelle si forma al collo della drow
+
 
