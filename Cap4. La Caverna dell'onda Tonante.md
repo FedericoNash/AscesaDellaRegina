@@ -1,5 +1,6 @@
 # Chi ha la Mappa Stellare?
-Se la Mappa Stellare è in possesso dei personaggi, Nezznar si nasconde non appena sente arrivare i personaggi usando l'incantesimo *invisibilità superiore* e lascia che siano loro ad entrare nella stanza e ad affrontare il golem, per poi cercare di rubare la [[Maschera del Drago Nero]] quando i personaggi abbassano la guardia.
+Nezznar ha troppo vantaggio sui personaggi ed è già davanti alla porta sigillata dell'area W19, ma se riesce ad entrare o meno
+Se la Mappa Stellare è in possesso dei personaggi, Nezznar arriva per prima davanti alla porta dell'area W19, dove cerca di risolvere l'enigma senza la mappa.
 Se la Mappa Stellare è in possesso di Nezznar, i personaggi arrivano all'area W19 che la drow ha già sconfitto il golem ed ha metà dei Punti Ferita, ma è in possesso della [[Maschera del Drago Nero]] e cerca di uccidere i personaggi.
 
 # Mostri Erranti
