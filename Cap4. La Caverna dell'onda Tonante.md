@@ -188,7 +188,7 @@ Nel round successivo a quello in cui una creatura vivente entra in questa camera
 
 ###### Sviluppi
 Se due o più bugbear vengono uccisi, il doppelganger fugge verso l’area 19 per mettere in guardia Nezznar.
-Il doppleganger ha con sè una nota che recita: "Monteith, pattuglia la caverna insieme ai bugbear, elimina ogni minaccia presente. Per nessun motivo devo essere disturbata, il rompicapo è molto più complesso di quanto avessi immaginato. Ah un'ultima cosa, se vedi ancora quegli avventurieri, uccidili senza esitazione."
+Il doppleganger ha con sè una nota che recita: "Monteith, pattuglia la caverna insieme ai bugbear, elimina ogni minaccia presente. Ho notato un oggetto interessante nel cuore della Caverna Tonante dove il rumore è più forte. Ho ordinato a Kurtz di portarti questo messaggio, per favore recuperalo tu per me. Al momento sono troppo occupata con questo maledetto portone, chi ha costruito questa miniera era molto più scaltro di quanto avessi immaginato. Ah un'ultima cosa, se vedi ancora quegli avventurieri, uccidili senza esitazione."
 
 #### W14. Alloggi dei Maghi
 Le porte che conducono a quest’area sono crepate e i loro cardini di ferro sono parzialmente fusi. Per scardinare o sfondare le porte è necessario effettuare con successo una prova di Forza con CD 15.
