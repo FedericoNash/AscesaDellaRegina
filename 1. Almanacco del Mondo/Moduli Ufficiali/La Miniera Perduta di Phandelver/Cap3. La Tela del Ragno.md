@@ -113,7 +113,8 @@ Se i personaggi annunciano il loro arrivo suonando il campanello o urlando oltre
 #### Interpretare Falco
 [Falco il cacciatore](https://5e.tools/bestiary.html#falcon%20the%20hunter_dip) indossa un mantello foderato di pelliccia sopra la sua armatura di cuoio borchiata. È alto 1,95 metri, ha i capelli neri e le spalle larghe. I suoi occhi sono azzurri, freddi e taglienti come il ghiaccio, e sfoggia una barba ben curata. Falcon si muove con la disinvolta sicurezza di chi non teme nulla, e accoglie ogni preoccupazione con indifferenza perplessa. Ama il buon vino e tratta gli altri come vorrebbe essere trattato lui, in modo equo e con pazienza.
 
-Il vero nome di Falcon è Gustaf Tresendar, ma l'ha abbandonato da tempo. Le sue abilità di cacciatore gli hanno fatto guadagnare il nome che ora porta. Se ne ha la possibilità, condivide le seguenti informazioni utili con i personaggi: "Ultimamente ho visto altri orchi e goblin nei boschi. Di solito non si spingono fino a qui e la cosa non piace. Orrendi bruti".
+Il vero nome di Falcon è Gustaf Tresendar, ma l'ha abbandonato da tempo. Le sue abilità di cacciatore gli hanno fatto guadagnare il nome che ora porta. Se ne ha la possibilità, condivide le seguenti informazioni utili con i personaggi: 
+"Ultimamente ho visto altri orchi e goblin nei boschi. Di solito non si spingono fino a qui e la cosa non mi piace. Orrendi bruti. Questo bosco è sempre più irrequieto e ciò non fa bene agli affari".
 Falco conosce la posizione del Castello Cragmaw ed lieto di condividerla con i personaggi. Invita poi ai personaggi di restare a rifocillarsi e a riposare nella sua magione.
 
 >[!note]- Caratteristiche della Loggia
@@ -179,7 +180,10 @@ Feritoie per frecce fiancheggiano le pareti di questo posto di guardia vuoto.
 Questo tetto alto 9 metri offre una vista senza ostacoli sulla radura intorno al lodge e sui boschi vicini.
 
 ### Assalto degli Orchi
-Durante il soggiorno dei personaggi, la Loggia di Falco viene attaccata da un gruppo di goblin e orchi mandati dal Ragno Nero. Un **gigante delle colline** sfonda la palizzata mentre 10 **orchi** e 10 **goblin** assaltano la magione, cercando di recuperare la mappa dei personaggi se è ancora in loro possesso.
+Durante il soggiorno dei personaggi, dopo cena, la Loggia di Falco viene attaccata da un gruppo di goblin e orchi mandati dal Ragno Nero. Un **gigante delle colline** sfonda la palizzata mentre 10 **orchi** e 10 **goblin** assaltano la magione, cercando di recuperare la mappa dei personaggi se è ancora in loro possesso.
+
+###### Ricompensa
+Se i personaggi aiutano Falco a respingere l'assalto, Falco dona loro una
 
 ## Castello Cragmaw
 La tribù dei Cragmaw è composta da bande di predoni goblinoidi rivali sparpagliate per tutta l’area della Pista di Triboar e del Bosco di Neverwinter. Tuttavia, c’è un capotribù che è riconosciuto a malincuore da tutti come il capo supremo: Re Grol del Castello Cragmaw. Il Castello Cragmaw non è una costruzione dei goblin e non è il nome originale della struttura. La roccaforte, costruita da un abile mago nobile del vecchio Phalorm (un antico reame che un tempo controllava buona parte del Nord), è composta da sette torri sovrapposte, anche se i suoi livelli superiori sono da tempo ridotti a semplici cumuli di macerie. Soltanto il pianterreno è ancora abbastanza solido da risultare abitabile.
