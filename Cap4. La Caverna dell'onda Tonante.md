@@ -301,7 +301,7 @@ Nezznar porta con sé una *pozione di guarigione* e un *bastone del ragno*. Espl
 
 ###### Sviluppi
 Le creature nell’area W16 possono sentire i rumori di un eventuale combattimento in questa stanza. Se non sono già state neutralizzate, arrivano dopo 3 round e agiscono immediatamente dopo i ragni giganti di Nezznar nell’ordine di iniziativa.
-In ogni combatt
+Se i personaggi riducono Nezznar a meno di un quarto dei Punti Ferita, la drow all'inizio del suo prossimo turno cerca di fuggire lanciando *porta dimensionale*
 Se i personaggi catturano Nezznar e lo portano alla
 villa del borgomastro a Phandalin, il drow viene tenuto
 sottochiave finché Sildar Hallwinter o un altro rappresentante
