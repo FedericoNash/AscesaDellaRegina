@@ -250,14 +250,15 @@ Le osservazioni di Nezznar dicono il vero. Immersi alla base della sporgenza roc
 Il torrente che scorreva dall’area 10 all’area 18 un tempo attraversava anche questo stretto passaggio, prima di riversarsi nell’area 16.
 
 >[!note]- Leggere ad Alta Voce
->Testo
+>*Questo passaggio è alto a malapena 1,2 metri ed è ostruito da grossi macigni e detriti più piccoli. Forse un tempo era il letto di un corso d’acqua, ma ora è completamente prosciugato.*
 
-I nani deviavano il torrente nel canale che conduceva
-all’area 12 per attivare la ruota ad acqua della fonderia. Poi
-i terremoti che sconvolsero la Caverna dell’Onda Tonante
-durante l’ultima battaglia di magia contro gli orchi invasori
-fecero crollare il pavimento dell’area 18, deviando di nuovo
-il corso del torrente. Il vecchio letto del torrente resta un
-passaggio utilizzabile che consente di aggirare i non morti
-dell’area 12, anche se Nezznar non l’ha ancora scoperto.
+I nani deviavano il torrente nel canale che conduceva all’area 12 per attivare la ruota ad acqua della fonderia. Poi i terremoti che sconvolsero la Caverna dell’Onda Tonante durante l’ultima battaglia di magia contro gli orchi invasori fecero crollare il pavimento dell’area 18, deviando di nuovo il corso del torrente. Il vecchio letto del torrente resta un passaggio utilizzabile che consente di aggirare i non morti dell’area 12, anche se Nezznar non l’ha ancora scoperto.
+
+#### W18. Caverna Crollata
+I servitori di Nezznar che occupano questa caverna hanno il compito di vigilare sulle incursioni dei non morti e di setacciare i detriti. 
+
+>[!note]- Leggere ad Alta Voce
+>La metà orientale di questa caverna è occupata da una grossa crepa. Un torrente sgorga dalla parete ovest e si tuffa nella crepa, per poi uscirne sul lato nord. Varie corde assicurate a dei paletti di ferro piantati lungo il bordo ovest della crepa scendono fino al fondo del baratro e diversi corpi di bugbear sono sparsi in questa stanza.
+
+
 
