@@ -78,7 +78,7 @@ Questa sala delle guardie un tempo proteggeva la vicina entrata della miniera, m
 >[!note]- Leggere ad Alta Voce
 >*Questa stanza è occupata da panche di pietra spaccate e cumuli di detriti caduti da un soffitto parzialmente crollato. Tra le brandine di pietra in rovina e le rastrelliere di armi rovesciate giacciono le ossa di vari nani e orchi.*
 
-Nel round successivo a quello in cui una creatura vivente entra in questa camera, le ossa iniziano a muoversi e rinsaldarsi, formando nove **scheletri**. Gli scheletri combattono fino alla distruzione.
+Questa sala è diventata la piccola tana di un vermeiena che sta pasteggiando con le ossa degli orchi e dei nani.
 
 #### W5. Ufficio dei Saggiatori
 I saggiatori della miniera un tempo lavoravano qui, soppesando e valutando i campioni di metallo e pagando gli scavatori per il loro lavoro.
@@ -182,7 +182,7 @@ I danni strutturali e i resti scheletrici di quest’area sono la prova della de
 >*La caverna è abbastanza grande da ospitare due strutture separate. Ognuno di questi edifici in pietra è stato costruito a misura di umano, a differenza delle porte e dei mobili a misura di nano che avete visto in altre aree delle miniere. Entrambe le strutture mostrano mura annerite e consumate, e le loro doppie porte sono crepate e consumate dalle fiamme.*
 >*La caverna è divisa da una scarpata in cui è stata creata una rampa di scale. I passaggi che escono da quest’area conducono a nord, a sud e a ovest.*
 
-Tre **bugbear** si trovano in quest’area davanti all'ingresso della Forgia degli Incantesimi. Un **doppelganger** di nome Monteith vigila sulle attività con le fattezze di un maschio drow. Gli edifici danneggiati sono descritti nelle aree 14 e 15. I minerali nel soffitto sono belli a vedersi, ma non sono magici e non hanno alcun valore.
+Gli edifici danneggiati sono descritti nelle aree 14 e 15. I minerali nel soffitto sono belli a vedersi, ma non sono magici e non hanno alcun valore.
 Qualsiasi personaggio competente in Arcano può percepire una sottile aura di magia in questa caverna. (Un incantesimo *individuazione del magico* rivela la stessa cosa.) L’aura diventa più forte se ci si avvicina all’edificio a nord (l’area 15).
 
 ###### Sviluppi
