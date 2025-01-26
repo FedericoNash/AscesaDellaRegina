@@ -308,5 +308,7 @@ Se i personaggi catturano Nezznar e lo portano alla villa del borgomastro a Phan
 La porta di questa stanza è chiusa a chiave. Per aprirla è necessario usare degli arnesi da scasso ed effettuare con successo una prova di Destrezza con CD 15. La chiave si trova su uno dei tavoli della Forgia (area W15).
 
 >[!note]- Leggere ad Alta Voce
->Testo
+>*Dei tendaggi polverosi coprono le pareti di questa stanza, che contiene anche un letto e un braciere. Diversi libri ricoperti di polvere sono sparsi per la stanza.*
 
+###### Tesoro
+Uno dei libri impolverati racconta la leggenda di Lady Tanamere Alagondar, che 
