@@ -237,14 +237,27 @@ Il suono delle onde che rimbombano contro le rocce è ciò che ha fornito alla C
 >*Una stretta cornice di roccia si affaccia su una vasta caverna riempita da una massa d’acqua impetuosa e gorgogliante. Il rombo che si diffonde ritmicamente per tutta la miniera è molto più forte in quest’area. A intervalli regolari, un impetuoso afflusso d’acqua si riversa in questa camera e si infrange contro la parete rocciosa appena sotto la cornice. L’eco suggerisce che questa caverna sia solo la propagazione di una caverna molto più ampia a nordest.*
 
 Tre **bugbear** si trovano in quest’area. Due sono occupati a scalare la parete rocciosa sotto la cornice, mentre un altro monta la guardia sul lato est della caverna. Un **doppelganger** di nome Monteith vigila sulle attività con le fattezze di un maschio drow. Se ha inizio un combattimento nella caverna principale, i due bugbear sulla parete si arrampicano  per unirsi alla mischia dopo 1 round.
-La cornice che corre lungo la parete sud è alta 4,5 metri rispetto al livello dell’acqua, che è profonda 6 metri. Tuttavia, quando un nuovo afflusso d’acqua sale nella caverna, ogni 2 minuti, il livello sale di altri 3 metri, per poi tornare alla sua normale profondità dopo un minuto.
+***Parete Rocciosa.*** La cornice che corre lungo la parete sud è alta 4,5 metri rispetto al livello dell’acqua, che è profonda 6 metri. Tuttavia, quando un nuovo afflusso d’acqua sale nella caverna, ogni 2 minuti, il livello sale di altri 3 metri, per poi tornare alla sua normale profondità dopo un minuto. Un personaggio può scalare la parete superando una prova di Atletica con CD 18, altrimenti cade subendo 2d6 danni contundenti ed è aggrappato alla roccia, oppure ha successo automaticamente se spende diversi minuti ad osservare il ritmo con cui le onde si innalzano e si abbassano.
 
 ###### Sviluppi
 Se due o più bugbear vengono uccisi, il doppelganger fugge verso l’area 19 per mettere in guardia Nezznar.
 Il doppleganger ha con sè una nota che recita: "Monteith, pattuglia la caverna insieme ai bugbear, elimina ogni minaccia presente. Ho notato un oggetto interessante nel cuore della Caverna Tonante dove il rumore è più forte. Ho ordinato a Kurtz di portarti questo messaggio, per favore recuperalo tu per me. Al momento sono troppo occupata con questo maledetto portone, chi ha costruito questa miniera era molto più scaltro di quanto avessi immaginato. Ah un'ultima cosa, se vedi ancora quegli avventurieri, uccidili senza esitazione."
 
 ###### Tesoro
-Le osservazioni di Nezznar dicono il vero. Immersi alla base della sporgenza rocciosa che emerge dall’acqua in fondo alla parete rocciosa, giace lo scheletro fatto a pezzi di un nano che indossa un paio di *guanti del potere orchesco*. I resti non sono immediatamente visibili, ma possono essere individuati effettuando con successo una prova di Saggezza (Percezione) con CD 20, usando un incantesimo di *individuazione del magico* o . Ogni personaggio che si mette a cercare può effettuare una prova ogni ora.
+Le osservazioni di Nezznar dicono il vero. Immersi alla base della sporgenza rocciosa che emerge dall’acqua in fondo alla parete rocciosa, giace lo scheletro fatto a pezzi di un nano che indossa un paio di *guanti del potere orchesco*. I resti non sono immediatamente visibili, ma possono essere individuati effettuando con successo una prova di Saggezza (Percezione) con CD 20, usando un incantesimo di *individuazione del magico* o trovando la nota di Monteith. 
 
+#### W17. Vecchio Letto del Torrente
+Il torrente che scorreva dall’area 10 all’area 18 un tempo attraversava anche questo stretto passaggio, prima di riversarsi nell’area 16.
 
+>[!note]- Leggere ad Alta Voce
+>Testo
+
+I nani deviavano il torrente nel canale che conduceva
+all’area 12 per attivare la ruota ad acqua della fonderia. Poi
+i terremoti che sconvolsero la Caverna dell’Onda Tonante
+durante l’ultima battaglia di magia contro gli orchi invasori
+fecero crollare il pavimento dell’area 18, deviando di nuovo
+il corso del torrente. Il vecchio letto del torrente resta un
+passaggio utilizzabile che consente di aggirare i non morti
+dell’area 12, anche se Nezznar non l’ha ancora scoperto.
 
