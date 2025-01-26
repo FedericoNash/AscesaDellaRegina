@@ -1,5 +1,5 @@
 # Chi ha la Mappa Stellare?
-Nezznar è già all'interno della Caverna e sta cercando il Tempio del Drago , ma come avviene lo scontro finale dipende da chi possiede la Mappa Stellare. 
+Nezznar è già all'interno della Caverna e sta cercando la Sala del Drago, ma come avviene lo scontro finale dipende da chi possiede la Mappa Stellare. 
 La Mappa Stellare funge da chiave per la porta e funge da indizio per l'enigma della statua.
 Il DM usa una clessidra da 5 minuti per determinare se Nezznar riesce a entrare nel tempio mentre i personaggi esplorano la Caverna dell'Onda Tonante. Ogni volta che passano 10 minuti, il DM tira un d10 (la clessidra viene interrotta durante i combattimenti): su un risultato da 1 a 9 non succede nulla, se il risultato è 10, Nezznar riesce a risolvere un enigma, i personaggi allora avvertono un forte tremore che si espande in tutta la caverna ed il drow continua all'enigma successivo: 
 - **Se la Mappa Stellare è in possesso di Nezznar,** la drow cerca di risolvere l'enigma della statua con l'aiuto della mappa: ogni tiro della clessidra viene effettuato con vantaggio. 
