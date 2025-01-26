@@ -1,6 +1,6 @@
 # Chi ha la Mappa Stellare?
-Nezznar ha troppo vantaggio sui personaggi ed è già davanti alla porta sigillata dell'area W19, ma se riesce ad entrare o meno
-Se la Mappa Stellare è in possesso dei personaggi, Nezznar arriva per prima davanti alla porta dell'area W19, dove cerca di risolvere l'enigma senza la mappa.
+Nezznar ha troppo vantaggio sui personaggi ed arriva davanti alla porta sigillata dell'area W19 prima di loro, ma come avviene lo scontro finale dipende da chi possiede la Mappa Stellare.
+Se la Mappa Stellare è in possesso dei personaggi, Nezznar cerca di risolvere l'enigma senza la mappa. Il DM usa una clessidra da 5 minuti per determinare se Nezznar riesce a entrare nel tempio mentre i personaggi esplorano la Caverna dell'Onda Tonante. Ogni volta che termin
 Se la Mappa Stellare è in possesso di Nezznar, i personaggi arrivano all'area W19 che la drow ha già sconfitto il golem ed ha metà dei Punti Ferita, ma è in possesso della [[Maschera del Drago Nero]] e cerca di uccidere i personaggi.
 
 # Mostri Erranti
