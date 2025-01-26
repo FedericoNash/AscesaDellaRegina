@@ -127,7 +127,7 @@ Questa caverna un tempo fungeva da sala dei banchetti, area di incontri e sala d
 >[!note]- Leggere ad Alta Voce
 >*Due ripide scarpate dividono questa grande caverna in tre sezioni, delimitate da alte terrazze alle estremità e una sezione più bassa al centro. Due scalinate di pietra scolpita salgono fino alle terrazze. Due grossi tavoli sono stati collocati nella sezione centrale, assieme a un paio di vecchi bracieri. Un tavolo più piccolo è situato sulla terrazza est. I resti scheletrici di dozzine di combattenti (nani, gnomi, orchi e ogre) sono una muta testimonianza dello scontro feroce di cui fu teatro questo luogo molto tempo fa.*
 
-Cinque **ghoul** si annidano sulla terrazza ovest, nascosti tra le ombre, mentre mangiano i resti dei bugbear dell'area W11. Notano le eventuali luci o rumori negli altri punti della caverna e balzano giù rapidamente per attaccare. I non morti sono affamati e combattono fino alla distruzione. 
+Alcuni **ghoul** (1 per personaggio) si annidano sulla terrazza ovest , nascosti tra le ombre, mentre mangiano i resti dei bugbear dell'area W11. Notano le eventuali luci o rumori negli altri punti della caverna e balzano giù rapidamente per attaccare. I non morti sono affamati e combattono fino alla distruzione. 
 Le scarpate sono alte 3 metri e per scalarle è necessario effettuare con successo una prova di Forza (Atletica) con CD 12. Una creatura che cade o viene spinta giù dalla scarpata subisce 1d6 danni contundenti e atterra prona.
 
 #### W10. Pozza Oscura
@@ -153,7 +153,7 @@ Se il gruppo entra da ovest, il DM aggiunge:
 >[!note]- Leggere ad Alta Voce
 >*Sul lato opposto della stanza è visibile un’altra porta, bloccata da una barricata ricavata dai resti di un tavolo di legno*
 
-Due **bugbear** risiedono in questa camera, mentre si rifugiano qui e fanno da guardia a Nundro. Sono i fedeli servitori di Nezznar. Questa camera costituisce la prima linea dell’assalto del Ragno Nero alla Caverna dell’Onda Tonante, ma i bugbear sono qui per rifugiarsi dai ghoul, gli zombi o gli altri non morti che hanno massacrato gli altri bugbear.
+Un **bugbear** risiede in questa camera, mentre si rifugia qui essendo l'ultimo rimasto della sua unità e fa da guardia a Nundro. Sono i fedeli servitori di Nezznar. Questa camera costituisce la prima linea dell’assalto del Ragno Nero alla Caverna dell’Onda Tonante, ma i bugbear sono stati massacrati dai ghoul, gli zombi o gli altri non morti che infestano il dungeon.
 Come nel caso dell’area 6, anche questa stanza un tempo era un dormitorio dei minatori. I bugbear di Nezznar hanno rimosso i cadaveri che hanno trovato all’interno e hanno eretto la barricata.
 La figura che giace sul pavimento è Nundro, un nano **popolano** e il più giovane dei tre fratelli Rockseeker. Nezznar lo ha risparmiato perché credeva che il nano potesse sapere più cose sulla miniera di quante non volesse ammettere. Il drow ha interrogato brutalmente Nundro una volta o due al giorno da quando lo ha catturato.
 
@@ -258,9 +258,9 @@ I nani deviavano il torrente nel canale che conduceva all’area 12 per attivare
 I servitori di Nezznar che occupano questa caverna hanno il compito di vigilare sulle incursioni dei non morti e di setacciare i detriti. 
 
 >[!note]- Leggere ad Alta Voce
->*La metà orientale di questa caverna è occupata da una grossa crepa. Un torrente sgorga dalla parete ovest e si tuffa nella crepa, per poi uscirne sul lato nord. Varie corde assicurate a dei paletti di ferro piantati lungo il bordo ovest della crepa scendono fino al fondo del baratro e diversi corpi di bugbear sono sparsi in questa stanza.*
+>*La metà orientale di questa caverna è occupata da una grossa crepa. Un torrente sgorga dalla parete ovest e si tuffa nella crepa, per poi uscirne sul lato nord. Varie corde assicurate a dei paletti di ferro piantati lungo il bordo ovest della crepa scendono fino al fondo del baratro e diversi corpi sono sparsi in questa stanza.*
 
-I corpi sono i resti di alcuni bugbear uccisi dai ghoul. In fondo al crepaccio, tuttavia si nascondono due **ragni giganti**, i quali attaccano solo se qualcuno entra nel crepaccio.
+I corpi sono i resti di alcuni bugbear e ghoul che si sono uccisi a vicenda. In fondo al crepaccio, tuttavia si nascondono due **ragni giganti**, i quali attaccano solo se qualcuno entra nel crepaccio.
 ***Crepa***. La crepa è profonda 6 metri. Per entrare o uscire dalla crepa senza usare una corda è necessario effettuare con successo una prova di Forza (Atletica) con CD 10. Una creatura che fallisce la prova di 5 o più cade e subisce 1d6 danni contundenti per ogni 3 metri di caduta, atterrando prona sul fondo.
 
 ###### Tesoro
@@ -293,4 +293,5 @@ Come avviene lo scontro finale dipende da chi possiede la Mappa Stellare:
 >*Una voce femminile rieccheggia alle vostre spalle: "Molto bravi, complimenti, avete trovato una delle Maschere del Drago." *
 >*Nezznar si avvicina verso di voi entrando dalla porta, accompagnata da alcuni giganteschi ragni e bugbear. Uno di loro tiene in ostaggio un nano, che riconoscete essere Nundro, puntandogli una lama alla gola, e la drow continua: "Facevo bene a non sottovalutarvi, ma adesso è finito il tempo di giocare a fare gli eroi: datemi la maschera senza fare storie o il nano si troverà un bel sorriso gola, come suo fratello." *
 
-Il doppelganger dell’area 16 si è ritirato in quest’area, assume l’aspetto di Nundro Rockseeker in modo che Nezznar possa usare il “nano” come arma di ricatto per obbligare il gruppo ad arrendersi (anche se il drow non arriverà a fare veramente del male al doppelganger).
+Il doppelganger dell’area 16 si è ritirato in quest’area, assume l’aspetto di Nundro Rockseeker in modo che Nezznar possa usare il “nano” come arma di ricatto per obbligare il gruppo ad arrendersi (anche se il drow non arriverà a fare veramente del male al doppelganger). 
+Se i personaggi hanno liberato Nundro dall'area W11, 
