@@ -281,6 +281,6 @@ Come avviene lo scontro finale dipende da chi possiede la Mappa Stellare:
 - **Se la Mappa Stellare è in possesso di Nezznar,** i personaggi arrivano quando la drow riesce ad entrare in possesso della [[Maschera del Drago Nero]] e ad attivare il Guardiano Protettore, che risponde ai suoi comandi. 
 
 >[!note]- Leggere ad Alta Voce
->La Mappa Stellare nella mani del Ragno Nero inizia a brillare intensamente di luce lunare e una collana traslucida fatta di polvere di stelle si forma al collo della drow
+>La Mappa Stellare nella mani del Ragno Nero inizia a brillare intensamente di luce lunare e una collana traslucida fatta di polvere di stelle si forma al collo della drow. Gli occhi di smeraldo della statua si illuminano ed essa si alza dal trono, inginocchiandosi di fronte a Nezznar, che si rivolge a voi con un sorriso crudele: "E' un vero peccato, ci siete andati così vicini"
 
 
