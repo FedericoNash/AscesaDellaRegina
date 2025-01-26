@@ -311,4 +311,4 @@ La porta di questa stanza è chiusa a chiave. Per aprirla è necessario usare de
 >*Dei tendaggi polverosi coprono le pareti di questa stanza, che contiene anche un letto e un braciere. Diversi libri ricoperti di polvere sono sparsi per la stanza.*
 
 ###### Tesoro
-Uno dei libri impolverati racconta la leggenda di Lady Tanamere Alagondar, una discendente di 
+Uno dei libri impolverati racconta la leggenda di Lady Tanamere Alagondar, una discendente dell'antica famiglia reale di Neverwinter. The request is not authorized because credentials are missing or invalid.
