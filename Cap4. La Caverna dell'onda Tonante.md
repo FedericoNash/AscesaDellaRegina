@@ -4,8 +4,8 @@ La Mappa Stellare funge da chiave per la porta e funge da indizio per l'enigma d
 Il DM usa una clessidra da 5 minuti per determinare se Nezznar riesce a entrare nel tempio mentre i personaggi esplorano la Caverna dell'Onda Tonante. Ogni volta che passano 10 minuti, il DM tira un d10 (la clessidra viene interrotta durante i combattimenti): su un risultato da 1 a 9 non succede nulla, se il risultato è 10, Nezznar riesce a risolvere un enigma, ottenendo così un potenziamento al suo statblock (ad esempio, i suoi attacchi effettuano un 1d6 danni da forza extra), i personaggi allora avvertono un forte tremore che si espande in tutta la caverna ed il drow continua all'enigma successivo: 
 - **Se la Mappa Stellare è in possesso di Nezznar,** i personaggi arrivano quando la drow riesce ad aprire le porte della Sala e ad attivare il Guardiano Protettore, che risponde ai suoi comandi ed entra in possesso della [[Maschera del Drago Nero]]. 
 - **Se la Mappa Stellare è in possesso dei personaggi**, i personaggi arrivano prima di Nezznar, la quale ha due opzioni:
-1. Nascondersi con *invisibilità superiore* e tendere un agguato ai personaggi quando arrivano davanti alla Sala.
-2. Cercare di superare lo stesso il Guardiano, magari mandando un ragno o un bugbear a prendere la maschera, attivando così l'incantesimo custodito all'interno del Guardiano che colpirà la drow.
+	1. Nascondersi con *invisibilità superiore* e tendere un agguato ai personaggi quando arrivano davanti alla Sala.
+	2. Cercare di superare lo stesso il Guardiano, magari mandando un ragno o un bugbear a prendere la maschera, attivando così l'incantesimo custodito all'interno del Guardiano che colpirà la drow.
 
 
 # Mostri Erranti
@@ -98,7 +98,7 @@ Questo era un dormitorio dei minatori. È qui che i più abili scavatori che lav
 >*File ordinate di vecchie brandine di pietra corrono lungo questa camera, al cui centro si erge un vecchio braciere di ferro arrugginito pieno di carboni spenti. A terra giacciono le ossa di una mezza dozzina di nani e di orchi, che ancora indossano alcuni frammenti di armatura. Tre figure grigie e ricurve frugano tra i resti, palpeggiando i frammenti e rosicchiando le ossa.*
 
 Tre **ghoul** del branco nell’area 9 si trovano in questa stanza, impegnati a spezzare e rosicchiare le antiche ossa dei caduti nella vana speranza di trovare qualche rimasuglio di midollo. I ghoul, impazienti di cibarsi di carne fresca, attaccano immediatamente. 
-I rumori del combattimento attirano l'attenzione di altri quattro **ghoul** che arrivano dall'area W9 dopo 2 round. 
+I rumori del combattimento attirano l'attenzione di altri due **ghoul** che arrivano dall'area W9 dopo 2 round. 
 
 ###### Tesoro
 Una delle armature (tipologia a scelta del DM) degli scheletri è ancora in buone condizioni ed è utilizzabile. 
@@ -127,7 +127,7 @@ Questa caverna un tempo fungeva da sala dei banchetti, area di incontri e sala d
 >[!note]- Leggere ad Alta Voce
 >*Due ripide scarpate dividono questa grande caverna in tre sezioni, delimitate da alte terrazze alle estremità e una sezione più bassa al centro. Due scalinate di pietra scolpita salgono fino alle terrazze. Due grossi tavoli sono stati collocati nella sezione centrale, assieme a un paio di vecchi bracieri. Un tavolo più piccolo è situato sulla terrazza est. I resti scheletrici di dozzine di combattenti (nani, gnomi, orchi e ogre) sono una muta testimonianza dello scontro feroce di cui fu teatro questo luogo molto tempo fa.*
 
-Sette **ghoul** si annidano sulla terrazza ovest, nascosti tra le ombre. Notano le eventuali luci o rumori negli altri punti della caverna e balzano giù rapidamente per attaccare. I non morti sono affamati e combattono fino alla distruzione.
+Cinque **ghoul** si annidano sulla terrazza ovest, nascosti tra le ombre. Notano le eventuali luci o rumori negli altri punti della caverna e balzano giù rapidamente per attaccare. I non morti sono affamati e combattono fino alla distruzione. 
 Le scarpate sono alte 3 metri e per scalarle è necessario effettuare con successo una prova di Forza (Atletica) con CD 12. Una creatura che cade o viene spinta giù dalla scarpata subisce 1d6 danni contundenti e atterra prona.
 
 #### W10. Pozza Oscura
