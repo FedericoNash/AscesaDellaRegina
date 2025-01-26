@@ -294,4 +294,4 @@ Come avviene lo scontro finale dipende da chi possiede la Mappa Stellare:
 >*Nezznar si avvicina verso di voi entrando dalla porta, accompagnata da alcuni giganteschi ragni e bugbear. Uno di loro tiene in ostaggio un nano, che riconoscete essere Nundro, puntandogli una lama alla gola, e la drow continua: "Facevo bene a non sottovalutarvi, ma adesso è finito il tempo di giocare a fare gli eroi: datemi la maschera senza fare storie o il nano si troverà un bel sorriso gola, come suo fratello." *
 
 Il doppelganger dell’area 16 si è ritirato in quest’area, assume l’aspetto di Nundro Rockseeker in modo che Nezznar possa usare il “nano” come arma di ricatto per obbligare il gruppo ad arrendersi (anche se il drow non arriverà a fare veramente del male al doppelganger). 
-Se i personaggi hanno liberato Nundro dall'area W11, 
+Se i personaggi hanno liberato Nundro dall'area W11, possono notare superando una prova di Saggezza (Percezione o Intuizione) con CD 12che i vestiti del nano non coincidono con quelli di quando lo hanno liberato.
