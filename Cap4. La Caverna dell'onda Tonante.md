@@ -230,3 +230,14 @@ Sul tavolo da lavoro nell’angolo sudest della stanza si trovano gli ultimi ogg
 ***Portatrice di Luce.*** Questa mazza +1 fu fabbricata per un chierico di Lathander, il dio dell’alba. La testa della mazza ha la forma di un sole splendente ed è fatta di solido ottone. Quest’arma, battezzata Portatrice di Luce, risplende come una torcia su comando di colui che la impugna. Quando risplende, la mazza infligge 1d6 danni radiosi extra alle creature non morte.
 ***Guardiadrago***. Questa corazza di piastre +1 è decorata con il simbolo di un drago d’oro. Creata per un eroina umana di Neverwinter chiamata Lady Tanamere Alagondar, conferisce a chi la indossa vantaggio ai tiri salvezza contro le armi a soffio delle creature dotate del tipo drago.
 
+#### W16. Caverna Tonante
+Il suono delle onde che rimbombano contro le rocce è ciò che ha fornito alla Caverna dell’Onda Tonante il suo nome, ed è in questa caverna che il fenomeno ha origine.
+
+>[!note]- Leggere ad Alta Voce
+>*Una stretta cornice di roccia si affaccia su una vasta caverna riempita da una massa d’acqua impetuosa e gorgogliante. Il rombo che si diffonde ritmicamente per tutta la miniera è molto più forte in quest’area. A intervalli regolari, un impetuoso afflusso d’acqua si riversa in questa camera e si infrange contro la parete rocciosa appena sotto la cornice. L’eco suggerisce che questa caverna sia solo la propagazione di una caverna molto più ampia a nordest.*
+
+Tre **bugbear** si trovano in quest’area. Due sono occupati a sgombrare le pietre sul fondo della crepa, mentre un altro monta la guardia sul lato ovest della caverna. Un **doppelganger** di nome Vhalak vigila sulle attività con le fattezze di un maschio drow. Se ha inizio un combattimento nella caverna principale, i due bugbear nella crepa si arrampicano sulle corde per unirsi alla mischia.
+La cornice che corre lungo la parete sud è alta 4,5 metri rispetto al livello dell’acqua, che è profonda 6 metri. Tuttavia, quando un nuovo afflusso d’acqua sale nella caverna, ogni 2 minuti, il livello sale di altri 3 metri, per poi tornare alla sua normale profondità dopo un minuto.
+
+
+
