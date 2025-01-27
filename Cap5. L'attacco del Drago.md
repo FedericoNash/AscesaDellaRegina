@@ -182,20 +182,21 @@ Tra cumuli di macerie si trova una sala vuota con feritoie per frecce che fianch
 
 #### H12. Sala delle Udienze
 Un tempo scudi, armi e arazzi decoravano le pareti, ma gli orchi hanno demolito e distrutto l'arredamento. Una dozzina di scheletri umanoidi con un'armatura arrugginita giacciono sparsi tra le macerie. (Tutti morirono di fame.) Dipinto sul pavimento di pietra c'è uno stemma a forma di scudo di 10 piedi di diametro che presenta una torre nera colpita da un fulmine d'oro, l'emblema del signore della guerra Delsendra Amzarr.
-Porta segreta. Questa stanza ha due porte segrete. La porta segreta est si apre per rivelare l ['area H9](https://5e.tools/adventure.html#dip,8,h9.%20outer%20defenses,0). La porta segreta ovest si apre per rivelare una scala larga 3 piedi che scende per 10 piedi fino all' [area H21](https://5e.tools/adventure.html#dip,8,h21.%20undercroft,0). La criovaina è troppo grande per entrare in questa scala.
 I coboldi usano questa camera come sala per le loro riunioni. Qui si possono trovare dodici **coboldi** e un **inventore coboldo**. Se scoppia una rissa, l'inventore scaglierà una delle sue invenzioni contro gli aggressori e correrà attraverso la porta sud, cercando di condurli nelle trappole al di là di essa.
 Altri coboldi possono fuggire attraverso la porta segreta nel muro est e girare attraverso le difese esterne (area H9) per attaccare il gruppo da un'altra direzione. I coboldi combatteranno vigorosamente per difendere la porta segreta nel muro ovest, che conduce al tesoro del drago (area H17).
+***Porta segreta.*** Questa stanza ha due porte segrete. La porta segreta est si apre per rivelare l['area H9](https://5e.tools/adventure.html#dip,8,h9.%20outer%20defenses,0). La porta segreta ovest si apre per rivelare una scala larga 90 centimetri che scende per 3 metri fino all'[area H21](https://5e.tools/adventure.html#dip,8,h21.%20undercroft,0). 
 ***Corridoio con trappola***. Il corridoio tra l'area H12 e l'area H13 ha una trappola nascosta davanti alla porta occidentale dell'H13. I coboldi sono troppo piccoli per innescarlo, ma qualsiasi creatura che pesa più di 25 chili causerà il crollo del pavimento, facendoli cadere per 3 metri in un letto di spuntoni nel sottosuolo (area H21).
 I personaggi possono individuare la trappola con una prova di Percezione con CD 15 e disarmarla incuneando degli aculei nel meccanismo. Un personaggio che innesca la trappola deve superare un tiro salvezza su Destrezza CD 15 o subire 1d6 danni contundenti dalla caduta e 1d10 danni perforanti dagli spuntoni.
 
 #### H13. Sala da Pranzo
+Gli Orchi distrussero tutto ciò che si trovava in questa stanza, arrivando al punto di abbattere un paio di lampadari che un tempo pendevano dal soffitto con delle catene. Gli arredi distrutti includono un lungo tavolo da pranzo in legno e una dozzina di sedie in legno. Sdraiata nel camino fuligginoso c'è la testa impagliata e montata di un grande lupo bianco con occhi azzurri vitrei. La testa un tempo pendeva da ganci sopra la mensola del camino.
 Otto **coboldi** stanno cenando qui con gli avanzi dell'ultima uccisione di Cryovain. Attaccheranno tutte le creature che entrano nel corridoio o cadono nella trappola della fossa.
 
 #### H14. Cucina 
-
+Gli orchi hanno distrutto questa stanza, distruggendo i suoi arredi e spargendo detriti ovunque. Una brezza fredda soffia dai camini gemelli costruiti nella parete sud.
 
 #### H15. Dispensa
-
+Questa stanza è stata saccheggiata, lasciando nient'altro che scaffali rotti, barili rotti, sacchi strappati e altri detriti in giro. Tra i detriti, i personaggi trovano i resti scheletrici di un umanoide maschio vestito con una corazza arrugginita. Sull'orlo della fame, questa guardia fu uccisa mentre cercava di rubare le razioni.
 
 #### H16. Armeria
 
