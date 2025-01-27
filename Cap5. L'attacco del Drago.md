@@ -92,6 +92,10 @@ Quando Cryovain decise di fare della Roccaforte di Gugliaghiacciata la sua tana,
 Di recente, cultisti malvagi che fan parte di un'organizzazione chiamata Figli del Drago si sono infiltrati, mandati dal Ragno Nero, nel corpo di guardia e sono sfuggiti all'attenzione di Cryovain. Vogliono convincere il drago ad unirsi alla loro causa, promettendogli prestigio e ricchezze. Presumono inoltre che il drago abbia delle uova e le abbia nascoste nella fortezza. Se Cryovain non dovesse collaborare, a prossima volta che il drago vola via, hanno intenzione di rubarle. 
 Se Nezznar è riuscita a fuggire con la [[Maschera del Drago Nero]] dalla Caverna dell'ONda Tonante, i personaggi la ritrovano nella stanza di Cryovain intenta a persuadere il drago.
 
+>[!note]- Figli del Dragone
+>Testo
+
+
 ### Caratteristiche di Icespire Hold
 Icespire Hold si trova a un'altitudine di 800 metri ed è circondata da scogliere ghiacciate a strapiombo. Altre caratteristiche della location sono riassunte di seguito.
 
