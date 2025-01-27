@@ -67,9 +67,11 @@ Elenco dei luoghi dentro Phandalin:
 - [[Phandalin#Maniero Tresendar|Maniero Tresendar]]
 
 Elenco dei luoghi fuori Phandalin:
-- Loggia di Caccia di Falco
-- Tor di Viverna
-- Collina dell'Onta 
+- [[Cap3. La Tela del Ragno#La Loggia di Caccia di Falco|La Loggia di Caccia di Falco]]
+- [[Cap3. La Tela del Ragno#Il Tor della Viverna|Il Tor della Viverna]]
+- [[Cap3. La Tela del Ragno#Collina dell'Onta|Collina dell'Onta]] 
+- [[Cap3. La Tela del Ragno#Il Pozzo del Vecchio Gufo|Il Pozzo del Vecchio Gufo]]
+- [[Cap3. La Tela del Ragno#Castello Cragmaw|Castello Cragmaw]]
 - Colle del drago 
 - Roccaforte Gugliaghiacciata
 - Rovine di Thundertree
