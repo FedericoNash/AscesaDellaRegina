@@ -24,4 +24,4 @@ Durante la notte del riposo lungo in viaggio verso il tumulo, gli avventurieri v
 Dopo essere stato cacciato dalla sua casa nei Boschi di Neverwinter da orchi predoni, Xanth il [centauro](https://5e.tools/bestiary.html#centaur_mm) si è rifugiato sulle colline intorno al tumulo. Quando vede i personaggi, Xanth si avvicina pacificamente e condivide i seguenti avvertimenti:
 
 1. "Strane luci stregate aleggiano sopra a Colle del Drago di notte. La collina è infestata dagli spiriti irrequieti dei morti".
-2. 
+2. "Una strana magia pervade il Bosco di Neverwinter, confondendo i navigatori e oscurando le antiche rovine di regni passati persi nelle sue profondità."
