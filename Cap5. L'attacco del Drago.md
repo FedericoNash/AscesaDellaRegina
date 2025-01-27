@@ -142,3 +142,4 @@ Il sentiero è sicuro, anche se un tratto lungo 6 metri è sepolto sotto le mace
 La cultista di stanza nell['area H6](https://5e.tools/adventure.html#dip,8,h6.%20barbican,0) sorveglia il sentiero e avvisa i suoi compagni nell'[area H4](https://5e.tools/adventure.html#dip,8,h4.%20gatehouse%20barracks,0) se vede estranei avvicinarsi al corpo di guardia. Attenti a non svegliare il drago, i mercenari permettono ai personaggi di entrare incontrastati nella guardiola. 
 
 #### H2. Scuderie
+Quattro [cavalli da sella](https://5e.tools/bestiary.html#riding%20horse_mm) sono tenuti in stalla. Una quinta bancarella è vuota. I cavalli appartengono ai cultisti nelle [aree H4](https://5e.tools/adventure.html#dip,8,h4.%20gatehouse%20barracks,0) e [H6](https://5e.tools/adventure.html#dip,8,h6.%20barbican,0).
