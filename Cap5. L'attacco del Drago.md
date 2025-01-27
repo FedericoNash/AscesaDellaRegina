@@ -171,16 +171,27 @@ Montata sul muro della fortezza a nord della porta dell'area H8 c'è una campana
 Questo breve corridoio vuoto ha delle feritoie per le frecce nelle pareti nord e sud. Un filo d'inciampo è stato posizionato attraverso il corridoio. I personaggi possono individuare il filo d'inciampo con una prova di Percezione con CD 10 e disarmarlo con una prova di Indagare con CD 15 (anche se potrebbero finire sotto il fuoco dei coboldi nell'area H9 mentre lo fanno). Se attivano la trappola, crollerà il tetto sopra il corridoio. Chiunque si trovi nell'area H8 deve superare un tiro salvezza su Destrezza con CD 15, subendo 4d10 danni contundenti in caso di tiro salvezza fallito, o la metà dei danni in caso di successo. Una volta attivata la trappola, le macerie trasformano l'area H8 in un terreno difficile
 
 #### H9. Difese Esterne
-
+Un **coboldo** fa la guardia a ciascuna delle fessure per le frecce che si affacciano sull'area H8. Il coboldo a nord ha collegato un filo alla campana e può suonare la campana di ferro sopra il ponte di pietra (area H7) come azione gratuita se viene attaccato.
+Suonare la campana avviserà i coboldi nella fortezza e sveglierà Cryovain. Il suono si diffonde lontano nell'aria di alta montagna e attirerà Cryovain alla fortezza se è a caccia.
 
 #### H10. Detriti
-
+Anni fa, un terremoto fece crollare due angoli della fortezza in grandi cumuli di macerie. Queste macerie sono [un terreno difficile](https://5e.tools/book.html#PHB,8,difficult%20terrain,0).
 
 #### H11. Posto di Guardia Abbandonato
-
+Tra cumuli di macerie si trova una sala vuota con feritoie per frecce che fiancheggiano il muro esterno. Cryovain sfondò la porta est per entrare, ma non trovò nulla di interessante.
 
 #### H12. Sala delle Udienze
+I coboldi usano questa camera come sala per le loro riunioni. Qui **si possono trovare dodici coboldi** e un inventore **coboldi**. Se scoppia una rissa, l'inventore scaglierà una delle sue invenzioni contro gli aggressori e correrà attraverso la porta sud, cercando di condurli nelle trappole al di là di essa.
 
+Altri coboldi possono fuggire attraverso la porta segreta nel muro est e girare attraverso le difese esterne (area H9) per attaccare il gruppo da un'altra direzione. I coboldi combatteranno vigorosamente per difendere la porta segreta nel muro ovest, che conduce al tesoro del drago (area H17).
+
+Le stirge possono essere riposizionate nella caserma degli orchi (area H18) o semplicemente rimosse dalla mappa.
+
+**Corridoio intrappolato**
+
+Il corridoio tra l'area H12 e l'area H13 ha una trappola nascosta davanti alla porta occidentale dell'H13. I coboldi sono troppo piccoli per innescarlo, ma qualsiasi creatura che pesa più di 50 libbre causerà il crollo del pavimento, facendoli cadere per 10 piedi in un letto di spuntoni nel sottosuolo (area H21).
+
+I personaggi possono individuare la trappola con una prova di Percezione con CD 15 e disarmarla incuneando degli aculei nel meccanismo. Un personaggio che innesca la trappola deve superare un tiro salvezza su Destrezza CD 15 o subire 1d6 danni contundenti dalla caduta e 1d10 danni perforanti dagli spuntoni.
 
 #### H13. Sala da Pranzo
 
