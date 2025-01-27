@@ -109,9 +109,6 @@ Linene custodisce in una stanza sul retro una piccola scorta di armi e armature,
 ***Merci Recuperate.*** Se i personaggi restituiscono le merci rubate trovate nell’area 8 del nascondiglio dei Cragmaw (o se hanno lasciato le merci sul posto, ma spiegano a Linene dove trovarle), ottengono dalla donna una ricompensa di 50 mo e la promessa di aiutare gli avventurieri in ogni modo che le sia possibile.
 
 #### Borsa dei Minatori di Phandalin
-
-^f4294f
-
 La Borsa dei Minatori è un avamposto commerciale dove i minatori locali possono far pesare, misurare e vendere i metalli estratti. In assenza di un qualsiasi nobile o autorità locale, la borsa funge anche da ufficio del catasto informale, registrando le concessioni di vari ruscelli e siti di scavo nell’area. Quella di Phandalin non può essere definita una vera e propria febbre dell’oro, ma i corsi d’acqua e le valli vicine nascondono abbastanza ricchezze da mantenere un buon numero di cercatori indipendenti.
 La borsa è un ottimo posto dove incontrare gente che passa molto tempo nelle campagne attorno a Phandalin. La maestra di gilda è una donna ambiziosa e calcolatrice di nome Halia Thornton. Nel tentativo di fare della Borsa dei Minatori la cosa più vicina a un’autorità governativa che il paese possa avere, si atteggia a ben più di una semplice mercante. È inoltre un’agente degli Zhentarim, una potente organizzazione segreta che cerca di ottenere il controllo sul Nord attraverso la ricchezza e l’influenza economica. Infatti Halia contrabbanda armi e merci rubate usando come copertura i carichi di metalli preziosi che i minatori spediscono a Neverwinter e nelle altre città collegate dalla Strada Alta.
 Halia vuole portare gradualmente Phandalin sotto il suo controllo e può diventare una preziosa datrice di lavoro per i personaggi, se questi si dimostrano gente di parola con lei.
