@@ -209,7 +209,10 @@ Mentre i suoi soldati morivano di fame, Delsendra Amzarr fu costretta a sedare u
 Al centro della stanza c'è un robusto tavolo di quercia attorno al quale Delsendra e i suoi ufficiali pianificavano le battaglie. Minuscole figure di soldati in legno intagliato sono sparse qua e là, così come i resti strappati di vecchie mappe.
 I coboldi hanno trasformato questa stanza nel tesoro di Cryovain. Il tavolo delle mappe, il pavimento e i resti di Delsendra Amzarr sono pieni di tesori saccheggiati.
 I coboldi hanno messo una trappola nella porta nel muro ovest con dardi avvelenati innescati da una piastra a pressione nella piazza a ovest. I dardi sparano sopra l'altezza del coboldo. I personaggi possono individuare la piastra a pressione con una prova di Percezione con CD 15 e disarmare la trappola con una prova di Indagare con CD 15. Se attivata, la trappola rilascia quattro dardi. Ogni dardo effettua un attacco a distanza con un bonus di +6 contro un bersaglio casuale entro 3 metri dalla piastra di pressione. I personaggi che vengono colpiti subiscono 1d4 danni perforanti e devono superare un tiro salvezza su Costituzione con CD 15, subendo 2d10 danni da veleno se falliscono il tiro salvezza o la metà dei danni se riesce.
-***Porta segreta.*** La porta segreta nella parete est si apre per rivelare una scala larga 90 centimetri che scende di 3 metri fino all' [area H21](https://5e.tools/adventure.html#dip,8,h21.%20undercroft,0). La criovaina è troppo grande per entrare in questa scala.
+***Porta segreta.*** La porta segreta nella parete est si apre per rivelare una scala larga 90 centimetri che scende di 3 metri fino all' [area H21](https://5e.tools/adventure.html#dip,8,h21.%20undercroft,0). Cryovain è troppo grande per entrare in questa scala.
+
+###### Tesoro
+All'interno della stanza i personaggi trovano il tesoro accumulato da Cryovain, composto da 1500 mr,  
 
 #### H18. Caserma degli Orchi
 
