@@ -212,13 +212,14 @@ I coboldi hanno messo una trappola nella porta nel muro ovest con dardi avvelena
 ***Porta segreta.*** La porta segreta nella parete est si apre per rivelare una scala larga 90 centimetri che scende di 3 metri fino all' [area H21](https://5e.tools/adventure.html#dip,8,h21.%20undercroft,0). Cryovain è troppo grande per entrare in questa scala.
 
 ###### Tesoro
-All'interno della stanza i personaggi trovano il tesoro accumulato da Cryovain, composto da 1500 mr, 1000 ma, 900 mo, 4 eliotropie dal valore di 50 mo l'una, un diamante dal valore di 300 mo, 
+All'interno della stanza i personaggi trovano il tesoro accumulato da Cryovain, composto da 1500 mr, 1000 ma, 900 mo, 4 eliotropie dal valore di 50 mo l'una, un diamante dal valore di 300 mo, una *pozione di guarigione maggiore*, un'*armatura in mithral*, un cannocchiale incrinato dal valore di 100 mo e un *oggetto magico raro*.
 
 #### H18. Caserma degli Orchi
-
+Tre **uccelli stigei** svolazzano ansiosamente in questa sala fredda e lugubre. Gli uccelli sono assetati di sangue e attaccano incuranti qualsiasi creatura a sangue caldo che tenti di attraversare la stanza.
 
 #### H19. Tana del Capo degli Orchi
-
+Kra, il capo degli Orchi, dimorò qui fino a quando Cryovain non lo mangiò. Tutto ciò che rimane di Kra è una mano destra mozzata che stringe ancora l'impugnatura di un'ascia  dall'aspetto elegante, che ha trovato nell'area H17. La stanza è decorata con il bottino di guerra, compresi i mobili dall'aspetto impressionante che sono stati in gran parte distrutti quando Cryovain ha attaccato. Nella stanza sono ammucchiate anche pellicce, corna, teste marce dei nemici di Kra (nani, umani e orchi rivali), così come altri trofei.
+***Tesoro***. I personaggi che perlustrano la stanza trovano una sedia di legno decorata priva di uno dei suoi bracci. Realizzato dagli elfi marini come dono ai loro cugini terrestri, ha sei rami di corallo rosso lavorati nel suo design. I rami possono essere staccati e valgono 25 mo ciascuno.
 
 #### H20. Tetto
 
