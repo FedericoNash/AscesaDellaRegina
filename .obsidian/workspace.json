@@ -46,8 +46,14 @@
             "id": "92197b1d084e4b01",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Maschera del Drago Nero",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Meccaniche/Oggetti Magici/Maschera del Drago Nero.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Maschera del Drago Nero\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -871,10 +877,11 @@
   },
   "active": "92197b1d084e4b01",
   "lastOpenFiles": [
+    "2. Meccaniche/Oggetti Magici/Maschera del Drago Nero.md",
+    "Cap5. L'attacco del Drago.md",
     "z_Allegati/Misc/013-map-db-dm-1.webp",
     "1. Almanacco del Mondo/Forgotten Realms/Faerun/Phandalin.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap0. Introduzione.md",
-    "Cap5. L'attacco del Drago.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap1. Le Frecce dei Goblin.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap4. La Caverna dell'onda Tonante.md",
@@ -899,7 +906,6 @@
     "z_Allegati/z_Template/4.Template - Trackers/Template - Tracker Insediamento.md",
     "z_Allegati/z_PDF/settlement-tracker.pdf",
     "z_Allegati/Misc/Pasted image 20250116201127.webp",
-    "2. Meccaniche/Oggetti Magici/Maschera del Drago Nero.md",
     "z_Allegati/z_Template/1. Template - Mondo/Template - Cataclisma.md",
     "z_Allegati/z_Mappe/012-map-1.02-cragmaw-hideout-1.webp",
     "0. Schermo Del Master/Combattimento/Combattere.md",
@@ -914,7 +920,6 @@
     "z_Allegati/z_PDF/magic-item-sheet.pdf",
     "z_Allegati/z_Template/4.Template - Trackers",
     "z_Allegati/z_PDF/npc-tracker-sheet.pdf",
-    "z_Allegati/z_Mappe/Phandalin_region.png",
     "z_Allegati/z_PDF",
     "z_Immagini"
   ]

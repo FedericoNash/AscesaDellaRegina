@@ -89,4 +89,18 @@ La Roccaforte di Gugliaghiacciata è una fortezza di pietra arroccata sullo sper
 
 Quando Cryovain decise di fare della Roccaforte di Gugliaghiacciata la sua tana, prese d'assalto la fortezza attraverso la sezione sud-ovest sbriciolata e mangiò diversi Orchi prima di stabilirsi sul tetto. Con un terribile ruggito, il drago ingozzato scacciò gli Orchi rimasti fuori dalla Roccaforte di Gugliaghiacciata.
 
-Di recente, cultisti malvagi che fan parte di un'organizzazione chiamata Figli del Drago si sono infiltrati, mandati dal Ragno Nero, nel corpo di guardia e sono sfuggiti all'attenzione di Cryovain. Vogliono convincere il drago ad unirsi alla loro causa, promettendogli prestigio e ricchezze. Presumono inoltre che il drago abbia accumulato un tesoro e lo abbia nascosto nella fortezza. La prossima volta che il drago vola via, hanno intenzione di rubarlo. Trattano gli avventurieri come farebbero con qualsiasi altro concorrente, cercando di spaventarli o di ucciderli.
+Di recente, cultisti malvagi che fan parte di un'organizzazione chiamata Figli del Drago si sono infiltrati, mandati dal Ragno Nero, nel corpo di guardia e sono sfuggiti all'attenzione di Cryovain. Vogliono convincere il drago ad unirsi alla loro causa, promettendogli prestigio e ricchezze. Presumono inoltre che il drago abbia delle uova e le abbia nascoste nella fortezza. Se Cryovain non dovesse collaborare, a prossima volta che il drago vola via, hanno intenzione di rubarle. 
+Se Nezznar è riuscita a fuggire con la [[Maschera del Drago Nero]] dalla Caverna dell'ONda Tonante, i personaggi la ritrovano nella stanza di Cryovain intenta a persuadere il drago.
+
+### Caratteristiche di Icespire Hold
+Icespire Hold si trova a un'altitudine di 800 metri ed è circondata da scogliere ghiacciate a strapiombo. Altre caratteristiche della location sono riassunte di seguito.
+
+Fessure per frecce. Quando usa una fenditura per proteggersi, una creatura guadagna [tre quarti di copertura](https://5e.tools/quickreference.html#bookref-quick,3,cover) (vedi [il regolamento](https://5e.tools/book.html#PHB)) contro le minacce esterne. Un personaggio Medio non può passare attraverso una fenditura per le frecce, ma un personaggio Piccolo può farlo con una prova di Destrezza (Acrobazia) con CD 10 superata.
+
+Soffitti. Le stanze e i corridoi del corpo di guardia e della fortezza hanno soffitti a volta alti 15 piedi. I soffitti nel sotterraneo sono alti 8 piedi e piatti.
+
+Porte. Le porte normali sono in legno dotate di maniglie e cerniere in ferro arrugginito. Le porte segrete sono fatte di pietra e si fondono con le mura circostanti. Trovare una porta segreta richiede una perquisizione del muro e una prova di Saggezza (Percezione) con CD 15.
+
+Leggero. Le aree interne prive di luce naturale per illuminarle sono completamente buie.
+
+Temperatura. La temperatura è leggermente sopra lo zero durante il giorno e precipita di notte. Ogni volta che la temperatura è pari o inferiore a 0 gradi Fahrenheit, una creatura esposta al freddo deve effettuare un Tiro Salvezza su Costituzione con CD 10 alla fine di ogni ora. Le creature con resistenza o immunità ai danni da freddo superano automaticamente il tiro salvezza, così come le creature che indossano equipaggiamento per il freddo e le creature naturalmente adattate ai climi freddi. In un Tiro Salvezza fallito, la creatura ha svantaggio alle prove di caratteristica, ai tiri per colpire e ai Tiri Salvezza, e la sua velocità è dimezzata. La creatura muore congelata se subisce questi effetti per sei ore consecutive. Questi effetti terminano sulla creatura dopo che ha trascorso almeno un'ora in un luogo di calore.
