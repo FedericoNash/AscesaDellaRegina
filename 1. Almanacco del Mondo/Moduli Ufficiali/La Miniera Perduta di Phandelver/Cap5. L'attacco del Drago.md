@@ -230,10 +230,11 @@ Cryovain è un **giovane drago bianco**, ma se i tuoi personaggi sanno cosa stan
 ***Unirisi ai Figli del Drago.*** Se Nezznar è sopravvissuta ed ha la [[Maschera del Drago Nero]], si trova qui e sta convincendo Cryovain ad unirsi al culto grazie al potere della maschera. I personaggi arrivano non appena sono terminate le trattative e vengono attaccati da Nezznar che cavalca Cryovain. Se ridotti a sotto i 30 punti ferita, Cryovain e Nezznar fuggono da Phandalin per riunirsi al culto oltre i Boschi di Neverwinter.
 
 #### H21. Sotterraneo
-Questa stanza vuota è mortalmente fredda. Incisa nell'architrave sopra ogni porta c'è la parola "CRiPTe" in comune.
+Questa stanza vuota è mortalmente fredda. Incisa nell'architrave sopra ogni porta c'è la parola "CRIPTE" in comune.
 
 #### H22. Cripte
-
+Questi passaggi grezzi contengono bare di pietra non contrassegnate in nicchie. All'interno di ogni bara sono sigillate le ossa, le armature arrugginite e le armi arrugginite dei guerrieri caduti in battaglia sotto il comando di Delsendra Amzarr.
 
 #### H23. Cripta Vuota ed Uscita Segreta
-
+Delle cinque bare di pietra non contrassegnate in questa tomba, quattro sono vuote. La bara centrale contiene uno slittino smontato che richiede 10 minuti per essere assemblato. Lo slittino è stato progettato per sfrecciare giù per il fianco della montagna, un'ultima via di fuga che non è mai stata utilizzata.
+***Porta segreta unidirezionale.*** La porta segreta nella parete sud è progettata in modo che possa essere aperta solo dall'interno della stanza tirando una maniglia nascosta. Un  [incantesimo di bussare](https://5e.tools/spells.html#knock_phb) o una magia simile può aprirlo dall'esterno. La porta si apre su una sporgenza che si affaccia su un pendio ghiacciato di montagna.
