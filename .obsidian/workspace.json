@@ -51,18 +51,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Cap5. L'attacco del Drago",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cap5. L'attacco del Drago.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap5. L'attacco del Drago\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":9.07747861998237}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cap5. L'attacco del Drago.md",
+                "file": "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap1. Le Frecce dei Goblin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cap5. L'attacco del Drago"
+              "title": "Cap1. Le Frecce dei Goblin"
             }
           }
         ],
@@ -859,8 +865,8 @@
   },
   "active": "92197b1d084e4b01",
   "lastOpenFiles": [
-    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap0. Introduzione.md",
     "Cap5. L'attacco del Drago.md",
+    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap0. Introduzione.md",
     "1. Almanacco del Mondo/Forgotten Realms/Faerun/Phandalin.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap4. La Caverna dell'onda Tonante.md",
