@@ -219,7 +219,7 @@ Tre **uccelli stigei** svolazzano ansiosamente in questa sala fredda e lugubre. 
 
 #### H19. Tana del Capo degli Orchi
 Kra, il capo degli Orchi, dimorò qui fino a quando Cryovain non lo mangiò. Tutto ciò che rimane di Kra è una mano destra mozzata che stringe ancora l'impugnatura di un'ascia  dall'aspetto elegante, che ha trovato nell'area H17. La stanza è decorata con il bottino di guerra, compresi i mobili dall'aspetto impressionante che sono stati in gran parte distrutti quando Cryovain ha attaccato. Nella stanza sono ammucchiate anche pellicce, corna, teste marce dei nemici di Kra (nani, umani e orchi rivali), così come altri trofei.
-***Tesoro***. I personaggi che perlustrano la stanza trovano una sedia di legno decorata priva di uno dei suoi bracci. Realizzato dagli elfi marini come dono ai loro cugini terrestri, ha sei rami di corallo rosso lavorati nel suo design. I rami possono essere staccati e valgono 25 mo ciascuno.
+***Tesoro***. L'arma di Kra è una _grandascia della vendetta_. I coboldi l'hanno lasciata qui perché è troppo pesante da trasportare. Lo spirito di Kra è ansioso di vendicarsi di Cryovain e l'ascia si sintonizzerà immediatamente con chiunque combatta il drago. I personaggi che perlustrano la stanza trovano una sedia di legno decorata priva di uno dei suoi bracci. Realizzato dagli elfi marini come dono ai loro cugini terrestri, ha sei rami di corallo rosso lavorati nel suo design. I rami possono essere staccati e valgono 25 mo ciascuno.
 
 #### H20. Tetto
 
