@@ -5,4 +5,5 @@ Ma le minacce non sono finite a Phandalin: una giovane dragonessa di nome Cryova
 Una fortezza fatiscente sullo sperone nord-est del Picco Gugliaghiacciata funge da tana de
 l drago. Cryovain si impadronì della fortezza di ghiaccio da una tribù di orchi selvaggi, uccidendo il capo guerriero degli orchi e costringendo i sopravvissuti della tribù a fuggire ai piedi delle colline e nelle foreste.
 
-### 
+### Falsa tranquillità
+Quando i personaggi tornano dalla Caverna dell'Onda Tonante, vengono accolti tiepidamente dalla gente di Phandalin
