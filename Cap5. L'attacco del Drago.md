@@ -112,6 +112,22 @@ Imposta la scena leggendo ad alta voce il seguente testo in riquadro:
 
 La creatura congelata è un ogre che il drago bianco ha ucciso con il suo soffio freddo. Il cadavere dell'orco era troppo grande per essere portato via, così il drago lo lasciò. Un personaggio che esamina attentamente la scena e supera una prova di Saggezza (Sopravvivenza) con CD 15 può accertare che l'orco è stato ucciso nelle ultime 24 ore. Il freddo delle colline pedemontane ha impedito al ghiaccio di sciogliersi.
 
-Congelato nel ghiaccio con l'orco è un sacco pesante, ma non può essere raggiunto o perquisito fino a quando i personaggi non scheggiano o sciolgono il ghiaccio che lo ricopre. Il sacco contiene un elmo nano arrugginito, due metà di uno scudo di legno scheggiato, un'erbaccia, un cappello da cowboy accartocciato e una bambola di sacco che ha un disperato bisogno di essere ricucita.
+Congelato nel ghiaccio con l'ogre c'è un sacco pesante, ma non può essere raggiunto o perquisito fino a quando i personaggi non scheggiano o sciolgono il ghiaccio che lo ricopre. Il sacco contiene un elmo nano arrugginito, due metà di uno scudo di legno scheggiato, un'erbaccia, un cappello da cowboy accartocciato e una bambola di sacco che ha un disperato bisogno di essere ricucita.
 
-Tesoro. Se i personaggi sono a corto di magia curativa, trovano tre [pozioni di guarigione](https://5e.tools/items.html#potion%20of%20healing_dmg) nel sacco dell'orco insieme agli oggetti inutili sopra. (Dai ai giocatori tre [Pozioni di Guarigione](https://5e.tools/items.html#potion%20of%20healing_dmg) o possono farvi riferimento nell' [elenco degli articoli di equipaggiamento](https://5e.tools/items.html).)
+***Tesoro***. Se i personaggi sono a corto di magia curativa, trovano tre [pozioni di guarigione](https://5e.tools/items.html#potion%20of%20healing_dmg) nel sacco dell'orco insieme agli oggetti inutili sopra. 
+
+### Arrivo
+Mentre i personaggi si avvicinano alla Roccaforte, leggi ad alta voce il seguente testo ai giocatori per impostare la scena: 
+
+>[!note]- Leggere ad Alta Voce
+>*Le nuvole oscurano in parte una fortezza di pietra situata in cima allo sperone ghiacciato di una montagna frastagliata e innevata che riconoscete essere il Picco Gugliaghiacciata, un punto di riferimento così enorme da essere visibile da Phandalin in una giornata limpida. La montagna sovrasta la fortezza, che consiste in due strutture separate unite tra loro da un ponte di pietra. Un sentiero stretto e tortuoso si inerpica sul fianco della montagna fino alla più piccola delle due strutture, e sembra essere l'unico modo sicuro per raggiungerla via terra. È un percorso sgradito, ma non così sgradito come il vento freddo e ululante che ti sbatte.*
+
+Se Cryovain è vivo, il [giovane drago bianco](https://5e.tools/bestiary.html#young%20white%20dragon_mm) dorme sul tetto della fortezza principale ([area H20](https://5e.tools/adventure.html#dip,8,h20.%20roof,0)), dove può godersi l'aria fredda di montagna mentre sorveglia il suo dominio dall'alto dei bastioni. Dorme in un'area di 10 piedi quadrati al centro del tetto, lontano dagli ostacoli, e si sveglia se si verifica una delle seguenti cose:
+
+1.                  Il drago è bersagliato da un incantesimo o subisce danni.
+
+2.                  Qualcuno o qualcosa fa un rumore abbastanza forte da interrompere il sonno del drago. I rumori che si qualificano includono il battito di un  [incantesimo di un'onda temporalesca](https://5e.tools/spells.html#thunderwave_phb), suoni di combattimento in aree non completamente sigillate dall'esterno da porte o un sussurro all'orecchio del drago.
+
+Se il drago si rende conto che gli intrusi sono nelle vicinanze ma non riesce a determinare dove si trovino, emette un ruggito e prende il volo. Mentre gira intorno alla fortezza, si guarda intorno alla ricerca di segni di intrusione. Se non trova nulla da attaccare, torna sul tetto e aspetta che gli intrusi lo raggiungano. Il drago è abbastanza piccolo da potersi infilare attraverso porte e passaggi, ma ha bisogno di un incentivo per entrare nella fortezza perché non gli piacciono gli spazi ristretti. Come la maggior parte dei draghi bianchi, Cryovain è lento e facilmente adescabile.
+
+L'ululato del vento impedisce a Cryovain di sentire gli intrusi che rimangono relativamente silenziosi. Il vento fa anche tacere i personaggi mentre seguono il sentiero ghiacciato (zona H1) che conduce da e verso il corpo di guardia (zone da H2 a H6).
