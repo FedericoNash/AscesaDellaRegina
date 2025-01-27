@@ -181,20 +181,15 @@ Anni fa, un terremoto fece crollare due angoli della fortezza in grandi cumuli d
 Tra cumuli di macerie si trova una sala vuota con feritoie per frecce che fiancheggiano il muro esterno. Cryovain sfondò la porta est per entrare, ma non trovò nulla di interessante.
 
 #### H12. Sala delle Udienze
-I coboldi usano questa camera come sala per le loro riunioni. Qui **si possono trovare dodici coboldi** e un inventore **coboldi**. Se scoppia una rissa, l'inventore scaglierà una delle sue invenzioni contro gli aggressori e correrà attraverso la porta sud, cercando di condurli nelle trappole al di là di essa.
-
+Un tempo scudi, armi e arazzi decoravano le pareti, ma gli orchi hanno demolito e distrutto l'arredamento. Una dozzina di scheletri umanoidi con un'armatura arrugginita giacciono sparsi tra le macerie. (Tutti morirono di fame.) Dipinto sul pavimento di pietra c'è uno stemma a forma di scudo di 10 piedi di diametro che presenta una torre nera colpita da un fulmine d'oro, l'emblema del signore della guerra Delsendra Amzarr.
+Porta segreta. Questa stanza ha due porte segrete. La porta segreta est si apre per rivelare l ['area H9](https://5e.tools/adventure.html#dip,8,h9.%20outer%20defenses,0). La porta segreta ovest si apre per rivelare una scala larga 3 piedi che scende per 10 piedi fino all' [area H21](https://5e.tools/adventure.html#dip,8,h21.%20undercroft,0). La criovaina è troppo grande per entrare in questa scala.
+I coboldi usano questa camera come sala per le loro riunioni. Qui si possono trovare dodici **coboldi** e un **inventore coboldo**. Se scoppia una rissa, l'inventore scaglierà una delle sue invenzioni contro gli aggressori e correrà attraverso la porta sud, cercando di condurli nelle trappole al di là di essa.
 Altri coboldi possono fuggire attraverso la porta segreta nel muro est e girare attraverso le difese esterne (area H9) per attaccare il gruppo da un'altra direzione. I coboldi combatteranno vigorosamente per difendere la porta segreta nel muro ovest, che conduce al tesoro del drago (area H17).
-
-Le stirge possono essere riposizionate nella caserma degli orchi (area H18) o semplicemente rimosse dalla mappa.
-
-**Corridoio intrappolato**
-
-Il corridoio tra l'area H12 e l'area H13 ha una trappola nascosta davanti alla porta occidentale dell'H13. I coboldi sono troppo piccoli per innescarlo, ma qualsiasi creatura che pesa più di 50 libbre causerà il crollo del pavimento, facendoli cadere per 10 piedi in un letto di spuntoni nel sottosuolo (area H21).
-
+***Corridoio con trappola***. Il corridoio tra l'area H12 e l'area H13 ha una trappola nascosta davanti alla porta occidentale dell'H13. I coboldi sono troppo piccoli per innescarlo, ma qualsiasi creatura che pesa più di 25 chili causerà il crollo del pavimento, facendoli cadere per 3 metri in un letto di spuntoni nel sottosuolo (area H21).
 I personaggi possono individuare la trappola con una prova di Percezione con CD 15 e disarmarla incuneando degli aculei nel meccanismo. Un personaggio che innesca la trappola deve superare un tiro salvezza su Destrezza CD 15 o subire 1d6 danni contundenti dalla caduta e 1d10 danni perforanti dagli spuntoni.
 
 #### H13. Sala da Pranzo
-
+Otto **coboldi** stanno cenando qui con gli avanzi dell'ultima uccisione di Cryovain. Attaccheranno tutte le creature che entrano nel corridoio o cadono nella trappola della fossa.
 
 #### H14. Cucina 
 
