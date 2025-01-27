@@ -227,10 +227,10 @@ La battaglia finale contro Cryovain si svolgerà probabilmente qui. Il drago bia
 Se i personaggi si fermano in una stanza con fessure per le frecce, il drago li mitraglierà dall'esterno con la sua arma a soffio nel tentativo di stanarli. Se sono abbastanza temerari da avventurarsi tra le macerie (area H10), li ingaggeranno volentieri lì. Se tentano di fuggire dalla fortezza, questa li attacca sul ponte di pietra (area H7) o sullo stretto sentiero (area H1). Altrimenti, aspetta di combatterli sul tetto dove può muoversi liberamente.
 Cryovain è un **giovane drago bianco**, ma se i tuoi personaggi sanno cosa stanno facendo, dovresti dargli i punti ferita di un drago bianco adulto, e possibilmente anche le azioni leggendarie. Tuttavia, il drago potrebbe non aver bisogno di molta spinta se i personaggi sono logorati da incontri precedenti. Cryovain può essere molto pericoloso per un gruppo di 6° livello, abbattendo facilmente i personaggi con un solo Tiro Salvezza fallito contro la sua arma a soffio. Se rimane fuori dalla fortezza e non si lascia bloccare, il gruppo dovrebbe essere pronto a combattere.
 ***Ghiaccio scivoloso.*** Il ghiaccio scivoloso copre il tetto. Il ghiaccio è [un terreno difficile](https://5e.tools/book.html#PHB,8,difficult%20terrain,0) (vedi [il regolamento](https://5e.tools/book.html#PHB)). Quando una creatura diversa da Cryovain si muove sul ghiaccio per la prima volta in un turno, deve superare una prova di Destrezza (Acrobazia) con CD 10 o cadere [prona](https://5e.tools/conditionsdiseases.html#prone_phb).
-Unirisi ai Figli del Drago. Se Nezznar è sopravvissuta ed ha la [[Maschera del Drago Nero]], si trova 
+***Unirisi ai Figli del Drago.*** Se Nezznar è sopravvissuta ed ha la [[Maschera del Drago Nero]], si trova qui e sta convincendo Cryovain ad unirsi al culto grazie al potere della maschera. I personaggi arrivano non appena sono terminate le trattative e vengono attaccati da Nezznar che cavalca Cryovain. Se ridotti a sotto i 30 punti ferita, Cryovain e Nezznar fuggono da Phandalin per riunirsi al culto oltre i Boschi di Neverwinter.
 
 #### H21. Sotterraneo
-
+Questa stanza vuota è mortalmente fredda. Incisa nell'architrave sopra ogni porta c'è la parola "CRiPTe" in comune.
 
 #### H22. Cripte
 
