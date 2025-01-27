@@ -64,12 +64,18 @@ Le ossa e la sella in decomposizione del cavallo di Lady Alagondar giacciono nel
 #### D5. Tunnel stretto
 Questo tunnel è largo solo 60 centimetri. A metà strada, una piastra di pressione lunga 5 piedi è nascosta sotto uno strato di terra spesso 2 pollici. Un personaggio che spinge in avanti con un palo o uno strumento simile può rilevare il piatto con una prova di Saggezza (Percezione) con CD 10 superata. Il primo personaggio a calpestare il piatto fa crollare le pareti del tunnel verso l'interno, seppellendo tutte le creature nel tunnel. Una creatura sepolta è accecata e trattenuta, ha una copertura totale contro gli attacchi e inizia a soffocare quando rimane senza fiato (vedi "Soffocamento" nel regolamento). Solo una creatura che non è intrappolata nel tunnel può eliminare il crollo, usando un'azione per aprire la sezione profonda 5 piedi del tunnel più vicina ad essa. Una creatura in quello spazio non è più sepolta.
 
-D6. Falsa Tomba
-
+#### D6. Falsa Tomba
 Due sarcofagi di pietra sigillati riposano in nicchie scavate nella parete sud qui. Ogni sarcofago rilascia una nuvola di polvere corrosiva quando viene aperto, riempiendo l'area di 10 piedi per 10 piedi a nord del sarcofago. Qualsiasi creatura nell'area deve effettuare un tiro salvezza su Destrezza con CD 15, subendo 14 (4d6) danni da acido se un tiro salvezza fallito o la metà dei danni se lo riesce. La nuvola poi scompare. I sarcofagi non contengono nulla di interessante.
 
-D7. Sepolcro degli Avventurieri
-
+#### D7. Sepolcro degli Avventurieri
 Quattro sarcofagi in nicchie contengono le ossa ammuffite di avventurieri (un bardo, un chierico, un combattente e un mago) che morirono combattendo contro Azdraka.
+***Tesoro***. Il sarcofago nord-ovest contiene il bardo morto, che fu sepolto con un *liuto di illusioni*. Sigillata con il mago morto nel sarcofago sud-est c'è una *collana di palle di fuoco*. Se i personaggi acquisiscono e identificano questi oggetti magici, dai loro le carte Liuto delle Illusioni e Collana di Palle di Fuoco o possono farvi riferimento nell'elenco degli oggetti magici.
 
-Tesoro. Il sarcofago nord-ovest contiene il bardo morto, che fu sepolto con un liuto di illusioni. Sigillata con il mago morto nel sarcofago sud-est c'è una collana di palle di fuoco. Se i personaggi acquisiscono e identificano questi oggetti magici, dai loro le carte Liuto delle Illusioni e Collana di Palle di Fuoco o possono farvi riferimento nell'elenco degli oggetti magici.
+#### D8. Ammazzadraghi
+Due sarcofagi in nicchie contengono le ossa ammuffite e l'armatura arrugginita di Tanamere Alagondar e del suo fedele scudiero, ma non contengono nulla di valore. L'area a nord dei sarcofagi ha le ossa di Azdraka, un enorme drago, incastonate nelle sue pareti. Il teschio del drago poggia sul pavimento e ha una spada lunga incastonata in cima.
+
+***Tesoro***. La spada è l'[uccisore di draghi](https://5e.tools/items.html#dragon%20slayer%20longsword_dmg) di Lady Alagondar. Se la spada viene presa, leggete questo testo: 
+
+>[!note]- Leggere ad Alta Voce
+>*Appena dopo aver estratto la spada, la polvere inizia a cadere dal soffitto, il cumulo di ossa inizia a tremare e tutti voi sentite chiaramente una voce piena di fierezza dichiarare: “QUESTA È LA SPADA DI UNA VERA EROINA, DIMOSTRATE IL VOSTRO VALORE”. E il gigantesco scheletro del drago nella stanza si alza dal terreno.*
+
