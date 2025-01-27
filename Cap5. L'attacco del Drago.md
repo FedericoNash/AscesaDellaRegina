@@ -28,4 +28,20 @@ Dopo essere stato cacciato dalla sua casa nei Boschi di Neverwinter da orchi pre
 
 A discrezione del DM, Xanth può intrattenere i personaggi raccontando la storia del villaggio di Thundertree.
 
+##### Caratteristiche delle catacombe
+Una serie di camere e tunnel a livello del suolo formano le catacombe sotto il tumulo del tumulo. Puzzano di terra umida e di aria viziata e mortale.
+***Soffitti***. I soffitti sono alti 2,5 metri e piatti.
+***Costruzione in terra.*** Tutti i tunnel e le stanze hanno pareti, pavimenti e tetti in terra battuta.
+***Luce***. Non c'è luce all'interno del tumulo. Gli avventurieri hanno bisogno della visione oscura o delle proprie fonti di luce per vedere all'interno.
+***Sarcofagi***. I sarcofagi che si trovano in tutte le catacombe sono scolpiti da solidi blocchi di granito e sigillati con pesanti coperchi di granito. Le guarnizioni sono ermetiche. Sollevare un coperchio richiede una prova di Forza con CD 20 (Atletica) superata. Ogni coperchio è un oggetto medio con CA 17, 12 punti ferita e immunità al veleno e ai danni psichici.
+
+## Arrivo
+Quando gli avventurieri giungono in vista del tumulo, leggete ad alta voce il seguente testo in riquadro:
+
+>[!note]- Leggere ad Alta Voce
+>*Una collina alta nove metri si erge davanti a te, la sua cima è troppo piatta per essere un evento naturale. Sporgendo dalla cima erbosa della collina c'è una fila di rocce bianche alte dieci piedi che si inarcano verso il cielo tempestoso come artigli distesi.*
+
+I personaggi che salgono in cima al tumulo e lo osservano notano la sua caratteristica forma simile a quella di un drago con una prova di Saggezza (Intuizione) con CD 10 riuscita. Le rocce pallide assomigliano a spuntoni che sporgono dal dorso del drago.
+
+Di notte, i [fuochi fatui](https://5e.tools/bestiary.html#will-o'-wisp_mm) nell['area D2](https://5e.tools/adventure.html#DIP,4,d2.%20will-o'-wisps,0) emergono dalla collina usando il loro movimento incorporeo e fluttuano sopra il tumulo, sperando di attirare la preda con le loro luci. Se rilevano personaggi nelle vicinanze, i fuochi fatui diventano [invisibili](https://5e.tools/conditionsdiseases.html#invisible_phb) e si ritirano nel tumulo.
 
