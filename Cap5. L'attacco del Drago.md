@@ -164,4 +164,28 @@ Quattro [cavalli da sella](https://5e.tools/bestiary.html#riding%20horse_mm) son
 
 #### H10. Detriti
 
-#### H11. Posto di Guardia
+#### H11. Posto di Guardia Abbandonato
+
+#### H12. Sala delle Udienze
+
+#### H13. Sala da Pranzo
+
+#### H14. Cucina 
+
+#### H15. Dispensa
+
+#### H16. Armeria
+
+#### H17. Stanza della Signora della Guerra
+
+#### H18. Caserma degli Orchi
+
+#### H19. Tana del Capo degli Orchi
+
+#### H20. Tetto
+
+#### H21. Sotterraneo
+
+#### H22. Cripte
+
+#### H23. Cripta Vuota ed Uscita Segreta
