@@ -6,4 +6,4 @@ Una fortezza fatiscente sullo sperone nord-est del Picco Gugliaghiacciata funge 
 l drago. Cryovain si impadronì della fortezza di ghiaccio da una tribù di orchi selvaggi, uccidendo il capo guerriero degli orchi e costringendo i sopravvissuti della tribù a fuggire ai piedi delle colline e nelle foreste.
 
 ### Falsa tranquillità
-Quando i personaggi tornano dalla Caverna dell'Onda Tonante, vengono accolti tiepidamente dalla gente di Phandalin
+Quando i personaggi tornano dalla Caverna dell'Onda Tonante, vengono accolti tiepidamente dalla gente di Phandalin. Mentre i personaggi erano intenti a sconfiggere il Ragno Nero infatti, Cryovain ha attaccato l'insediamento, distruggendo il Frutteto Edermath e uccidendo il proprietario.
