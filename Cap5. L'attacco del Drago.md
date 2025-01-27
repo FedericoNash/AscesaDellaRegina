@@ -93,7 +93,7 @@ Di recente, cultisti malvagi che fan parte di un'organizzazione chiamata Figli d
 Se Nezznar è riuscita a fuggire con la [[Maschera del Drago Nero]] dalla Caverna dell'ONda Tonante, i personaggi la ritrovano nella stanza di Cryovain intenta a persuadere il drago.
 
 >[!note]- Figli del Dragone
->I cultisti dei Figli del Dragone sono quattro umanoidi di allineamento neutrale malvagio che mirano a formare un grande esercito ed un grande tesoro per riportare sul Piano Materiale la loro malvagia regina, Tiamat. Il gruppo che si nasconde nella roccaforte è un task force di 4 **dragoali**, guidati da una **dragozanna** (vedi Rise of Tiamat) di nome Favric, con resistenza ai danni da freddo che ha l'obiettivo di convincere Cryovain ad unirsi alla causa. Stanno aspettando da un paio di giorni gli ordini di Nezznar, ma se dovranno aspettare ancora metteranno in atto il piano B: rubare le ricchezze e le uova della dragonessa alla prima occasione utile.
+>I cultisti dei Figli del Dragone sono quattro umanoidi di allineamento neutrale malvagio che mirano a formare un grande esercito ed un grande tesoro per riportare sul Piano Materiale la loro malvagia regina, Tiamat. Il gruppo che si nasconde nella roccaforte è un task force di 3 **dragoali**, guidati da una **dragozanna** (vedi Rise of Tiamat) di nome Favric, con resistenza ai danni da freddo che ha l'obiettivo di convincere Cryovain ad unirsi alla causa. Stanno aspettando da un paio di giorni gli ordini di Nezznar, ma se dovranno aspettare ancora metteranno in atto il piano B: rubare le ricchezze e le uova della dragonessa alla prima occasione utile.
 
 
 ### Caratteristiche di Icespire Hold
@@ -152,15 +152,16 @@ Quattro [cavalli da sella](https://5e.tools/bestiary.html#riding%20horse_mm) son
 Questa stanza contiene botti di legno vuote e casse così vecchie e fragili che cadono a pezzi se vengono disturbate.
 
 #### H4. Caserma della Guardiola
-Le brandine di legno giacciono in mucchi rotti contro le pareti, lasciando uno spazio libero al centro della stanza dove i Figli del Dragone hanno steso le lenzuola e altri attrezzi. Se avvertiti che ci sono estranei nelle vicinanze, tutti i mercenari salutano i nuovi arrivati nell'area aperta tra questa stanza e le scuderie. Se i personaggi raggiungono quest'area senza essere individuati, Syleen Wintermoon si siede su uno sgabello e canta tranquillamente a se stessa mentre affila un coltello. Nelle vicinanze dormono sotto le coperte logore Brakkis Elspaar e Jabarl l'Orco.
-
+Le brandine di legno giacciono in mucchi rotti contro le pareti, lasciando uno spazio libero al centro della stanza dove i Figli del Dragone hanno steso le lenzuola e altri attrezzi. Se avvertiti che ci sono estranei nelle vicinanze, tutti i cultisti accolgono i nuovi arrivati nell'area aperta tra questa stanza e le scuderie. Se i personaggi raggiungono quest'area senza essere individuati, Favric, un **dragozanna**, siede su uno sgabello e canta tranquillamente a se stessa mentre affila un coltello. Nelle vicinanze dormono sotto le coperte logore altri due **dragoala**.
 Le provviste dei mercenari includono acqua e razioni sufficienti per sostenere quattro persone per un giorno.
 
 #### H5. Fucina
-
+Un'incudine poggia sul pavimento vicino a un camino che non viene acceso da anni. A un lato del focolare c'è un mantice così vecchio che si sfalda se maneggiato. Sparsi sul pavimento ci sono attrezzi arrugginiti e vecchi ferri di cavallo.
 
 #### H6. Barbacane
+Le feritoie guardano in basso sul sentiero che si snoda intorno alla guardiola, e un camino spento si trova a sud.
 
+ (vedi l'intestazione laterale "[Razziatori freddi di pietra](https://5e.tools/adventure.html#dip,8,h3.%20storage,0)") usa le fessure delle frecce per osservare il sentiero. Se vede degli estranei, Runa lascia la stanza e avvisa i suoi compagni nell'[area H4](https://5e.tools/adventure.html#dip,8,h4.%20gatehouse%20barracks,0).
 
 #### H7. Ponte di Pietro e Campana di Ferro
 
