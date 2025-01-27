@@ -20,8 +20,8 @@ Lady Tanamere Alagondar era una rampolla reale di Neverwinter più di un secolo 
 Il tumulo si trova a circa 65 chilometri a nord-ovest di Phandalin, tra le dolci colline e le praterie tra la Strada Alta e il Bosco di Neverwinter. Dal momento che i personaggi possono percorrere circa 24 miglia in un giorno, dovrebbero aspettarsi di fare un lungo riposo nella natura selvaggia prima di arrivare al tumulo il secondo giorno del loro viaggio. Un vento freddo che soffia dalla costa li assale per la maggior parte del viaggio, portando occasionalmente pioggia. 
 
 ### Centauro d'avviso
-Durante la notte del riposo lungo in viaggio verso il tumulo, gli avventurieri vengono sorpresi da un gruppo di attenti centauri 
+Durante la notte del riposo lungo in viaggio verso il tumulo, gli avventurieri vengono sorpresi da un gruppo di centauri che pattuglia il confine dei boschi. I centauri non sono ostili, ma guardinghi e sono capitanati dal loro leader Xanth, che si presenta ai personaggi non appena ha constatato che non sono una minaccia.
 Dopo essere stato cacciato dalla sua casa nei Boschi di Neverwinter da orchi predoni, Xanth il [centauro](https://5e.tools/bestiary.html#centaur_mm) si è rifugiato sulle colline intorno al tumulo. Quando vede i personaggi, Xanth si avvicina pacificamente e condivide i seguenti avvertimenti:
 
-1. "Strane luci stregate aleggiano sopra Dragon Barrow di notte. La collina è infestata dagli spiriti irrequieti dei morti".
+1. "Strane luci stregate aleggiano sopra a Colle del Drago di notte. La collina è infestata dagli spiriti irrequieti dei morti".
 2. 
