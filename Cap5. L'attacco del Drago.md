@@ -128,5 +128,18 @@ Se Nezznar è stata messa catturata, uccisa o messa in fuga, il [giovane drago b
 2. Qualcuno o qualcosa fa un rumore abbastanza forte da interrompere il sonno del drago. I rumori che si qualificano includono il tuono di un incantesimo *Onda Tonante*, suoni di combattimento in aree non completamente sigillate dall'esterno da porte o un sussurro all'orecchio del drago.
 
 Se il drago si rende conto che gli intrusi sono nelle vicinanze ma non riesce a determinare dove si trovino, emette un ruggito e prende il volo. Mentre gira intorno alla fortezza, si guarda intorno alla ricerca di segni di intrusione. Se non trova nulla da attaccare, torna sul tetto e aspetta che gli intrusi lo raggiungano. Il drago è abbastanza piccolo da potersi infilare attraverso porte e passaggi, ma ha bisogno di un incentivo per entrare nella fortezza perché non gli piacciono gli spazi ristretti. Come la maggior parte dei draghi bianchi, Cryovain è lento e facilmente adescabile.
+L'ululato del vento impedisce a Cryovain di sentire gli intrusi che rimangono relativamente silenziosi. Il vento silenzia i personaggi mentre seguono il sentiero ghiacciato (zona H1) che conduce da e verso il corpo di guardia (zone da H2 a H6).
 
-L'ululato del vento impedisce a Cryovain di sentire gli intrusi che rimangono relativamente silenziosi. Il vento fa anche tacere i personaggi mentre seguono il sentiero ghiacciato (zona H1) che conduce da e verso il corpo di guardia (zone da H2 a H6).
+### Luoghi della Roccaforte Gugliaghiacciata
+I luoghi seguenti sono indicati sulla mappa della roccaforte guglighiacciata.
+
+![[021-map-ih-dm-1.webp]]
+
+#### H1. Sentiero Stretto
+Questo stretto sentiero si aggrappa al fianco della montagna mentre si snoda intorno e sale fino al corpo di guardia. Le tracce dei cavalli che vanno e vengono lungo il sentiero sono chiaramente visibili. I personaggi devono attraversare il sentiero in fila indiana. Se c'è più di un personaggio, determina il loro ordine di marcia e la distanza tra loro nel caso in cui diventi rilevante.
+
+Il sentiero è sicuro, anche se un tratto lungo 6 metri è sepolto sotto le macerie che è [un terreno difficile](https://5e.tools/book.html#PHB,8,difficult%20terrain,0) (vedi [il regolamento](https://5e.tools/book.html#PHB)).
+
+Raggiungere il corpo di guardia. Il sentiero termina alla porta esterna del corpo di guardia. Questa porta può essere chiusa dall'interno, ma la sua pesante traversa di legno non è al suo posto quando arrivano i personaggi. Devono lasciarsi entrare, perché nessuno risponde alla porta se bussano.
+
+La mercenaria di stanza nell['area H6](https://5e.tools/adventure.html#dip,8,h6.%20barbican,0) sorveglia il sentiero e avvisa i suoi compagni nell'[area H4](https://5e.tools/adventure.html#dip,8,h4.%20gatehouse%20barracks,0) se vede estranei avvicinarsi al corpo di guardia. Attenti a non svegliare il drago, i mercenari permettono ai personaggi di entrare incontrastati nel corpo di guardia. Consulta la [barra laterale "Razziatori Freddi di Pietra](https://5e.tools/adventure.html#dip,8,h3.%20storage,0)" per ulteriori informazioni sui mercenari.
