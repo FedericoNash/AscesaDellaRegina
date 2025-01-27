@@ -13,7 +13,7 @@ Se i personaggi parlano con Sorella Garaele, con Halia Thornton o con Adabra Gwy
 
 # Colle del Drago
 
-## Panoramica della posizione
+## Panoramica del luogo
 Lady Tanamere Alagondar era una rampolla reale di Neverwinter più di un secolo fa. Insieme a due gruppi di avventurieri, combatté e uccise Azdraka, un drago verde che aveva a lungo terrorizzato la Strada Alta. Lady Alagondar morì in battaglia e fu sepolta sotto un tumulo vicino al punto in cui cadde il drago. I resti dei suoi compatrioti caduti e il cadavere di Azdraka furono sigillati nel tumulo con lei, in conformità con i desideri di Lady Alagondar in punto di morte.
 
 ### Viaggio verso il Tumulo 
@@ -44,4 +44,7 @@ Quando gli avventurieri giungono in vista del tumulo, leggete ad alta voce il se
 I personaggi che salgono in cima al tumulo e lo osservano notano la sua caratteristica forma simile a quella di un drago con una prova di Saggezza (Intuizione) con CD 10 riuscita. Le rocce pallide assomigliano a spuntoni che sporgono dal dorso del drago.
 
 Di notte, i [fuochi fatui](https://5e.tools/bestiary.html#will-o'-wisp_mm) nell['area D2](https://5e.tools/adventure.html#DIP,4,d2.%20will-o'-wisps,0) emergono dalla collina usando il loro movimento incorporeo e fluttuano sopra il tumulo, sperando di attirare la preda con le loro luci. Se rilevano personaggi nelle vicinanze, i fuochi fatui diventano [invisibili](https://5e.tools/conditionsdiseases.html#invisible_phb) e si ritirano nel tumulo.
+
+## Aree di Colle del Drago
+![[013-map-db-dm-1.webp]]
 
