@@ -48,20 +48,28 @@ Di notte, i [fuochi fatui](https://5e.tools/bestiary.html#will-o'-wisp_mm) nell[
 ## Aree di Colle del Drago
 ![[013-map-db-dm-1.webp]]
 
-D1. Ingresso segreto
+#### D1. Ingresso segreto
+Una delle rocce bianche in cima alla collina funge da tappo di pietra incastonato nella terra. I personaggi che perlustrano la cima della collina possono individuare un'apertura sotto la base della roccia con una prova di Saggezza (Percezione) con CD 10. Legando delle corde intorno alla cima della roccia, i personaggi possono farla cadere con una prova di Forza (Atletica) con CD 19. Un  [incantesimo di bussare](https://5e.tools/spells.html#knock_phb) lo fa anche ribaltare. L'apertura sotto la roccia rivela una scala a chiocciola larga 60 centimetri con gradini in pietra, che scende di 9 metri fino all'area D2.
 
-Una delle rocce bianche in cima alla collina funge da tappo di pietra incastonato nella terra. I personaggi che perlustrano la cima della collina possono individuare un'apertura sotto la base della roccia con una prova di Saggezza (Percezione) con CD 10. Legando delle corde intorno alla cima della roccia, i personaggi possono farla cadere con una prova di Forza (Atletica) con CD 19. Un  [incantesimo di bussare](https://5e.tools/spells.html#knock_phb) lo fa anche ribaltare. L'apertura sotto la roccia rivela una scala a chiocciola larga 2 piedi con gradini in pietra, che scende di 30 piedi fino all'area D2.
-
-D2. Fuochi fatui
-
+#### D2. Fuochi fatui
 I tunnel intorno alla scala a chiocciola sono infestati da tre [fuochi fatui](https://5e.tools/bestiary.html#will-o'-wisp_mm). I fuochi fatui sono [invisibili](https://5e.tools/conditionsdiseases.html#invisible_phb) fino a quando non sentono gli intrusi scendere le scale, dopodiché si illuminano e si spostano sul lato opposto delle tre trappole nascoste (area D3), sperando di attirare gli intrusi verso il loro destino. Ogni fuoco fatuo ha la sua fossa e attacca qualsiasi personaggio che vi cade dentro. Un fuoco fatuo ridotto a 7 punti ferita o meno diventa [invisibile](https://5e.tools/conditionsdiseases.html#invisible_phb) nel suo turno successivo e fugge per nascondersi fino a quando i personaggi non lasciano il tumulo.
 
-D3. Trappole a fossa nascoste
-
+#### D3. Trappole a fossa nascoste
 Ognuna di queste fosse è larga 5 piedi, profonda 10 piedi e scavata nella terra. File di spade arrugginite sono incastonate nel pavimento di ogni fossa, le cui cime sono coperte da assi di legno marce nascoste sotto un sottile strato di terra. Una creatura che utilizza un palo o uno strumento simile per spingersi in avanti rileva la fossa con una prova di Saggezza (Percezione) con CD 10 superata.
-
 Qualsiasi creatura che entra in una fossa vi cade dentro, subendo 1d6 danni contundenti e impalandosi con 1d4 spade, ognuna delle quali infligge 1d6 danni perforanti.
 
-D4. Sorpresa scheletrica
+#### D4. Sorpresa scheletrica
+Le ossa e la sella in decomposizione del cavallo di Lady Alagondar giacciono nella nicchia meridionale di questa caverna. Quando una creatura si avvicina a meno di 1,5 metri dalle ossa, si uniscono e si alzano come un cavallo scheletrico. Questo destriero ha le statistiche di un [cavallo da sella](https://5e.tools/bestiary.html#riding%20horse_mm), tranne per il fatto che è un non morto. Si lega a qualsiasi personaggio che voglia cavalcarlo.
 
-Le ossa e la sella in decomposizione del cavallo di Lady Alagondar giacciono nella nicchia meridionale di questa caverna. Quando una creatura si avvicina a meno di 5 piedi dalle ossa, si uniscono e si alzano come un cavallo scheletrico. Questo destriero ha le statistiche di un [cavallo da sella](https://5e.tools/bestiary.html#riding%20horse_mm), tranne per il fatto che è un non morto. Si lega a qualsiasi personaggio che voglia cavalcarlo.
+#### D5. Tunnel stretto
+Questo tunnel è largo solo 60 centimetri. A metà strada, una piastra di pressione lunga 5 piedi è nascosta sotto uno strato di terra spesso 2 pollici. Un personaggio che spinge in avanti con un palo o uno strumento simile può rilevare il piatto con una prova di Saggezza (Percezione) con CD 10 superata. Il primo personaggio a calpestare il piatto fa crollare le pareti del tunnel verso l'interno, seppellendo tutte le creature nel tunnel. Una creatura sepolta è accecata e trattenuta, ha una copertura totale contro gli attacchi e inizia a soffocare quando rimane senza fiato (vedi "Soffocamento" nel regolamento). Solo una creatura che non è intrappolata nel tunnel può eliminare il crollo, usando un'azione per aprire la sezione profonda 5 piedi del tunnel più vicina ad essa. Una creatura in quello spazio non è più sepolta.
+
+D6. Falsa Tomba
+
+Due sarcofagi di pietra sigillati riposano in nicchie scavate nella parete sud qui. Ogni sarcofago rilascia una nuvola di polvere corrosiva quando viene aperto, riempiendo l'area di 10 piedi per 10 piedi a nord del sarcofago. Qualsiasi creatura nell'area deve effettuare un tiro salvezza su Destrezza con CD 15, subendo 14 (4d6) danni da acido se un tiro salvezza fallito o la metà dei danni se lo riesce. La nuvola poi scompare. I sarcofagi non contengono nulla di interessante.
+
+D7. Sepolcro degli Avventurieri
+
+Quattro sarcofagi in nicchie contengono le ossa ammuffite di avventurieri (un bardo, un chierico, un combattente e un mago) che morirono combattendo contro Azdraka.
+
+Tesoro. Il sarcofago nord-ovest contiene il bardo morto, che fu sepolto con un liuto di illusioni. Sigillata con il mago morto nel sarcofago sud-est c'è una collana di palle di fuoco. Se i personaggi acquisiscono e identificano questi oggetti magici, dai loro le carte Liuto delle Illusioni e Collana di Palle di Fuoco o possono farvi riferimento nell'elenco degli oggetti magici.
