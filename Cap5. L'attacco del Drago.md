@@ -161,10 +161,11 @@ Un'incudine poggia sul pavimento vicino a un camino che non viene acceso da anni
 #### H6. Barbacane
 Le feritoie guardano in basso sul sentiero che si snoda intorno alla guardiola, e un camino spento si trova a sud.
 
- (vedi l'intestazione laterale "[Razziatori freddi di pietra](https://5e.tools/adventure.html#dip,8,h3.%20storage,0)") usa le fessure delle frecce per osservare il sentiero. Se vede degli estranei, Runa lascia la stanza e avvisa i suoi compagni nell'[area H4](https://5e.tools/adventure.html#dip,8,h4.%20gatehouse%20barracks,0).
+Un **dragoala** usa le fessure delle frecce per osservare il sentiero. Se vede degli estranei, lascia la stanza e avvisa i suoi compagni nell'[area H4](https://5e.tools/adventure.html#dip,8,h4.%20gatehouse%20barracks,0).
 
-#### H7. Ponte di Pietro e Campana di Ferro
-
+#### H7. Ponte di Pietra e Campana di Ferro
+Questo solido ponte di pietra attraversa lo spazio di 10,5 metri tra il corpo di guardia e la fortezza principale, 15 metri sopra il sentiero che passa sotto di esso. Il ponte è delimitato da ringhiere in pietra alte 90 cm.
+Montata sul muro della fortezza a nord della porta dell'area H8 c'è una campana di ferro con una corta catena arrugginita che penzola da essa. Suonando la campana si sveglia il drago nell' [area H20](https://5e.tools/adventure.html#dip,8,h20.%20roof,0). La porta dell'area H8 è socchiusa, con la traversa rotta. I danni alla porta suggeriscono che a un certo punto è stata forzata ad aprirsi.
 
 #### H8. Ingresso della Fortezza
 
