@@ -79,3 +79,7 @@ Due sarcofagi in nicchie contengono le ossa ammuffite e l'armatura arrugginita d
 >[!note]- Leggere ad Alta Voce
 >*Appena dopo aver estratto la spada, la polvere inizia a cadere dal soffitto, il cumulo di ossa inizia a tremare e tutti voi sentite chiaramente una voce piena di fierezza dichiarare: “QUESTA È LA SPADA DI UNA VERA EROINA, DIMOSTRATE IL VOSTRO VALORE”. E il gigantesco scheletro del drago nella stanza si alza dal terreno.*
 
+La creatura usa lo statblock dello **drago scheletro adulto** (vedi skeletal-dragons.pdf), con le seguenti modifiche:
+- La CA è 16 e non 18
+- E' un drago in aggiunta all'essere un non morto
+- 
