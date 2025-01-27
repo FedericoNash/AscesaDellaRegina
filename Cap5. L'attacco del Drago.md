@@ -168,7 +168,7 @@ Questo solido ponte di pietra attraversa lo spazio di 10,5 metri tra il corpo di
 Montata sul muro della fortezza a nord della porta dell'area H8 c'è una campana di ferro con una corta catena arrugginita che penzola da essa. Suonando la campana si sveglia il drago nell' [area H20](https://5e.tools/adventure.html#dip,8,h20.%20roof,0). La porta dell'area H8 è socchiusa, con la traversa rotta. I danni alla porta suggeriscono che a un certo punto è stata forzata ad aprirsi.
 
 #### H8. Ingresso della Fortezza
-
+Questo breve corridoio vuoto ha delle feritoie per le frecce nelle pareti nord e sud. Un filo d'inciampo è stato posizionato attraverso il corridoio. I personaggi possono individuare il filo d'inciampo con una prova di Percezione con CD 10 e disarmarlo con una prova di Indagare con CD 15 (anche se potrebbero finire sotto il fuoco dei coboldi nell'area H9 mentre lo fanno). Se attivano la trappola, crollerà il tetto sopra il corridoio. Chiunque si trovi nell'area H8 deve superare un tiro salvezza su Destrezza con CD 15, subendo 4d10 danni contundenti in caso di tiro salvezza fallito, o la metà dei danni in caso di successo. Una volta attivata la trappola, le macerie trasformano l'area H8 in un terreno difficile
 
 #### H9. Difese Esterne
 
