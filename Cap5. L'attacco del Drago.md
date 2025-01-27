@@ -7,4 +7,7 @@ l drago. Cryovain si impadronì della fortezza di ghiaccio da una tribù di orch
 
 ### Falsa tranquillità
 Quando i personaggi tornano dalla Caverna dell'Onda Tonante, vengono accolti tiepidamente dalla gente di Phandalin. Mentre i personaggi erano intenti a sconfiggere il Ragno Nero infatti, Cryovain ha attaccato l'insediamento, distruggendo il Frutteto Edermath e uccidendo il proprietario. 
-Spaventati dalla minaccia del drago, Gundren e gli abitanti di Phandalin chiedono agli avventurieri di scacciare il drago, altrimenti saranno costretti ad abbandonare questo insediamento. In cambio
+Spaventati dalla minaccia del drago, Gundren e gli abitanti di Phandalin chiedono agli avventurieri di scacciare il drago, altrimenti saranno costretti ad abbandonare questo insediamento.
+In cambio del loro aiuto, Harbin promette di cedere ai personaggi il Maniero Tresendar, che i personaggi potranno restaurare con l'aiuto degli NPC che hanno aiutato e trasformare in un ***Bastione*** (vedi cap.8 della DMG).
+Se i personaggi parlano con Sorella Garaele, con Halia Thornton o con Adabra G
+
