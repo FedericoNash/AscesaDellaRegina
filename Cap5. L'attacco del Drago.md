@@ -25,3 +25,7 @@ Dopo essere stato cacciato dalla sua casa nei Boschi di Neverwinter da orchi pre
 
 1. "Strane luci stregate aleggiano sopra a Colle del Drago di notte. La collina è infestata dagli spiriti irrequieti dei morti".
 2. "Una strana magia pervade il Bosco di Neverwinter, confondendo i navigatori e oscurando le antiche rovine di regni passati persi nelle sue profondità."
+
+A discrezione del DM, Xanth può intrattenere i personaggi raccontando la storia del villaggio di Thundertree.
+
+
