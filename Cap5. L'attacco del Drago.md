@@ -212,7 +212,7 @@ I coboldi hanno messo una trappola nella porta nel muro ovest con dardi avvelena
 ***Porta segreta.*** La porta segreta nella parete est si apre per rivelare una scala larga 90 centimetri che scende di 3 metri fino all' [area H21](https://5e.tools/adventure.html#dip,8,h21.%20undercroft,0). Cryovain è troppo grande per entrare in questa scala.
 
 ###### Tesoro
-All'interno della stanza i personaggi trovano il tesoro accumulato da Cryovain, composto da 1500 mr,  
+All'interno della stanza i personaggi trovano il tesoro accumulato da Cryovain, composto da 1500 mr, 1000 ma, 900 mo, 4 eliotropie dal valore di 50 mo l'una, un diamante dal valore di 300 mo, 
 
 #### H18. Caserma degli Orchi
 
