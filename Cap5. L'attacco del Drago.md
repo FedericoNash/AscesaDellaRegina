@@ -93,7 +93,7 @@ Di recente, cultisti malvagi che fan parte di un'organizzazione chiamata Figli d
 Se Nezznar è riuscita a fuggire con la [[Maschera del Drago Nero]] dalla Caverna dell'ONda Tonante, i personaggi la ritrovano nella stanza di Cryovain intenta a persuadere il drago.
 
 >[!note]- Figli del Dragone
->I cultisti dei Figli del Dragone sono quattro umanoidi di allineamento neutrale malvagio che mirano a formare un grande esercito ed un grande tesoro per riportare sul Piano Materiale la loro malvagia regina, Tiamat. Il gruppo che si nasconde nella roccaforte è un task force di 4 **dragoali** (vedi Rise of Tiamat) con resistenza ai danni da freddo che ha l'obiettivo di convincere Cryovain ad unirsi alla causa. Stanno aspettando da un paio di giorni l'arrivo di Nezznar, ma se dovranno aspettare ancora metteranno in atto il piano B: rubare le ricchezze e le uova della dragonessa alla prima oc
+>I cultisti dei Figli del Dragone sono quattro umanoidi di allineamento neutrale malvagio che mirano a formare un grande esercito ed un grande tesoro per riportare sul Piano Materiale la loro malvagia regina, Tiamat. Il gruppo che si nasconde nella roccaforte è un task force di 4 **dragoali** (vedi Rise of Tiamat) con resistenza ai danni da freddo che ha l'obiettivo di convincere Cryovain ad unirsi alla causa. Stanno aspettando da un paio di giorni l'arrivo di Nezznar, ma se dovranno aspettare ancora metteranno in atto il piano B: rubare le ricchezze e le uova della dragonessa alla prima occasione utile.
 
 
 ### Caratteristiche di Icespire Hold
@@ -147,3 +147,21 @@ La cultista di stanza nell['area H6](https://5e.tools/adventure.html#dip,8,h6.%2
 
 #### H2. Scuderie
 Quattro [cavalli da sella](https://5e.tools/bestiary.html#riding%20horse_mm) sono tenuti in stalla. Una quinta bancarella è vuota. I cavalli appartengono ai cultisti nelle [aree H4](https://5e.tools/adventure.html#dip,8,h4.%20gatehouse%20barracks,0) e [H6](https://5e.tools/adventure.html#dip,8,h6.%20barbican,0).
+
+#### H3. Deposito
+
+#### H4. Caserma della Guardiola
+
+#### H5. Fucina
+
+#### H6. Barbacane
+
+#### H7. Ponte di Pietro e Campana di Ferro
+
+#### H8. Ingresso della Fortezza
+
+#### H9. Difese Esterne
+
+#### H10. Detriti
+
+#### H11. Posto di Guardia
