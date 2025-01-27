@@ -93,7 +93,7 @@ Di recente, cultisti malvagi che fan parte di un'organizzazione chiamata Figli d
 Se Nezznar è riuscita a fuggire con la [[Maschera del Drago Nero]] dalla Caverna dell'ONda Tonante, i personaggi la ritrovano nella stanza di Cryovain intenta a persuadere il drago.
 
 >[!note]- Figli del Dragone
->Testo
+>I cultisti dei Figli del Dragone sono quattro umanoidi di allineamento neutrale malvagio che mirano a formare un grande esercito ed un grande tesoro per riportare sul Piano Materiale la loro malvagia regina, Tiamat. Il gruppo che si nasconde nella roccaforte è un task force di 4 **dragoali** (vedi Rise of Tiamat) con resistenza ai danni da freddo che ha l'obiettivo di convincere Cryovain ad unirsi alla causa. Stanno aspettando da un paio di giorni l'arrivo di Nezznar, ma se dovranno aspettare ancora metteranno in atto il piano B: rubare le ricchezze e le uova della dragonessa alla prima oc
 
 
 ### Caratteristiche di Icespire Hold
