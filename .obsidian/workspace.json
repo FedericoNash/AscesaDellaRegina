@@ -11,17 +11,17 @@
             "id": "c0db7366c13b49a1",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Cap4. La Caverna dell'onda Tonante",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap4. La Caverna dell'onda Tonante.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap4. La Caverna dell'onda Tonante\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":304,\"ch\":455},\"to\":{\"line\":304,\"ch\":455}},\"scroll\":222.9313724742338}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Phandalin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Almanacco del Mondo/Forgotten Realms/Faerun/Phandalin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Phandalin\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":74,\"ch\":18},\"to\":{\"line\":74,\"ch\":18}},\"scroll\":61.775677777299094}"
                 },
                 {
                   "title": "Cap4. La Caverna dell'onda Tonante",
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Almanacco del Mondo/Forgotten Realms/Faerun/Phandalin.md",
+                "file": "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap0. Introduzione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phandalin"
+              "title": "Cap0. Introduzione"
             }
           },
           {
@@ -859,9 +859,9 @@
   },
   "active": "92197b1d084e4b01",
   "lastOpenFiles": [
-    "1. Almanacco del Mondo/Forgotten Realms/Faerun/Phandalin.md",
-    "Cap5. L'attacco del Drago.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap0. Introduzione.md",
+    "Cap5. L'attacco del Drago.md",
+    "1. Almanacco del Mondo/Forgotten Realms/Faerun/Phandalin.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap4. La Caverna dell'onda Tonante.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap1. Le Frecce dei Goblin.md",
