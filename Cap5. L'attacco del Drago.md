@@ -101,4 +101,17 @@ Icespire Hold si trova a un'altitudine di 800 metri ed è circondata da scoglier
 ***Luce***. Le aree interne prive di luce naturale per illuminarle sono completamente buie.
 ***Temperatura***. La temperatura è leggermente sopra lo zero durante il giorno e precipita di notte. Ogni sera, quando la temperatura è pari o inferiore a -18 gradi, una creatura esposta al freddo deve effettuare un Tiro Salvezza su Costituzione con CD 10 alla fine di ogni ora. Le creature con resistenza o immunità ai danni da freddo superano automaticamente il tiro salvezza, così come le creature che indossano equipaggiamento per il freddo e le creature naturalmente adattate ai climi freddi. In un Tiro Salvezza fallito, la creatura ha svantaggio alle prove di caratteristica, ai tiri per colpire e ai Tiri Salvezza, e la sua velocità è dimezzata. La creatura muore congelata se subisce questi effetti per sei ore consecutive. Questi effetti terminano sulla creatura dopo che ha trascorso almeno un'ora in un luogo di calore.
 
-### 
+### Raggiungere la Roccaforte
+La Roccaforte Gugliaghiacciata si trova a più di 45 km da Phandalin. In viaggio verso la tana del drago, i personaggi hanno il seguente incontro.
+
+#### Ogre congelato
+Imposta la scena leggendo ad alta voce il seguente testo in riquadro:
+
+>[!note]- Leggere ad Alta Voce
+>*Mentre vi fate strada attraverso le fredde e ventose colline pedemontane delle Montagne della Spada, vi imbattete in una grande creatura prona congelata nel ghiaccio.*
+
+La creatura congelata è un ogre che il drago bianco ha ucciso con il suo soffio freddo. Il cadavere dell'orco era troppo grande per essere portato via, così il drago lo lasciò. Un personaggio che esamina attentamente la scena e supera una prova di Saggezza (Sopravvivenza) con CD 15 può accertare che l'orco è stato ucciso nelle ultime 24 ore. Il freddo delle colline pedemontane ha impedito al ghiaccio di sciogliersi.
+
+Congelato nel ghiaccio con l'orco è un sacco pesante, ma non può essere raggiunto o perquisito fino a quando i personaggi non scheggiano o sciolgono il ghiaccio che lo ricopre. Il sacco contiene un elmo nano arrugginito, due metà di uno scudo di legno scheggiato, un'erbaccia, un cappello da cowboy accartocciato e una bambola di sacco che ha un disperato bisogno di essere ricucita.
+
+Tesoro. Se i personaggi sono a corto di magia curativa, trovano tre [pozioni di guarigione](https://5e.tools/items.html#potion%20of%20healing_dmg) nel sacco dell'orco insieme agli oggetti inutili sopra. (Dai ai giocatori tre [Pozioni di Guarigione](https://5e.tools/items.html#potion%20of%20healing_dmg) o possono farvi riferimento nell' [elenco degli articoli di equipaggiamento](https://5e.tools/items.html).)
