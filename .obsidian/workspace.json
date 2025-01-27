@@ -53,6 +53,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Cap1. Le Frecce dei Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap1. Le Frecce dei Goblin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap1. Le Frecce dei Goblin\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.5551937127068078}"
+                },
+                {
                   "title": "Cap5. L'attacco del Drago",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cap5. L'attacco del Drago.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap5. L'attacco del Drago\"}",
@@ -63,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap1. Le Frecce dei Goblin.md",
+                "file": "Cap5. L'attacco del Drago.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cap1. Le Frecce dei Goblin"
+              "title": "Cap5. L'attacco del Drago"
             }
           }
         ],
@@ -865,12 +871,12 @@
   },
   "active": "92197b1d084e4b01",
   "lastOpenFiles": [
+    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap1. Le Frecce dei Goblin.md",
     "Cap5. L'attacco del Drago.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap0. Introduzione.md",
     "1. Almanacco del Mondo/Forgotten Realms/Faerun/Phandalin.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap4. La Caverna dell'onda Tonante.md",
-    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap1. Le Frecce dei Goblin.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap2. I Marchi Rossi.md",
     "z_Allegati/Misc/048-map-4.01-wave-echo-cave-1.webp",
     "z_Allegati/Misc/044-map-3.04-cragmaw-castle-1.webp",
