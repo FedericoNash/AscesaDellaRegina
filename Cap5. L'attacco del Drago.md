@@ -16,7 +16,11 @@ Se i personaggi parlano con Sorella Garaele, con Halia Thornton o con Adabra Gwy
 ## Panoramica della posizione
 Lady Tanamere Alagondar era una rampolla reale di Neverwinter più di un secolo fa. Insieme a due gruppi di avventurieri, combatté e uccise Azdraka, un drago verde che aveva a lungo terrorizzato la Strada Alta. Lady Alagondar morì in battaglia e fu sepolta sotto un tumulo vicino al punto in cui cadde il drago. I resti dei suoi compatrioti caduti e il cadavere di Azdraka furono sigillati nel tumulo con lei, in conformità con i desideri di Lady Alagondar in punto di morte.
 
+### Viaggio verso il Tumulo 
+Il tumulo si trova a circa 65 chilometri a nord-ovest di Phandalin, tra le dolci colline e le praterie tra la Strada Alta e il Bosco di Neverwinter. Dal momento che i personaggi possono percorrere circa 24 miglia in un giorno, dovrebbero aspettarsi di fare un lungo riposo nella natura selvaggia prima di arrivare al tumulo il secondo giorno del loro viaggio. Un vento freddo che soffia dalla costa li assale per la maggior parte del viaggio, portando occasionalmente pioggia. 
+
 ### Centauro d'avviso
+Durante la notte del riposo lungo in viaggio verso il tumulo, gli avventurieri vengono sorpresi da un gruppo di attenti centauri 
 Dopo essere stato cacciato dalla sua casa nei Boschi di Neverwinter da orchi predoni, Xanth il [centauro](https://5e.tools/bestiary.html#centaur_mm) si è rifugiato sulle colline intorno al tumulo. Quando vede i personaggi, Xanth si avvicina pacificamente e condivide i seguenti avvertimenti:
 
 1. "Strane luci stregate aleggiano sopra Dragon Barrow di notte. La collina è infestata dagli spiriti irrequieti dei morti".
