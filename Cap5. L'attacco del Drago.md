@@ -199,10 +199,17 @@ Gli orchi hanno distrutto questa stanza, distruggendo i suoi arredi e spargendo 
 Questa stanza è stata saccheggiata, lasciando nient'altro che scaffali rotti, barili rotti, sacchi strappati e altri detriti in giro. Tra i detriti, i personaggi trovano i resti scheletrici di un umanoide maschio vestito con una corazza arrugginita. Sull'orlo della fame, questa guardia fu uccisa mentre cercava di rubare le razioni.
 
 #### H16. Armeria
-
+Le rastrelliere per le armi che un tempo si ergevano contro le pareti nord e sud giacciono distrutte sul pavimento tra i resti di manichini di legno. Un tempo i ganci arrugginiti sulle pareti contenevano armature, scudi ed elmi. Quattro **coboldi** usano questa stanza come posto di guardia, bloccando l'accesso al tesoro del drago (area H17).
 
 #### H17. Stanza della Signora della Guerra
+Mentre i suoi soldati morivano di fame, Delsendra Amzarr fu costretta a sedare una rivolta da un pugno di seguaci. Dopo averli uccisi, il signore della guerra si tolse la vita bevendo veleno da un calice. Gli scheletri sparsi per la stanza testimoniano questi eventi:
+1. Tre scheletri umanoidi in cotte di maglia arrugginite giacciono sul pavimento vicino a spade lunghe arrugginite.
+2. Un quarto scheletro umanoide con un'armatura di piastre arrugginite giace accasciato su una sedia che si affaccia sul camino. Un calice d'acciaio giace sul pavimento tra le gambe della sedia. (Il capo della guerra degli orchi ha rubato l'ascia del signore della guerra morto, che i personaggi possono trovare in [area H19](https://5e.tools/adventure.html#dip,8,h19.%20orc%20war%20chief's%20lair,0).)
 
+Al centro della stanza c'è un robusto tavolo di quercia attorno al quale Delsendra e i suoi ufficiali pianificavano le battaglie. Minuscole figure di soldati in legno intagliato sono sparse qua e là, così come i resti strappati di vecchie mappe.
+I coboldi hanno trasformato questa stanza nel tesoro di Cryovain. Il tavolo delle mappe, il pavimento e i resti di Delsendra Amzarr sono pieni di tesori saccheggiati.
+I coboldi hanno messo una trappola nella porta nel muro ovest con dardi avvelenati innescati da una piastra a pressione nella piazza a ovest. I dardi sparano sopra l'altezza del coboldo. I personaggi possono individuare la piastra a pressione con una prova di Percezione con CD 15 e disarmare la trappola con una prova di Indagare con CD 15. Se attivata, la trappola rilascia quattro dardi. Ogni dardo effettua un attacco a distanza con un bonus di +6 contro un bersaglio casuale entro 3 metri dalla piastra di pressione. I personaggi che vengono colpiti subiscono 1d4 danni perforanti e devono superare un tiro salvezza su Costituzione con CD 15, subendo 2d10 danni da veleno se falliscono il tiro salvezza o la metà dei danni se riesce.
+***Porta segreta.*** La porta segreta nella parete est si apre per rivelare una scala larga 90 centimetri che scende di 3 metri fino all' [area H21](https://5e.tools/adventure.html#dip,8,h21.%20undercroft,0). La criovaina è troppo grande per entrare in questa scala.
 
 #### H18. Caserma degli Orchi
 
