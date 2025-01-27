@@ -82,4 +82,5 @@ Due sarcofagi in nicchie contengono le ossa ammuffite e l'armatura arrugginita d
 Lo spirito di Azdraka è stato maledetto da lady Alagondar ed ora è vincolato a proteggere la spada. Usa lo statblock dello **drago scheletro adulto** (vedi skeletal-dragons.pdf), con le seguenti modifiche:
 - La CA è 16 e non 18
 - E' un drago in aggiunta all'essere un non morto
-- 
+- Eventualmente rimuovere il Soffio di schegge
+
