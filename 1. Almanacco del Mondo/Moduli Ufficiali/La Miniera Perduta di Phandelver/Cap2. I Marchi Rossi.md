@@ -242,5 +242,5 @@ Se Iarno viene messo sotto custodia, Sildar Hallwinter fa in modo che il mago si
 >[!note]+ Tesoro
 >AI piedi del letto di Iarno c’è un solido forziere di legno che non è chiuso a chiave e che contiene le parti migliori dei bottini che i Marchi Rossi hanno accumulato negli ultimi due mesi. Il forziere contiene 180 ma, 130 mo e un sacchetto di seta contenente cinque cornioli (10 mo ciascuno), due peridotiti (15 mo ciascuna) e una perla (100 mo). Contiene anche due oggetti magici che Iarno ha portato con sé da Neverwinter: una *pergamena di charme su persone* e una *pergamena di palla di fuoco*. Iarno possiede inoltre un bastone di difesa (vedi l’appendice A).
 
-#### Level up!
+## Level up!
 I personaggi salgono al livello 3.

@@ -238,3 +238,6 @@ Questi passaggi grezzi contengono bare di pietra non contrassegnate in nicchie. 
 #### H23. Cripta Vuota ed Uscita Segreta
 Delle cinque bare di pietra non contrassegnate in questa tomba, quattro sono vuote. La bara centrale contiene uno slittino smontato che richiede 10 minuti per essere assemblato. Lo slittino è stato progettato per sfrecciare giù per il fianco della montagna, un'ultima via di fuga che non è mai stata utilizzata.
 ***Porta segreta unidirezionale.*** La porta segreta nella parete sud è progettata in modo che possa essere aperta solo dall'interno della stanza tirando una maniglia nascosta. Un  [incantesimo di bussare](https://5e.tools/spells.html#knock_phb) o una magia simile può aprirlo dall'esterno. La porta si apre su una sporgenza che si affaccia su un pendio ghiacciato di montagna.
+
+## Level up!
+l personaggi salgono al livello 6.

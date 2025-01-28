@@ -197,7 +197,7 @@ La fase successiva dell’avventura è ambientata a Phandalin. Gli avventurieri 
 • Se i personaggi hanno salvato Sildar Hallwinter, il combattente ferito gradirebbe essere scortato fino a Phandalin (e pagherà 50 mo in cambio di questo servizio).
 • Vari dettagli contenuti nei background potrebbero indurre alcuni personaggi a mettersi in cerca di certi PNG specifici in paese.
 
-#### Level up!
+## Level up!
 I personaggi salgono al livello 2.
 
 

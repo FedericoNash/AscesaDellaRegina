@@ -53,6 +53,48 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Cap2. I Marchi Rossi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap2. I Marchi Rossi.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap2. I Marchi Rossi\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":244,\"ch\":0},\"to\":{\"line\":244,\"ch\":0}},\"scroll\":241.62515496152955}"
+                },
+                {
+                  "title": "Cap3. La Tela del Ragno",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap3. La Tela del Ragno\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":370,\"ch\":0},\"to\":{\"line\":370,\"ch\":0}},\"scroll\":367.6467286348149}"
+                },
+                {
+                  "title": "Cap4. La Caverna dell'onda Tonante",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap4. La Caverna dell'onda Tonante.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap4. La Caverna dell'onda Tonante\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":317,\"ch\":2},\"to\":{\"line\":317,\"ch\":2}},\"scroll\":314.2912911125661}"
+                },
+                {
+                  "title": "Cap5. L'attacco del Drago",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap5. L'attacco del Drago.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap5. L'attacco del Drago\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":242,\"ch\":34},\"to\":{\"line\":242,\"ch\":34}},\"scroll\":237.12068087609066}"
+                },
+                {
+                  "title": "Cap4. La Caverna dell'onda Tonante",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap4. La Caverna dell'onda Tonante.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap4. La Caverna dell'onda Tonante\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":318,\"ch\":33},\"to\":{\"line\":318,\"ch\":33}},\"scroll\":311.67585260501426}"
+                },
+                {
+                  "title": "Cap3. La Tela del Ragno",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap3. La Tela del Ragno\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":371,\"ch\":34},\"to\":{\"line\":370,\"ch\":0}},\"scroll\":367.2148438691899}"
+                },
+                {
+                  "title": "Cap2. I Marchi Rossi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap2. I Marchi Rossi.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap2. I Marchi Rossi\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":245,\"ch\":34},\"to\":{\"line\":245,\"ch\":34}},\"scroll\":222.538999196925}"
+                },
+                {
                   "title": "Cap1. Le Frecce dei Goblin",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap1. Le Frecce dei Goblin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap1. Le Frecce dei Goblin\"}",
@@ -81,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap2. I Marchi Rossi.md",
+                "file": "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap1. Le Frecce dei Goblin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cap2. I Marchi Rossi"
+              "title": "Cap1. Le Frecce dei Goblin"
             }
           }
         ],
@@ -883,16 +925,16 @@
   },
   "active": "92197b1d084e4b01",
   "lastOpenFiles": [
-    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap1. Le Frecce dei Goblin.md",
+    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap2. I Marchi Rossi.md",
+    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md",
+    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap4. La Caverna dell'onda Tonante.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap5. L'attacco del Drago.md",
+    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap1. Le Frecce dei Goblin.md",
     "z_Allegati/Misc/021-map-ih-dm-1.webp",
     "2. Meccaniche/Oggetti Magici/Maschera del Drago Nero.md",
     "z_Allegati/Misc/013-map-db-dm-1.webp",
     "1. Almanacco del Mondo/Forgotten Realms/Faerun/Phandalin.md",
     "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap0. Introduzione.md",
-    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md",
-    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap4. La Caverna dell'onda Tonante.md",
-    "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap2. I Marchi Rossi.md",
     "z_Allegati/Misc/048-map-4.01-wave-echo-cave-1.webp",
     "z_Allegati/Misc/044-map-3.04-cragmaw-castle-1.webp",
     "z_Allegati/Misc/043-03-008.map303-wyvern-tor-1.webp",
