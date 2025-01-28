@@ -1,7 +1,7 @@
 # Chi ha la Mappa Stellare?
 Nezznar è già all'interno della Caverna e sta cercando la Sala del Drago, ma come avviene lo scontro finale dipende da chi possiede la Mappa Stellare. 
 La Mappa Stellare funge da amuleto per il guardiano.
-Il DM ogni volta che i personaggi fanno un riposo breve, il DM tira un d10 (la clessidra viene interrotta durante i combattimenti): su un risultato da 1 a 9 non succede nulla, se il risultato è 10, Nezznar riesce a risolvere un enigma, ottenendo così un potenziamento al suo statblock (ad esempio, recupera un slot incantesimo o aumenta i suoi punti ferita), i personaggi allora avvertono un forte tremore che si espande in tutta la caverna: 
+Il DM ogni 10 minuti, il DM tira un d10 (la clessidra viene interrotta durante i combattimenti): su un risultato da 1 a 9 non succede nulla, se il risultato è 10, Nezznar riesce a risolvere un enigma, ottenendo così un potenziamento al suo statblock (ad esempio, recupera un slot incantesimo, trova un oggetto magico del dungeon o aumenta i suoi punti ferita), i personaggi allora avvertono un forte tremore che si espande in tutta la caverna: 
 - **Se la Mappa Stellare è in possesso di Nezznar,** i personaggi arrivano quando la drow riesce ad aprire le porte della Sala, ad entrare in possesso della [[Maschera del Drago Nero]] e ad attivare il Guardiano Protettore, che risponde ai suoi comandi. 
 - **Se la Mappa Stellare è in possesso dei personaggi**, i personaggi arrivano prima di Nezznar, la quale ha due opzioni:
 	1. Nascondersi con *invisibilità superiore* e tendere un agguato ai personaggi quando arrivano davanti alla Sala.
