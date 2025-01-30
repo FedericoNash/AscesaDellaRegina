@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🧙",
       "🐲",
       "🌊",
       "🕷",
-      "❗",
-      "🧢"
+      "❗"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,13 +34,14 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/NPC Rilevanti/Gundren Rockseeker.md": "🧔",
-  "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/NPC Rilevanti/Sildar Hallwinter.md": "🧔",
-  "1. Almanacco del Mondo/Forgotten Realms/Faerun/Phandalin.md": "🏡",
-  "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap0. Introduzione.md": "🌟",
-  "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap1. Le Frecce dei Goblin.md": "🏹",
-  "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap2. I Marchi Rossi.md": "❗",
-  "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap3. La Tela del Ragno.md": "🕷",
-  "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap4. La Caverna dell'onda Tonante.md": "🌊",
-  "1. Almanacco del Mondo/Moduli Ufficiali/La Miniera Perduta di Phandelver/Cap5. L'attacco del Drago.md": "🐲"
+  "1. Ambientazioni e Avventure/Forgotten Realms/Faerun/Phandalin.md": "🏡",
+  "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/NPC Rilevanti/Gundren Rockseeker.md": "🧔",
+  "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/NPC Rilevanti/Sildar Hallwinter.md": "🧔",
+  "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap5. L'attacco del Drago.md": "🐲",
+  "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap0. Introduzione.md": "🌟",
+  "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap1. Le Frecce dei Goblin.md": "🏹",
+  "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap2. I Marchi Rossi.md": "❗",
+  "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap3. La Tela del Ragno.md": "🕷",
+  "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap4. La Caverna dell'onda Tonante.md": "🌊",
+  "0. Schermo Del Master/Schermo del Master.md": "🧙"
 }
