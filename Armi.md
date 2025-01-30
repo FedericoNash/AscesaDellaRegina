@@ -69,32 +69,11 @@ Di seguito sono riportate le definizioni delle proprietà nella colonna Propriet
 ## Maestrie della Armi
 Ogni arma ha una proprietà di maestria, che è utilizzabile solo da un personaggio che ha una funzione, come Maestria delle armi, che sblocca la proprietà per il personaggio. Le proprietà sono definite di seguito.
 
-Fendere. Se colpisci una creatura con un tiro per colpire in mischia usando quest'arma, puoi fare un tiro per colpire in mischia con l'arma contro una seconda creatura entro 5 metri dalla prima che è anche alla tua portata. In caso di colpo, la seconda creatura subisce il danno dell'arma, ma non aggiungere il tuo modificatore di abilità a quel danno, a meno che quel modificatore non sia negativo. Puoi effettuare questo attacco extra solo una volta per turno.
-
-Pascolare
-
-Se il tuo tiro per colpire con quest'arma manca una creatura, puoi infliggere a quella creatura un danno pari al modificatore di abilità che hai usato per effettuare il tiro per colpire. Questo danno è dello stesso tipo inflitto dall'arma e il danno può essere aumentato solo aumentando il modificatore di abilità.
-
-Tacca
-
-Quando effettui l'attacco extra della proprietà Luce, puoi farlo come parte dell'azione di attacco invece che come azione bonus. Puoi effettuare questo attacco extra solo una volta per turno.
-
-Spingere
-
-Se colpisci una creatura con quest'arma, puoi spingere la creatura fino a 10 metri direttamente da te stesso se è grande o più piccola.
-
-Linfa
-
-Se colpisci una creatura con quest'arma, quella creatura ha Svantaggio al suo prossimo tiro per colpire prima dell'inizio del tuo prossimo turno.
-
-Lento
-
-Se colpisci una creatura con quest'arma e le infliggi danno, puoi ridurre la sua Velocità di 10 metri fino all'inizio del tuo prossimo turno. Se la creatura viene colpita più di una volta da armi che hanno questa proprietà, la riduzione di Velocità non supera i 10 metri.
-
-Rovesciare p214
-
-Se colpisci una creatura con quest'arma, puoi costringere la creatura a effettuare un Tiro Salvezza su Costituzione (CD 8 più il modificatore di abilità usato per effettuare il tiro per colpire e il tuo Bonus di Competenza). In caso di Tiro Salvezza fallito, la creatura ha la condizione Prona.
-
-Vex p214
-
-Se colpisci una creatura con quest'arma e infliggi danno alla creatura, hai Vantaggio al tuo prossimo tiro per colpire contro quella creatura prima della fine del tuo prossimo turno.
+***Fendere***. Se colpisci una creatura con un tiro per colpire in mischia usando quest'arma, puoi fare un tiro per colpire in mischia con l'arma contro una seconda creatura entro 1,5 metri dalla prima che è anche alla tua portata. In caso di colpo, la seconda creatura subisce il danno dell'arma, ma non aggiungere il tuo modificatore di abilità a quel danno, a meno che quel modificatore non sia negativo. Puoi effettuare questo attacco extra solo una volta per turno.
+***Raschiare***. Se il tuo tiro per colpire con quest'arma manca una creatura, puoi infliggere a quella creatura un danno pari al modificatore di abilità che hai usato per effettuare il tiro per colpire. Questo danno è dello stesso tipo inflitto dall'arma e il danno può essere aumentato solo aumentando il modificatore di abilità.
+***Tagliare***. Quando effettui l'attacco extra della proprietà Leggera, puoi farlo come parte dell'azione di attacco invece che come azione bonus. Puoi effettuare questo attacco extra solo una volta per turno.
+***Spingere***. Se colpisci una creatura con quest'arma, puoi spingere la creatura fino a 3 metri direttamente da te stesso se è grande o più piccola.
+***Fiaccare***. Se colpisci una creatura con quest'arma, quella creatura ha Svantaggio al suo prossimo tiro per colpire prima dell'inizio del tuo prossimo turno.
+***Rallentare***. Se colpisci una creatura con quest'arma e le infliggi danno, puoi ridurre la sua Velocità di 3 metri fino all'inizio del tuo prossimo turno. Se la creatura viene colpita più di una volta da armi che hanno questa proprietà, la riduzione di Velocità non supera i 3 metri.
+***Rovesciare***. Se colpisci una creatura con quest'arma, puoi costringere la creatura a effettuare un Tiro Salvezza su Costituzione (CD 8 più il modificatore di abilità usato per effettuare il tiro per colpire e il tuo Bonus di Competenza). In caso di Tiro Salvezza fallito, la creatura ha la condizione Prona.
+***Vessare***. Se colpisci una creatura con quest'arma e infliggi danno alla creatura, hai Vantaggio al tuo prossimo tiro per colpire contro quella creatura prima della fine del tuo prossimo turno.

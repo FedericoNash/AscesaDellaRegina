@@ -88,9 +88,32 @@
               "icon": "lucide-file",
               "title": "Armi"
             }
+          },
+          {
+            "id": "e3d31f0dbb49c04c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Armature.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Armature"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -881,10 +904,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "462c864cf07b529d",
+  "active": "e3d31f0dbb49c04c",
   "lastOpenFiles": [
-    "0. Schermo Del Master/Schermo del Master.md",
     "Armi.md",
+    "Armature.md",
+    "0. Schermo Del Master/Schermo del Master.md",
     "0. Schermo Del Master/Guarigione e Morte/Riposare.md",
     "Guarigione e Morte.md",
     "0. Schermo Del Master/Guarigione e Morte",
@@ -921,7 +945,6 @@
     "Excalidraw/Drawing 2025-01-11 18.07.58.excalidraw.md",
     "z_Allegati/z_PDF/bastion-sheet.pdf",
     "z_Allegati/z_Template/1. Template - Mondo/Organizzazione_appunti/Template - Pianificazione Campagna.md",
-    "z_Allegati/z_Template/4.Template - Trackers/Template - Tracker Insediamento.md",
     "z_Allegati/z_PDF/settlement-tracker.pdf",
     "z_Allegati/Misc/Pasted image 20250116201127.webp",
     "z_Allegati/z_PDF/travel-planner.pdf",
