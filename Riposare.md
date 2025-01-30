@@ -16,28 +16,20 @@ Un Riposo Breve interrotto non conferisce alcun beneficio.
 # Riposo Lungo
 Un Riposo Lungo è un periodo di tempo di inattività prolungato, almeno 8 ore, disponibile per qualsiasi creatura. Durante un lungo riposo, dormi per almeno 6 ore e svolgi non più di 2 ore di attività leggera, come leggere, parlare, mangiare o stare di guardia.
 
-Durante il sonno, si ha la condizione [[Condizioni#]]. Dopo aver terminato un Riposo Lungo, è necessario attendere almeno 16 ore prima di iniziarne un altro.
+Durante il sonno, si ha la condizione [[Condizioni#Privo di Sensi|Privo di Sensi]]. Dopo aver terminato un Riposo Lungo, è necessario attendere almeno 16 ore prima di iniziarne un altro.
 
-Vantaggi del resto. Per iniziare un Riposo Lungo, devi avere almeno 1 Punto Ferita. Al termine del resto, si ottengono i seguenti vantaggi:
+***Vantaggi del Riposo.*** Per iniziare un Riposo Lungo, devi avere almeno 1 Punto Ferita. Al termine del resto, si ottengono i seguenti vantaggi:
+- ***Recupera tutti i PF.*** Riguadagni tutti i Punti Ferita persi e tutti i Dadi Vita spesi. Se il tuo massimo di Punti Ferita è stato ridotto, torna alla normalità.
+- ***Punteggi di Caratteristica ripristinati***. Se uno qualsiasi dei tuoi punteggi di caratteristica è stato ridotto, torna alla normalità.
+- ***Riduzione dell'indebolimento***. Se hai la condizione [[Condizioni#Indebolimento|Indebolimento]], il suo livello diminuisce di 1.
+- ***Abilità speciali***. Alcune funzioni vengono ricaricate da un Long Rest. Se disponi di tale funzione, si ricarica nel modo specificato nella sua descrizione.
 
-•           Recupera tutti i PS. Riguadagni tutti i Punti Ferita persi e tutti i Dadi Punti Ferita spesi. Se il tuo massimo di Punti Ferita è stato ridotto, torna alla normalità.
+Interrompere il riposo. Un Riposo Lungo viene interrotto dalle seguenti interruzioni:
+- Tirare Iniziativa
+- Lanciare una magia diversa da un trucchetto
+- Subire [[Danni Improvvisati]]
+- Fare 1 ora di camminata o altro sforzo fisico.
 
-•           Punteggi di Caratteristica ripristinati. Se uno qualsiasi dei tuoi punteggi di caratteristica è stato ridotto, torna alla normalità.
+Se ti sei riposato almeno 1 ora prima dell'interruzione, ottieni i benefici di un riposo breve.
 
-•           Riduzione dell'esaurimento. Se hai la condizione di esaurimento, il suo livello diminuisce di 1.
-
-•           Funzione speciale. Alcune funzioni vengono ricaricate da un Long Rest. Se disponi di tale funzione, si ricarica nel modo specificato nella sua descrizione.
-
-Interrompendo il resto. Un Riposo Lungo viene interrotto dalle seguenti interruzioni:
-
-•           Iniziativa a rotazione
-
-•           Lanciare una magia diversa da un cantrip
-
-•           Subendo danni
-
-•           1 ora di camminata o altro sforzo fisico.
-
-Se ti sei riposato almeno 1 ora prima dell'interruzione, ottieni i benefici di un breve riposo.
-
-È possibile riprendere un riposo lungo subito dopo un'interruzione. In tal caso, il resto richiede 1 ora aggiuntiva per interruzione per terminare.
+È possibile riprendere un riposo lungo subito dopo un'interruzione. In tal caso, il resto richiede 1 ora aggiuntiva per ogni interruzione per terminare.
