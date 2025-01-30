@@ -105,10 +105,10 @@
 > [[Riposare#Riposo Lungo|Riposo Lungo]]
 
 > [!info]- Healing and Death
-> [[10-combat#Damage and Healing#Healing|Healing]]
-> [[10-combat#Dropping to 0 Hit Points#Instant Death|Instant Death]]
-> [[10-combat#Dropping to 0 Hit Points#Falling Unconscious|Falling Unconscious]]
-> [[10-combat#Dropping to 0 Hit Points#Death Saving Throws|Death Saving Throws]]
+> [[Guarigione e Morte#Guarigione|Guarire]]
+> [[Guarigione e Morte#Scendere a 0 Punti Ferita|Scendere a 0 Punti Ferita]]
+> [[Guarigione e Morte#Morte istantanea|Morte Istantanea]]
+> [[Guarigione e Morte#Cadere Privi di Sensi|Guarire]]
 > [[10-combat#Dropping to 0 Hit Points#Stabilizing a Creature|Stabilizing a Creature]]
 > [[10-combat#Dropping to 0 Hit Points#Monsters and Death|Monsters and Death]]
 
