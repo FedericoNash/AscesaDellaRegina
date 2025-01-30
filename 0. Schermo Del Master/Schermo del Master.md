@@ -70,7 +70,6 @@
 > [[Azioni Bonus#Combattere con Due Armi|Combattere con Due Armi]]
 > [[Reazioni#Attacco d'Opportunità|Attacco d'Opportunità]]
 > [[Reazioni#Riconoscere un incantesimo|Riconoscere un incantesimo]]
-> [[Combattere#Attacchi senz'armi|Attacco senz'armi]]
 > [[Azioni Bonus#Bere una Pozione|Bere una Pozione]]
 
 > [!info]- Misc. Combattimento
@@ -79,8 +78,6 @@
 > [[Combattere#Movimento in Combattimento|Movimento in Combattimento]]
 > [[Combattere#Aggressori e obiettivi invisibili|Aggressori e Bersagli invisibili]]
 > [[Combattere#Attacchi senz'armi|Attacchi senz'armi]]
-> [[Combattere#Attacchi senz'armi|Afferrare]]
-> [[Combattere#Attacchi senz'armi|Spingere]]
 > [[Combattere#Armi Improvvisate|Armi Improvvisate]]
 > [[Combattere#Mettersi Proni|Mettersi Proni]]
 > [[Combattere#Attacchi a distanza nel combattimento ravvicinato|Attacchi a Distanza in Mischia]]

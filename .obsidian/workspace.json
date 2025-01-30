@@ -11,8 +11,14 @@
             "id": "1fe353c6aeeb3d4a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Azioni Bonus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Combattimento/Azioni Bonus.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Azioni Bonus\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":7.020579008594385}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -853,11 +859,11 @@
   },
   "active": "1fe353c6aeeb3d4a",
   "lastOpenFiles": [
-    "0. Schermo Del Master/Combattimento/Combattere.md",
+    "0. Schermo Del Master/Combattimento/Azioni Bonus.md",
     "0. Schermo Del Master/Schermo del Master.md",
+    "0. Schermo Del Master/Combattimento/Combattere.md",
     "0. Schermo Del Master/Combattimento/Azioni.md",
     "0. Schermo Del Master/Abilità/Usare Punteggi di Caratteristica.md",
-    "0. Schermo Del Master/Combattimento/Azioni Bonus.md",
     "0. Schermo Del Master/Equipaggiamento",
     "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap4. La Caverna dell'onda Tonante.md",
     "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap5. L'attacco del Drago.md",
