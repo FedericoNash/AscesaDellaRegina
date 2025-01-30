@@ -67,6 +67,29 @@
             }
           },
           {
+            "id": "e1859bdc3af525d7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guarigione e Morte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guarigione e Morte"
+            }
+          },
+          {
             "id": "6320d1700fc6cb23",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -81,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Riposare.md",
+                "file": "0. Schermo Del Master/Guarigione e Morte/Riposare.md",
                 "mode": "source",
                 "source": false
               },
@@ -881,10 +904,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6320d1700fc6cb23",
+  "active": "e1859bdc3af525d7",
   "lastOpenFiles": [
     "0. Schermo Del Master/Schermo del Master.md",
-    "Riposare.md",
+    "Guarigione e Morte.md",
+    "0. Schermo Del Master/Guarigione e Morte",
+    "0. Schermo Del Master/Guarigione e Morte/Riposare.md",
     "0. Schermo Del Master/Combattimento/Azioni Bonus.md",
     "0. Schermo Del Master/Combattimento/Combattere.md",
     "0. Schermo Del Master/Combattimento/Azioni.md",
@@ -922,12 +947,10 @@
     "z_Allegati/z_PDF/settlement-tracker.pdf",
     "z_Allegati/Misc/Pasted image 20250116201127.webp",
     "z_Allegati/z_Template/1. Template - Mondo/Template - Cataclisma.md",
-    "z_Allegati/z_Template/1. Template - Mondo/Template - Mappe Regionali.md",
     "z_Allegati/z_PDF/travel-planner.pdf",
     "z_Allegati/z_PDF/campaign-conflict-sheet.pdf",
     "z_Allegati/z_PDF/character-tracker.pdf",
     "z_Allegati/z_PDF/magic-item-sheet.pdf",
-    "z_Allegati/z_Template/4.Template - Trackers",
-    "z_Allegati/z_PDF/npc-tracker-sheet.pdf"
+    "z_Allegati/z_Template/4.Template - Trackers"
   ]
 }

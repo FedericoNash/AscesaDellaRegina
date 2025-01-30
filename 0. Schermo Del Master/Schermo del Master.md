@@ -101,9 +101,8 @@
 > [[Pericoli#Pericoli Ambientali|Pericoli Ambientali]]
 
 > [!info]- Riposare
-> [[Visibilità e Luci#Short Rest|Short Rest]]
-> [[Visibilità e Luci#Long Rest|Long Rest]]
-> [[Visibilità e Luci#Recuperating|Recuperating]]
+> [[Riposare#Riposo Breve|Riposo Breve]]
+> [[Riposare#Riposo Lungo|Riposo Lungo]]
 
 > [!info]- Healing and Death
 > [[10-combat#Damage and Healing#Healing|Healing]]
