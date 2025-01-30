@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attrezzatura.md",
+                "file": "Strumenti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attrezzatura"
+              "title": "Strumenti"
             }
           }
         ],
@@ -139,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -884,7 +884,7 @@
   "active": "16ea0e7b8dc46da7",
   "lastOpenFiles": [
     "0. Schermo Del Master/Equipaggiamento/Armature.md",
-    "Attrezzatura.md",
+    "Strumenti.md",
     "0. Schermo Del Master/Equipaggiamento/Armi.md",
     "0. Schermo Del Master/Schermo del Master.md",
     "0. Schermo Del Master/Guarigione e Morte/Riposare.md",
