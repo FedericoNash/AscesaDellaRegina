@@ -69,7 +69,7 @@ Il tunnel che si inoltra a sud era l’entrata originale della Caverna dell’On
 >*Molti tunnel convergono in questa caverna naturale alta nove metri. Sulle pareti sono stati scolpiti vari bassorilievi che mostrano nani e gnomi minatori intenti a lavorare. Sotto i bassorilievi, circa due dozzine di scheletri che indossano frammenti arrugginiti di armatura giacciono disseminati per il pavimento della caverna. Alcuni sono scheletri nanici, mentre altri sono resti orcheschi. Una mezza dozzina di grosse lanterne di ottone occupa una serie di nicchie o di costoni lungo i margini della caverna, ma nessuna di esse è accesa.*
 
 Dieci **uccelli stigei** si aggrappano al soffitto come se fossero pipistrelli. I mostri trovano ben poche prede vive nelle miniere e sono affamati. Se i personaggi esaminano gli scheletri sul pavimento, gli uccelli stigei riescono molto probabilmente a coglierli alla sprovvista. 
-Per passare senza attirare l’attenzione degli uccelli, devono superare una prova di Furtività di gruppo con CD 15. Se svegliati gli uccelli attaccano il party una volta e volano via verso l’uscita, i personaggi devono superare un tiro salvezza su Forza per evitare che si attacchino, altrimenti subiscono 2d6 danni perforanti.
+Per passare senza attirare l’attenzione degli uccelli, devono superare una prova di Furtività di gruppo con CD 15. Se svegliati gli uccelli attaccano il party una volta e volano via verso l’uscita, i personaggi devono superare un tiro salvezza su Forza per evitare che si attacchino, altrimenti subiscono 2d6 danni perforanti e gli uccelli volano via.
 Le lanterne e le sculture dei minatori al lavoro avevano in origine lo scopo di dare il benvenuto ai nuovi arrivati.
 
 #### W4. Vecchia Sala delle Guardie
@@ -97,7 +97,7 @@ Questo era un dormitorio dei minatori. È qui che i più abili scavatori che lav
 >[!note]- Leggere ad Alta Voce
 >*File ordinate di vecchie brandine di pietra corrono lungo questa camera, al cui centro si erge un vecchio braciere di ferro arrugginito pieno di carboni spenti. A terra giacciono le ossa di una mezza dozzina di nani e di orchi, che ancora indossano alcuni frammenti di armatura. Tre figure grigie e ricurve frugano tra i resti, palpeggiando i frammenti e rosicchiando le ossa.*
 
-Tre **ghoul** del branco nell’area 9 si trovano in questa stanza, impegnati a spezzare e rosicchiare le antiche ossa dei caduti nella vana speranza di trovare qualche rimasuglio di midollo. I ghoul, impazienti di cibarsi di carne fresca, attaccano immediatamente. 
+Due **ghoul** del branco nell’area 9 si trovano in questa stanza, impegnati a spezzare e rosicchiare le antiche ossa dei caduti nella vana speranza di trovare qualche rimasuglio di midollo. I ghoul, impazienti di cibarsi di carne fresca, attaccano immediatamente. 
 I rumori del combattimento attirano l'attenzione degli altri **ghoul** che arrivano dall'area W9 dopo 2 round. 
 
 ###### Tesoro
@@ -153,7 +153,7 @@ Se il gruppo entra da ovest, il DM aggiunge:
 >[!note]- Leggere ad Alta Voce
 >*Sul lato opposto della stanza è visibile un’altra porta, bloccata da una barricata ricavata dai resti di un tavolo di legno*
 
-Un **bugbear** risiede in questa camera, mentre si rifugia qui essendo l'ultimo rimasto della sua unità e fa da guardia a Nundro. Sono i fedeli servitori di Nezznar. Questa camera costituisce la prima linea dell’assalto del Ragno Nero alla Caverna dell’Onda Tonante, ma i bugbear sono stati massacrati dai ghoul, gli zombi o gli altri non morti che infestano il dungeon.
+Due **bugbear** risiedono in questa camera, mentre si rifugiano qui essendo gli ultimi rimasti della lori unità e fanno da guardia a Nundro. Sono i fedeli servitori di Nezznar. Questa camera costituisce la prima linea dell’assalto del Ragno Nero alla Caverna dell’Onda Tonante, ma i bugbear sono stati massacrati dai ghoul, gli zombi o gli altri non morti che infestano il dungeon.
 Come nel caso dell’area 6, anche questa stanza un tempo era un dormitorio dei minatori. I bugbear di Nezznar hanno rimosso i cadaveri che hanno trovato all’interno e hanno eretto la barricata.
 La figura che giace sul pavimento è Nundro, un nano **popolano** e il più giovane dei tre fratelli Rockseeker. Nezznar lo ha risparmiato perché credeva che il nano potesse sapere più cose sulla miniera di quante non volesse ammettere. Il drow ha interrogato brutalmente Nundro una volta o due al giorno da quando lo ha catturato.
 
@@ -171,6 +171,7 @@ Come la caverna dei funghi nell’area 8, questa caverna costituisce un serio os
 >*Più di una dozzina di cadaveri avvizziti giacciono all’interno della stanza. Appartengono ai nani e agli orchi uccisi in battaglia e indossano ancora brandelli delle loro armature. Sopra di essi fluttua un teschio avvolto nelle fiamme verdi.*
 
 Quest’area è sorvegliata da un non morto molto più intelligente: un **teschio infuocato**. Questa creatura era un servitore dei maghi umani alleati con i nani e gli gnomi di Phandelver e continua ad agire secondo le antiche istruzioni ricevute, impedendo a qualsiasi intruso di passare.
+Non appena i personaggi entrano nella stanza, le ossa iniziano a muoversi e rinsaldarsi, formando sei **scheletri**. Gli scheletri combattono fino alla distruzione.
 Questa imponente camera era il cuore delle operazioni minerarie della Caverna dell’Onda Tonante. Era qui che i nani fondevano i loro minerali per raffinarli e farne dei lingotti d’oro, d’argento e di platino. Il canale prosciugato veniva alimentato dal torrente dell’area 18, che i nani deviavano per mettere in moto la ruota ad acqua, che a sua volta metteva in funzione il mantice che alimentava la fornace.
 Il canale è profondo 1,5 metri rispetto al pavimento e non è necessaria alcuna prova di caratteristica per entrarvi o uscirne. Un personaggio sul fondo del canale può seguirlo per uscire da questa stanza verso nord o verso est, anche se il soffitto diventa alto solo 1,5 metri una volta che il canale è uscito dalla stanza.
 
@@ -184,11 +185,7 @@ I danni strutturali e i resti scheletrici di quest’area sono la prova della de
 
 Gli edifici danneggiati sono descritti nelle aree 14 e 15. I minerali nel soffitto sono belli a vedersi, ma non sono magici e non hanno alcun valore.
 Qualsiasi personaggio competente in Arcano può percepire una sottile aura di magia in questa caverna. (Un incantesimo *individuazione del magico* rivela la stessa cosa.) L’aura diventa più forte se ci si avvicina all’edificio a nord (l’area 15).
-Nel round successivo a quello in cui una creatura vivente entra in questa camera, le ossa iniziano a muoversi e rinsaldarsi, formando sette **scheletri**. Gli scheletri combattono fino alla distruzione.
 
-###### Sviluppi
-Se due o più bugbear vengono uccisi, il doppelganger fugge verso l’area 19 per mettere in guardia Nezznar.
-Il doppleganger ha con sè una nota che recita: "Monteith, pattuglia la caverna insieme ai bugbear, elimina ogni minaccia presente. Ho notato un oggetto interessante nel cuore della Caverna Tonante dove il rumore è più forte. Ho ordinato a Kurtz di portarti questo messaggio, per favore recuperalo tu per me. Al momento sono troppo occupata con questo maledetto portone, chi ha costruito questa miniera era molto più scaltro di quanto avessi immaginato. Ah un'ultima cosa, se vedi ancora quegli avventurieri, uccidili senza esitazione."
 
 #### W14. Alloggi dei Maghi
 Le porte che conducono a quest’area sono crepate e i loro cardini di ferro sono parzialmente fusi. Per scardinare o sfondare le porte è necessario effettuare con successo una prova di Forza con CD 15.
@@ -260,8 +257,8 @@ I servitori di Nezznar che occupano questa caverna hanno il compito di vigilare 
 >[!note]- Leggere ad Alta Voce
 >*La metà orientale di questa caverna è occupata da una grossa crepa. Un torrente sgorga dalla parete ovest e si tuffa nella crepa, per poi uscirne sul lato nord. Varie corde assicurate a dei paletti di ferro piantati lungo il bordo ovest della crepa scendono fino al fondo del baratro e diversi corpi sono sparsi in questa stanza.*
 
-I corpi sono i resti di alcuni bugbear e ghoul che si sono uccisi a vicenda. In fondo al crepaccio, tuttavia si nascondono due **ragni giganti**, i quali attaccano solo se qualcuno entra nel crepaccio.
-***Crepa***. La crepa è profonda 6 metri. Per entrare o uscire dalla crepa senza usare una corda è necessario effettuare con successo una prova di Forza (Atletica) con CD 10. Una creatura che fallisce la prova di 5 o più cade e subisce 1d6 danni contundenti per ogni 3 metri di caduta, atterrando prona sul fondo.
+I corpi sono i resti di alcuni bugbear e ghoul che si sono uccisi a vicenda. 
+***Crepa***. La crepa è profonda 9 metri. Per entrare o uscire dalla crepa senza usare una corda è necessario effettuare con successo una prova di Forza (Atletica) con CD 10. Una creatura che fallisce la prova di 5 o più cade e subisce 1d6 danni contundenti per ogni 3 metri di caduta, atterrando prona sul fondo.
 
 ###### Tesoro
 In fondo al crepaccio, sono presenti diverse ossa e resti, tra cui sono presenti una *pozione di guarigione superiore* ed un *capello della magia accademica*.
