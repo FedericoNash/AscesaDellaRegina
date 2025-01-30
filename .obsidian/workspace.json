@@ -4,46 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "218ccc37f45afd2f",
+        "id": "54a07d7f225ec0a0",
         "type": "tabs",
         "children": [
           {
-            "id": "c0db7366c13b49a1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Cap0. Introduzione",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap0. Introduzione.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap0. Introduzione\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":277},\"to\":{\"line\":49,\"ch\":277}},\"scroll\":39.633260188589745}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Cap4. La Caverna dell'onda Tonante",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap4. La Caverna dell'onda Tonante.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap4. La Caverna dell'onda Tonante\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":315,\"ch\":288},\"to\":{\"line\":315,\"ch\":288}},\"scroll\":295.90215098021764}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Almanacco del Mondo/Forgotten Realms/Faerun/Phandalin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phandalin"
-            }
-          },
-          {
-            "id": "92197b1d084e4b01",
+            "id": "1fe353c6aeeb3d4a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -51,108 +16,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Cap5. L'attacco del Drago",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap5. L'attacco del Drago.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap5. L'attacco del Drago\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Cap0. Introduzione",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap0. Introduzione.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap0. Introduzione\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Cap1. Le Frecce dei Goblin",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap1. Le Frecce dei Goblin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap1. Le Frecce dei Goblin\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":108},\"to\":{\"line\":31,\"ch\":108}},\"scroll\":24.458888503802676}"
-                },
-                {
-                  "title": "Cap5. L'attacco del Drago",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap5. L'attacco del Drago.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap5. L'attacco del Drago\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":79},\"to\":{\"line\":12,\"ch\":79}},\"scroll\":5.341288649308381}"
-                },
-                {
-                  "title": "Cap4. La Caverna dell'onda Tonante",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap4. La Caverna dell'onda Tonante.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap4. La Caverna dell'onda Tonante\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Cap1. Le Frecce dei Goblin",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap1. Le Frecce dei Goblin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap1. Le Frecce dei Goblin\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":53.4510415607201}"
-                },
-                {
-                  "title": "Cap2. I Marchi Rossi",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap2. I Marchi Rossi.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap2. I Marchi Rossi\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":244,\"ch\":0},\"to\":{\"line\":244,\"ch\":0}},\"scroll\":241.62515496152955}"
-                },
-                {
-                  "title": "Cap3. La Tela del Ragno",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap3. La Tela del Ragno.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap3. La Tela del Ragno\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":370,\"ch\":0},\"to\":{\"line\":370,\"ch\":0}},\"scroll\":367.6467286348149}"
-                },
-                {
-                  "title": "Cap4. La Caverna dell'onda Tonante",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap4. La Caverna dell'onda Tonante.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap4. La Caverna dell'onda Tonante\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":317,\"ch\":2},\"to\":{\"line\":317,\"ch\":2}},\"scroll\":314.2912911125661}"
-                },
-                {
-                  "title": "Cap5. L'attacco del Drago",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap5. L'attacco del Drago.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap5. L'attacco del Drago\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":242,\"ch\":34},\"to\":{\"line\":242,\"ch\":34}},\"scroll\":237.12068087609066}"
-                },
-                {
-                  "title": "Cap4. La Caverna dell'onda Tonante",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap4. La Caverna dell'onda Tonante.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap4. La Caverna dell'onda Tonante\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":318,\"ch\":33},\"to\":{\"line\":318,\"ch\":33}},\"scroll\":311.67585260501426}"
-                },
-                {
-                  "title": "Cap3. La Tela del Ragno",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap3. La Tela del Ragno.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap3. La Tela del Ragno\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":371,\"ch\":34},\"to\":{\"line\":370,\"ch\":0}},\"scroll\":367.2148438691899}"
-                },
-                {
-                  "title": "Cap2. I Marchi Rossi",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap2. I Marchi Rossi.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap2. I Marchi Rossi\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":245,\"ch\":34},\"to\":{\"line\":245,\"ch\":34}},\"scroll\":222.538999196925}"
-                },
-                {
-                  "title": "Cap1. Le Frecce dei Goblin",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap1. Le Frecce dei Goblin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap1. Le Frecce dei Goblin\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":200,\"ch\":34},\"to\":{\"line\":199,\"ch\":0}},\"scroll\":191.17480127072315}"
-                },
-                {
-                  "title": "Cap5. L'attacco del Drago",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap5. L'attacco del Drago.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap5. L'attacco del Drago\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":239,\"ch\":127},\"to\":{\"line\":239,\"ch\":127}},\"scroll\":161.20327613278073}"
-                },
-                {
-                  "title": "Cap1. Le Frecce dei Goblin",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap1. Le Frecce dei Goblin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap1. Le Frecce dei Goblin\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.5551937127068078}"
-                },
-                {
-                  "title": "Cap5. L'attacco del Drago",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap5. L'attacco del Drago.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cap5. L'attacco del Drago\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":9.07747861998237}"
                 }
               ]
             },
@@ -165,6 +28,29 @@
               },
               "icon": "lucide-file",
               "title": "Schermo del Master"
+            }
+          },
+          {
+            "id": "5e45548e37ef05d6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap4. La Caverna dell'onda Tonante.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cap4. La Caverna dell'onda Tonante"
             }
           }
         ],
@@ -959,8 +845,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "92197b1d084e4b01",
+  "active": "5e45548e37ef05d6",
   "lastOpenFiles": [
+    "0. Schermo Del Master/Schermo del Master.md",
     "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap5. L'attacco del Drago.md",
     "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap0. Introduzione.md",
     "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap1. Le Frecce dei Goblin.md",
@@ -997,7 +884,6 @@
     "z_Allegati/z_Template/1. Template - Mondo/Template - Mappe Regionali.md",
     "z_Allegati/z_Template/1. Template - Mondo/Template - Mappa Incontro.md",
     "0. Schermo Del Master/Esplorazione/Visibilità e Luci.md",
-    "0. Schermo Del Master/Schermo del Master.md",
     "z_Allegati/z_Template/4.Template - Trackers/Template - Tracker Personaggi.md",
     "z_Allegati/z_PDF/travel-planner.pdf",
     "z_Allegati/z_PDF/campaign-conflict-sheet.pdf",
