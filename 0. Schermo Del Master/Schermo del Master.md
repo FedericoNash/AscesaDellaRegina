@@ -104,13 +104,14 @@
 > [[Riposare#Riposo Breve|Riposo Breve]]
 > [[Riposare#Riposo Lungo|Riposo Lungo]]
 
-> [!info]- Healing and Death
+> [!info]- Guarigione e Morte
 > [[Guarigione e Morte#Guarigione|Guarire]]
 > [[Guarigione e Morte#Scendere a 0 Punti Ferita|Scendere a 0 Punti Ferita]]
 > [[Guarigione e Morte#Morte istantanea|Morte Istantanea]]
-> [[Guarigione e Morte#Cadere Privi di Sensi|Guarire]]
-> [[10-combat#Dropping to 0 Hit Points#Stabilizing a Creature|Stabilizing a Creature]]
-> [[10-combat#Dropping to 0 Hit Points#Monsters and Death|Monsters and Death]]
+> [[Guarigione e Morte#Cadere Privi di Sensi|Cadere Privo di Sensi]]
+> [[Guarigione e Morte#Mettere KO una creatura|Mettere KO una creatura]]
+> [[Guarigione e Morte#Tiro Salvezza su Morte|Tiro Salvezza su Morte]]
+> [[Guarigione e Morte#Stabilizzare un personaggio|Stabilizzare un personaggio]]
 
 > [!info]- Weapons and Armor
 > [[weapons|Weapons]]

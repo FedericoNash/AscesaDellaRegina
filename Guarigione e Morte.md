@@ -16,7 +16,7 @@ Ecco i modi principali in cui una creatura può morire all'istante.
 Se il tuo personaggio muore, altri potrebbero trovare un modo magico per rianimare il tuo personaggio, ad esempio con l'incantesimo Resuscitare i morti. Oppure parla con il DM della creazione di un nuovo personaggio che si unisca al gruppo. Il glossario delle regole contiene ulteriori informazioni sull'essere morti.
 
 ## Cadere Privi di Sensi
-Se raggiungi 0 Punti Ferita e non muori all'istante, hai la condizione di Incoscienza fino a quando non riguadagni qualsiasi Punti Ferita, e ora devi affrontare l'esecuzione di Tiri Salvezza sulla Morte (vedi sotto).
+Se raggiungi 0 Punti Ferita e non muori all'istante, hai la condizione di [[Condizioni#Privo di Sensi|Privo di Sensi]] fino a quando non riguadagni qualsiasi Punti Ferita, e ora devi affrontare l'esecuzione di Tiri Salvezza sulla Morte (vedi sotto).
 
 #### Mettere KO una creatura
 Quando ridurresti una creatura a 0 Punti Ferita con un attacco corpo a corpo, puoi invece ridurre la creatura a 1 Punto Ferita e darle la condizione di Incoscienza. Inizia quindi un Riposo Breve, al termine del quale termina quella condizione su di esso. La condizione termina presto se la creatura riguadagna dei Punti Ferita o se qualcuno compie un'azione per presidiarle il primo soccorso, effettuando con successo una prova di Saggezza (Medicina) con CD 10.
