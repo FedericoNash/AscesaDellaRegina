@@ -100,9 +100,7 @@
 > [[Pericoli#Trappole|Trappole]]
 > [[Pericoli#Pericoli Ambientali|Pericoli Ambientali]]
 
-> [!info]- Resting
-> [[Visibilità e Luci#Food and Water|Food and Water]]
-> [[Visibilità e Luci#Resting|Resting]]
+> [!info]- Riposare
 > [[Visibilità e Luci#Short Rest|Short Rest]]
 > [[Visibilità e Luci#Long Rest|Long Rest]]
 > [[Visibilità e Luci#Recuperating|Recuperating]]

@@ -65,8 +65,32 @@
               "icon": "lucide-file",
               "title": "Schermo del Master"
             }
+          },
+          {
+            "id": "6320d1700fc6cb23",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Riposare.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Riposare"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -857,10 +881,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1fe353c6aeeb3d4a",
+  "active": "6320d1700fc6cb23",
   "lastOpenFiles": [
-    "0. Schermo Del Master/Combattimento/Azioni Bonus.md",
     "0. Schermo Del Master/Schermo del Master.md",
+    "Riposare.md",
+    "0. Schermo Del Master/Combattimento/Azioni Bonus.md",
     "0. Schermo Del Master/Combattimento/Combattere.md",
     "0. Schermo Del Master/Combattimento/Azioni.md",
     "0. Schermo Del Master/Abilità/Usare Punteggi di Caratteristica.md",
@@ -898,7 +923,6 @@
     "z_Allegati/Misc/Pasted image 20250116201127.webp",
     "z_Allegati/z_Template/1. Template - Mondo/Template - Cataclisma.md",
     "z_Allegati/z_Template/1. Template - Mondo/Template - Mappe Regionali.md",
-    "z_Allegati/z_Template/1. Template - Mondo/Template - Mappa Incontro.md",
     "z_Allegati/z_PDF/travel-planner.pdf",
     "z_Allegati/z_PDF/campaign-conflict-sheet.pdf",
     "z_Allegati/z_PDF/character-tracker.pdf",
