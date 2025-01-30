@@ -16,18 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Schermo del Master",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Schermo del Master.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Schermo del Master\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":36.84992104185485}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Schermo Del Master/Schermo del Master.md",
+                "file": "0. Schermo Del Master/Combattimento/Azioni Bonus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schermo del Master"
+              "title": "Azioni Bonus"
             }
           },
           {
@@ -53,8 +59,7 @@
               "title": "Cap4. La Caverna dell'onda Tonante"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -845,14 +850,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5e45548e37ef05d6",
+  "active": "1fe353c6aeeb3d4a",
   "lastOpenFiles": [
     "0. Schermo Del Master/Schermo del Master.md",
+    "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap4. La Caverna dell'onda Tonante.md",
     "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap5. L'attacco del Drago.md",
     "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap0. Introduzione.md",
     "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap1. Le Frecce dei Goblin.md",
     "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli",
-    "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap4. La Caverna dell'onda Tonante.md",
     "1. Ambientazioni e Avventure/Forgotten Realms/Faerun/Phandalin.md",
     "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap2. I Marchi Rossi.md",
     "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap3. La Tela del Ragno.md",

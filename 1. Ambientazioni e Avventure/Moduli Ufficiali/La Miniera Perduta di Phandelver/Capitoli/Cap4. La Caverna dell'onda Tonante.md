@@ -101,7 +101,7 @@ Due **ghoul** del branco nell’area 9 si trovano in questa stanza, impegnati a 
 I rumori del combattimento attirano l'attenzione degli altri **ghoul** che arrivano dall'area W9 dopo 2 round. 
 
 ###### Tesoro
-Una delle armature (tipologia a scelta del DM) degli scheletri è ancora in buone condizioni ed è utilizzabile. 
+Sul pavimento è presente un'*armatura della rimozione rapida* (DMG pag. 243, vedi "*Cast-off Armor*")  ancora in buone condizioni ed utilizzabile. La tipologia di armatura che trovano è a discrezione del DM.
 
 #### W7. Magazzino in Rovina
 Nonostante la distruzione circostante, la parte nord di quest’area di stoccaggio è rimasta relativamente intatta.
@@ -198,7 +198,7 @@ Mormesk era un potente mago che andò incontro al suo destino durante la battagl
 Mormesk ha il comando dei non morti che infestano la Caverna dell’Onda Tonante. Il wraith trascorre il suo tempo quaggiù perché il tesoro che aveva accumulato in vita si trova nel forziere annerito (vedi la sezione “Tesoro”). Non essendo più corporeo, non può toccare o maneggiare le ricchezze che possedeva in vita.
 Questo edificio fungeva da casa degli ospiti per i maghi in visita che lavoravano alla Forgia degli Incantesimi (area 15), molti dei quali erano umani provenienti dalle città vicine.
 Tutti i mobili sono a misura di umano.
-Diario di Mormesk. Sugli scaffali si trovano ancora alcuni tomi preservati magicamente. Molti sono soltanto libri di storie, ma un diario racconta della caduta della Caverna dell'Onda Tonante. È possibile notare il libro effettuando con successo una prova di Intelligenza (Indagare) con CD 12.
+***Diario di Mormesk.*** Sugli scaffali si trovano ancora alcuni tomi preservati magicamente. Molti sono soltanto libri di storie, ma un diario racconta della caduta della Caverna dell'Onda Tonante. È possibile notare il libro effettuando con successo una prova di Intelligenza (Indagare) con CD 12. Per leggere il contenuto vedi la sezione "Tesoro".
 
 ###### Interpretare Mormesk
 Mormesk parla con voce rauca e sussurrante. Quando emerge dal pavimento per la prima volta, esclama: “La vostra presenza è un’offesa per me, come anche la vostra vita. I miei tesori appartengono soltanto a me, non vi consentirò di saccheggiarli!” Se i personaggi non fanno alcun tentativo di ragionare col wraith, la creatura attacca.

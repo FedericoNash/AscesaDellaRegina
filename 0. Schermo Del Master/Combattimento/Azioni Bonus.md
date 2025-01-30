@@ -6,3 +6,5 @@ Scegli tu quando eseguire un'Azione Bonus durante il tuo turno, a meno che non s
 
 ## Combattere con Due Armi
 Quando esegui l'azione di Attacco nel tuo turno e attacchi con un'arma leggera, puoi effettuare un attacco extra come Azione Bonus più tardi nello stesso turno. Quell'attacco extra deve essere effettuato con un'arma leggera diversa e non aggiungi il tuo modificatore di caratteristica al danno dell'attacco extra a meno che quel modificatore non sia negativo. Ad esempio, puoi attaccare con una spada corta in una mano e un pugnale nell'altra usando l'azione di attacco e un'azione bonus, ma non aggiungi il tuo modificatore di forza o destrezza al tiro per i danni dell'azione bonus, a meno che quel modificatore non sia negativo.
+
+## Bere una Pozione
