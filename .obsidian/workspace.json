@@ -18,10 +18,22 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Combattere",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Combattimento/Combattere.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Combattere\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":43.87668470749064}"
+                },
+                {
+                  "title": "Schermo del Master",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Schermo del Master.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Schermo del Master\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":60.0593443676758}"
+                },
+                {
                   "title": "Azioni",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Combattimento/Azioni.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Azioni\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.553023291293734}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":244},\"to\":{\"line\":30,\"ch\":244}},\"scroll\":22.63520646867372}"
                 },
                 {
                   "title": "Azioni Bonus",
@@ -47,55 +59,8 @@
               "icon": "lucide-file",
               "title": "Schermo del Master"
             }
-          },
-          {
-            "id": "63f284f9b0f9657f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Schermo Del Master/Abilità/Usare Punteggi di Caratteristica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Usare Punteggi di Caratteristica"
-            }
-          },
-          {
-            "id": "5e45548e37ef05d6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap4. La Caverna dell'onda Tonante.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cap4. La Caverna dell'onda Tonante"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -886,10 +851,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "63f284f9b0f9657f",
+  "active": "1fe353c6aeeb3d4a",
   "lastOpenFiles": [
+    "0. Schermo Del Master/Combattimento/Combattere.md",
     "0. Schermo Del Master/Schermo del Master.md",
     "0. Schermo Del Master/Combattimento/Azioni.md",
+    "0. Schermo Del Master/Abilità/Usare Punteggi di Caratteristica.md",
     "0. Schermo Del Master/Combattimento/Azioni Bonus.md",
     "0. Schermo Del Master/Equipaggiamento",
     "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap4. La Caverna dell'onda Tonante.md",
@@ -924,10 +891,8 @@
     "z_Allegati/z_PDF/settlement-tracker.pdf",
     "z_Allegati/Misc/Pasted image 20250116201127.webp",
     "z_Allegati/z_Template/1. Template - Mondo/Template - Cataclisma.md",
-    "0. Schermo Del Master/Combattimento/Combattere.md",
     "z_Allegati/z_Template/1. Template - Mondo/Template - Mappe Regionali.md",
     "z_Allegati/z_Template/1. Template - Mondo/Template - Mappa Incontro.md",
-    "0. Schermo Del Master/Esplorazione/Visibilità e Luci.md",
     "z_Allegati/z_PDF/travel-planner.pdf",
     "z_Allegati/z_PDF/campaign-conflict-sheet.pdf",
     "z_Allegati/z_PDF/character-tracker.pdf",

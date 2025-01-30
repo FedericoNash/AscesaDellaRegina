@@ -70,6 +70,8 @@
 > [[Azioni Bonus#Combattere con Due Armi|Combattere con Due Armi]]
 > [[Reazioni#Attacco d'Opportunità|Attacco d'Opportunità]]
 > [[Reazioni#Riconoscere un incantesimo|Riconoscere un incantesimo]]
+> [[Combattere#Attacchi senz'armi|Attacco senz'armi]]
+> [[Azioni Bonus#Bere una Pozione|Bere una Pozione]]
 
 > [!info]- Misc. Combattimento
 > [[Combattere#Sorpresa|Sorpresa]]
