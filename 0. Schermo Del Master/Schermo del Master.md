@@ -113,9 +113,10 @@
 > [[Guarigione e Morte#Tiro Salvezza su Morte|Tiro Salvezza su Morte]]
 > [[Guarigione e Morte#Stabilizzare un personaggio|Stabilizzare un personaggio]]
 
-> [!info]- Weapons and Armor
-> [[weapons|Weapons]]
-> [[armor-and-shields-armor|Armor and Shields]]
+> [!info]- Equipaggiamento
+> [[Armi]]
+> [[Armature]]
+> [[Strumenti]]
 
 > [!info]- Magic Schools
 > [[Schools of Magic]]

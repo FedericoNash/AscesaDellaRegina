@@ -79,37 +79,37 @@ Gli strumenti dell'artigiano si concentrano sulla creazione di oggetti e sul per
     Utilizzare. Scalpellare un simbolo o un buco nella pietra (CD 10)
     Mestiere. Blocco e placcaggio
 
-Forniture per pittori (10 GP)
+**Forniture per pittori (10 GP)**
 
     Abilità: Saggezza
     Utilizzare. Dipingi un'immagine riconoscibile di qualcosa che hai visto (CD 10)
     Mestiere. Focus Druidico, Simbolo Sacro
 
-Strumenti del vasaio (10 GP)
+**Strumenti del vasaio (10 GP)**
 
     Abilità: Intelligenza
     Utilizzare. Discerni cosa ha contenuto un oggetto di ceramica nelle ultime 24 ore (CD 15)
     Mestiere. Brocca, Lampada
 
-Strumenti del Fabbro (20 GP)
+**Strumenti del Fabbro (20 GP)**
 
     Abilità: Forza
     Utilizzare. Aprire una porta o un contenitore (CD 20)
     Mestiere. Qualsiasi arma da mischia (eccetto mazza, mazza, bastone e frusta), armatura media (eccetto cuoio), armatura pesante, cuscinetti a sfera, secchio, triboli, catena, piede di porco, proiettili per armi da fuoco, rampino, pentola di ferro, punte di ferro, proiettili per fionda
 
-Strumenti del riparatore (50 GP)
+**Strumenti del riparatore (50 GP)**
 
     Abilità: Destrezza
     Utilizzare. Assembla un oggetto minuscolo composto da rottami, che cade a pezzi in 1 minuto (CD 20)
     Mestiere. Muschetto, Pistola, Campana, Lanterna Bullseye, Fiaschetta, Lanterna con cappuccio, Trappola del cacciatore, Serratura, Manette, Specchio, Pala, Fischietto di segnalazione, Polveriera
 
-Strumenti del tessitore (1 GP)
+**Strumenti del tessitore (1 GP)**
 
     Abilità: Destrezza
     Utilizzare. Ripara uno strappo nei vestiti (CD 10) o cuci un disegno minuscolo (CD 10)
     Mestiere. Armatura imbottita, cesto, lenzuolo, coperta, vestiti pregiati, rete, accappatoio, corda, sacco, spago, tenda, vestiti da viaggiatore
 
-Strumenti dell'intagliatore del legno (1 GP)
+**Strumenti dell'intagliatore del legno (1 GP)**
 
     Abilità: Destrezza
     Utilizzare. Intaglia un disegno nel legno (CD 10)
@@ -118,47 +118,47 @@ Strumenti dell'intagliatore del legno (1 GP)
 ### Altri strumenti
 Questi strumenti supportano l'avventura e altre attività.
 
-Kit di travestimento (25 GP)
+**Kit di travestimento (25 GP)**
 
     Abilità: Carisma
     Utilizza: Applicare il trucco (CD 10)
     Mestiere: Costume
 
-Kit di contraffazione (15 GP)
+**Kit di contraffazione (15 GP)**
 
     Abilità: Destrezza
     Utilizzare: imitare 10 o meno parole della calligrafia di qualcun altro (CD 15) o duplicare un sigillo di cera (CD 20)
 
-Set da gioco (variabile)
+**Set da gioco (variabile)**
 
     Abilità: Saggezza
     Utilizza: discerni se qualcuno sta barando (CD 10) o vince la partita (CD 20)
     Varianti: Dadi (1 SP), scacchi del drago (1 GP), carte da gioco (5 SP), ante dei tre draghi (1 GP)
 
-Kit Erboristeria (5 GP)
+**Kit Erboristeria (5 GP)**
 
     Abilità: Intelligenza
     Utilizzare: Identificare una pianta (DC 10)
     Creazione: Antitossina, Candela, Kit del guaritore, Pozione di guarigione
 
-Strumento musicale (variabile)
+**Strumento musicale (variabile)**
 
     Abilità: Carisma
     Utilizza: Suona una melodia nota (CD 10) o improvvisa una canzone (CD 15)
     Varianti: Cornamuse (30 GP, 6 lb.), tamburo (6 GP, 3 lb.), dulcimer (25 GP, 10 lb.), flauto (2 GP, 1 lb.), corno (3 GP, 2 lb.), liuto (35 GP, 2 lb.), lira (30 GP, 2 lb.), flauto di pan (12 GP, 2 lb.), ciaramella (2 GP, 1 lb.), viola da gamba (30 GP, 1 lb.)
 
-Strumenti del navigatore (25 GP)
+**Strumenti del navigatore (25 GP)**
 
     Abilità: Saggezza
     Utilizza: traccia una rotta (CD 10) o determina la posizione osservando le stelle (CD 15)
 
-Kit dell'avvelenatore (50 GP)
+**Kit dell'avvelenatore (50 GP)**
 
     Abilità: Intelligenza
     Utilizza: Rileva un oggetto avvelenato (CD 10)
     Mestiere: Veleno di base
 
-Strumenti dei ladri (25 GP)
+**Strumenti dei ladri (25 GP)**
 
     Abilità: Destrezza
     Utilizza: scassinare una serratura (CD 15) o disinnescare una trappola (CD 15)
