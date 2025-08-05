@@ -11,17 +11,17 @@
             "id": "1fe353c6aeeb3d4a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Guarigione e Morte",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Guarigione e Morte/Guarigione e Morte.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Guarigione e Morte\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.6255777802837615}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Schermo del Master",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Schermo del Master.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Schermo del Master\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Combattere",
@@ -58,37 +58,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Schermo Del Master/Schermo del Master.md",
+                "file": "1. Ambientazioni e Avventure/Forgotten Realms/Faerun/Phandalin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schermo del Master"
-            }
-          },
-          {
-            "id": "e5417bedb71785d4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
+              "title": "Phandalin"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -880,10 +858,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e5417bedb71785d4",
+  "active": "1fe353c6aeeb3d4a",
   "lastOpenFiles": [
-    "0. Schermo Del Master/Guarigione e Morte/Guarigione e Morte.md",
     "0. Schermo Del Master/Schermo del Master.md",
+    "0. Schermo Del Master/Guarigione e Morte/Guarigione e Morte.md",
     "0. Schermo Del Master/Equipaggiamento/Strumenti.md",
     "0. Schermo Del Master/Equipaggiamento/Armature.md",
     "0. Schermo Del Master/Equipaggiamento/Armi.md",
