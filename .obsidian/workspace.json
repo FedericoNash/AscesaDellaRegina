@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54a07d7f225ec0a0",
+        "id": "e974544ee5385ab8",
         "type": "tabs",
         "children": [
           {
-            "id": "1fe353c6aeeb3d4a",
+            "id": "c215a68f650cfd0c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,52 +18,28 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Schermo del Master",
+                  "title": "Guarigione e Morte",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Schermo del Master.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Schermo del Master\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Combattere",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Combattimento/Combattere.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Combattere\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":43.87668470749064}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Guarigione e Morte/Guarigione e Morte.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Guarigione e Morte\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.655275106158462}"
                 },
                 {
                   "title": "Schermo del Master",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Schermo del Master.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Schermo del Master\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":60.0593443676758}"
-                },
-                {
-                  "title": "Azioni",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Combattimento/Azioni.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Azioni\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":244},\"to\":{\"line\":30,\"ch\":244}},\"scroll\":22.63520646867372}"
-                },
-                {
-                  "title": "Azioni Bonus",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Combattimento/Azioni Bonus.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Azioni Bonus\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":278},\"to\":{\"line\":10,\"ch\":278}},\"scroll\":5.40059626729048}"
-                },
-                {
-                  "title": "Schermo del Master",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Schermo del Master.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Schermo del Master\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":36.84992104185485}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":4.6646828762852754}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Ambientazioni e Avventure/Forgotten Realms/Faerun/Phandalin.md",
+                "file": "1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phandalin"
+              "title": "Storia di Eberron"
             }
           }
         ]
@@ -859,10 +835,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1fe353c6aeeb3d4a",
+  "active": "c215a68f650cfd0c",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": false
+  },
   "lastOpenFiles": [
-    "0. Schermo Del Master/Schermo del Master.md",
     "0. Schermo Del Master/Guarigione e Morte/Guarigione e Morte.md",
+    "1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md",
+    "1. Ambientazioni e Avventure/Eberron/Eberron - Rinascita dopo l'ultima Guerra 5e.pdf",
+    "0. Schermo Del Master/Schermo del Master.md",
+    "1. Ambientazioni e Avventure/Eberron/Esplorando Eberron/Esplorando Eberron.md",
+    "1. Ambientazioni e Avventure/Eberron/Esplorando Eberron/Esplorando Eberron.pdf",
+    "1. Ambientazioni e Avventure/Eberron/Esplorando Eberron",
+    "1. Ambientazioni e Avventure/Forgotten Realms/Faerun/Phandalin.md",
     "0. Schermo Del Master/Equipaggiamento/Strumenti.md",
     "0. Schermo Del Master/Equipaggiamento/Armature.md",
     "0. Schermo Del Master/Equipaggiamento/Armi.md",
@@ -873,16 +858,15 @@
     "0. Schermo Del Master/Combattimento/Azioni.md",
     "0. Schermo Del Master/Abilità/Usare Punteggi di Caratteristica.md",
     "0. Schermo Del Master/Equipaggiamento",
-    "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap4. La Caverna dell'onda Tonante.md",
-    "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap5. L'attacco del Drago.md",
-    "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap0. Introduzione.md",
-    "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap1. Le Frecce dei Goblin.md",
-    "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli",
-    "1. Ambientazioni e Avventure/Forgotten Realms/Faerun/Phandalin.md",
-    "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap2. I Marchi Rossi.md",
-    "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/Capitoli/Cap3. La Tela del Ragno.md",
+    "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap4. La Caverna dell'onda Tonante.md",
+    "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap5. L'attacco del Drago.md",
+    "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap0. Introduzione.md",
+    "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap1. Le Frecce dei Goblin.md",
+    "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli",
+    "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap2. I Marchi Rossi.md",
+    "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap3. La Tela del Ragno.md",
     "z_Allegati/Misc/021-map-ih-dm-1.webp",
-    "2. Meccaniche/Oggetti Magici/Maschera del Drago Nero.md",
+    "3. Meccaniche/Oggetti Magici/Maschera del Drago Nero.md",
     "z_Allegati/Misc/013-map-db-dm-1.webp",
     "z_Allegati/Misc/048-map-4.01-wave-echo-cave-1.webp",
     "z_Allegati/Misc/044-map-3.04-cragmaw-castle-1.webp",
@@ -895,17 +879,12 @@
     "z_Allegati/Misc/028-map-2.02-redbrand-hideout-player-1.webp",
     "z_Allegati/z_Template/1. Template - Mondo/Template - NPC.md",
     "z_Allegati/z_Template/1. Template - Mondo/Template - Luogo.md",
-    "1. Ambientazioni e Avventure/Moduli Ufficiali/La Miniera Perduta di Phandelver/NPC Rilevanti/Gundren Rockseeker.md",
+    "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/NPC Rilevanti/Gundren Rockseeker.md",
     "z_Allegati/z_Template/1. Template - Mondo/Organizzazione_appunti/Template - Note di Preparazione Sessione.md",
-    "0. Schermo Del Master/Esplorazione/Viaggiare.md",
-    "Excalidraw/Drawing 2025-01-11 18.07.58.excalidraw.md",
     "z_Allegati/z_PDF/bastion-sheet.pdf",
     "z_Allegati/z_PDF/settlement-tracker.pdf",
     "z_Allegati/Misc/Pasted image 20250116201127.webp",
     "z_Allegati/z_PDF/travel-planner.pdf",
-    "z_Allegati/z_PDF/campaign-conflict-sheet.pdf",
-    "z_Allegati/z_PDF/character-tracker.pdf",
-    "z_Allegati/z_PDF/magic-item-sheet.pdf",
-    "z_Allegati/z_Template/4.Template - Trackers"
+    "z_Allegati/z_PDF/campaign-conflict-sheet.pdf"
   ]
 }

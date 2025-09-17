@@ -1,4 +1,4 @@
-![[Sword-Coast-Map_HighRes.jpg]]
+![[z_Allegati/z_Mappe/Sword-Coast-Map_HighRes.jpg]]
 
 ```leaflet
 ## Tutorial: https://youtu.be/54EyMzJP5DU
