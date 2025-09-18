@@ -1,4 +1,5 @@
 {
   "obsidian-leaflet-plugin": true,
-  "obsidian-5e-statblocks": true
+  "obsidian-5e-statblocks": true,
+  "preview": true
 }

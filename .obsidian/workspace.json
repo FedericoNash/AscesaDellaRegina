@@ -57,8 +57,14 @@
             "id": "4db6a8a2eb640198",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Maschera del Drago Nero",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. Meccaniche/Oggetti Magici/Maschera del Drago Nero.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Maschera del Drago Nero\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7002762381349673}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -875,6 +881,8 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "3. Meccaniche/Oggetti Magici/Maschera del Drago Nero.md",
+    "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap0. Introduzione.md",
     "1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md",
     "Atlante di Eberron.md",
     "z_Allegati/z_Template/3.Template - Callout/Callout - Astratto.md",
@@ -902,11 +910,9 @@
     "0. Schermo Del Master/Equipaggiamento",
     "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap4. La Caverna dell'onda Tonante.md",
     "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap5. L'attacco del Drago.md",
-    "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap0. Introduzione.md",
     "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap1. Le Frecce dei Goblin.md",
     "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli",
     "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap2. I Marchi Rossi.md",
-    "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap3. La Tela del Ragno.md",
     "z_Allegati/Misc/021-map-ih-dm-1.webp",
     "z_Allegati/Misc/013-map-db-dm-1.webp",
     "z_Allegati/Misc/048-map-4.01-wave-echo-cave-1.webp",
