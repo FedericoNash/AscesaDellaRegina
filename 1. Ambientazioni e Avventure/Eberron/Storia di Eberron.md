@@ -190,7 +190,18 @@ Un disco deflagrante racchiude un potere arcano distruttivo. Un tipico disco def
 ***Prossimità.*** 30 secondi dopo l’attivazione, il disco può detonare quando qualcuno giunge entro una certa distanza da esso o quando qualcuno lo tocca per la prima volta e poi interrompe quel contatto.
 ***Impatto.*** Il disco attivato può essere impostato per detonare all’impatto, e poi essere usato lanciandolo o facendolo cadere.
 ***Contromisure.*** 
-***Effetto.***
+***Effetto.*** Quando il disco deflagrante viene attivato, produce uno dei seguenti effetti magici, scelti al momento della fabbricazione:
+- **Esplosione**. Questo effetto crea un’esplosione del raggio di 6 metri centrata sul disco. Ogni creatura nell’area deve effettuare un tiro salvezza su Destrezza con CD 13; se fallisce, subisce 11 (2d10) danni, mentre se lo supera subisce la metà di quei danni. Un disco deflagrante infligge il triplo del danno agli oggetti o alle strutture. Il tipo di danno viene stabilito al momento della creazione del disco.
+- **Incantesimo**. Quando viene attivato il disco produce un incantesimo. L’effetto deve bersagliare una singola creatura (chiunque attivi il disco) o un’area di effetto centrata sul disco. Il livello dell’incantesimo nel disco determina la CD del tiro salvezza e il bonus di attacco, nonché la rarità dell’oggetto, come mostrato nella tabella “Potenza del Disco Deflagrante”.
+
+
+| Livello dell'incantesimo | Rarità     | CD del TS | Bonus di Attacco |
+| ------------------------ | ---------- | --------- | ---------------- |
+| Esplosione               | Comune     | 13        | -                |
+| 1°-3°                    | Non Comune | 14        | +6               |
+| 4°-5°                    | Raro       | 16        | +8               |
+***Carica***. Un tipico disco deflagrante contiene una singola carica e i suoi frammenti del drago si sbriciolano quando l’effetto viene attivato. Tuttavia, i dischi deflagranti più avanzati si ricaricano all’alba; questo aumenta la rarità del disco di una categoria.
+***Disattivare un Disco***. Quando vengono depositati sul campo di battaglia, i dischi deflagranti sono solitamente sepolti o nascosti. Per trovare il disco è necessario effettuare con successo una prova di Intelligenza (Indagare), con una CD pari alla prova di caratteristica usata quando esso è stato nascosto, come Saggezza (Natura) o Destrezza (Rapidità di Mano). Per disarmare un disco deflagrante, un personaggio con competenza in Arcano deve effettuare con successo una prova di Destrezza usando gli arnesi da scasso, con una CD pari alla CD del tiro salvezza del disco. Se la prova fallisce di 5 o più punti, il disco esplode come se fosse stato attivato. Quando un disco deflagrante viene disattivato con successo, perde una carica, il che significa che la maggior parte dei dischi deflagranti una volta disattivata diventerà inerte.
 
 
 
