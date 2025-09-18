@@ -183,11 +183,13 @@ Sebbene il disco deflagrante di base sia un oggetto magico comune, in base al Co
 # Disco Deflagrante
 *Oggetto meraviglioso, comune, non comune o raro*
 
-***Innesco.***
-***Tempo.***
-***Prossimità.***
-***Impatto.***
-***Contromisure.***
+Un disco deflagrante racchiude un potere arcano distruttivo. Un tipico disco deflagrante ha un diametro di circa 22,5 centimetri, uno spessore di 2,5 centimetri ed è costituito da vari strati di metallo; sulla sua superficie sono incastonati alcuni frammenti del drago e sono incisi vari simboli arcani. Chiunque esamini la superficie del disco può effettuare una prova di Intelligenza (Arcano) corrispondente alla CD del tiro salvezza del disco. In caso di successo, identifica l’effetto incantesimo contenuto nel disco. Un disco deflagrante è definito da tre elementi: l’innesco, l’effetto e la carica. Ogni effetto viene selezionato nel momento in cui il disco viene creato.
+
+***Innesco.*** Un incantatore che tocca un disco deflagrante può usare un’azione per attivarlo. Tuttavia, in genere non è raccomandabile tenere in mano un disco deflagrante al momento della detonazione. Un disco deflagrante può essere creato con uno degli inneschi che seguono, o con un innesco più complesso scelto dal creatore (come per esempio detonare quando viene pronunciata una determinata parola, quando un oggetto specifico arriva entro gittata, e così via):
+***Tempo.*** Quando il disco viene attivato, l’utente può impostare un ritardo di un massimo di 10 minuti prima che sprigioni il suo effetto.
+***Prossimità.*** 30 secondi dopo l’attivazione, il disco può detonare quando qualcuno giunge entro una certa distanza da esso o quando qualcuno lo tocca per la prima volta e poi interrompe quel contatto.
+***Impatto.*** Il disco attivato può essere impostato per detonare all’impatto, e poi essere usato lanciandolo o facendolo cadere.
+***Contromisure.*** 
 ***Effetto.***
 
 

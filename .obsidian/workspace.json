@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -894,13 +894,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1e4229846c61485a",
+  "active": "a7e69dbd81cfab4d",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md",
     "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Trappole.md",
+    "1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md",
     "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Talento.md",
     "z_Allegati/z_Template/2. Template -  Meccaniche/Template- Armi da Assedio.md",
     "z_Allegati/z_Template/3.Template - Callout/Callout - Oggetto Magico.md",
