@@ -1,4 +1,4 @@
-# Nome Arma
+##### Nome Arma
 *Descrizione*
 
 ***Classe Armatura:***

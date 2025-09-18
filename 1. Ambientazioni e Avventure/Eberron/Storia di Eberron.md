@@ -141,14 +141,26 @@ L’uso di queste armi richiede un addestramento specializzato, simile a quello 
 
 ^9e6996
 
-# Bastone da Assedio
+##### Bastone da Assedio
 *Artiglieria arcana Enorme (bastone), richiede sintonia con un incantatore*
 
 ***Classe Armatura:*** 15
 ***Punti Ferita:*** 120
 ***Immunità ai Danni:*** psichico, veleno
 
-I bastoni da assedio, la forma principale di artiglieria arcana, sono fatti di legno, in genere sono lunghi 4,5 metri, sono ricoperti di incisioni mistiche e intarsiati di frammenti del drago. L’attivazione di un bastone d’assedio richiede tre azioni: una per approntare il bastone, una per mirare e una per sprigionare l’incantesimo. Esistono vari modelli di base, ognuno dei quali ha uno scopo diverso. Quando un bastone viene attivato, produce uno degli effetti seguenti, determinato dal modello specifico: Bastone Deflagrante. Questo modello veniva solitamente utilizzato per bombardare truppe o villaggi in massa, scatenando una vasta esplosione di energia. Ha una gittata di 90/360 metri e bersaglia tutte le creature entro una sfera del raggio di 18 metri. Questo attacco infligge 9 (2d8) danni da forza, o la metà di quei danni in caso di un tiro salvezza su Destrezza superato. Bastone di Forza. Questo modello sprigiona esplosioni concentrate di pura energia. I bastoni di questo tipo, sviluppati alla fine della guerra, venivano usati principalmente per bersagliare fortificazioni, forgiati titani e aeronavi. Ha una gittata di 180/720 metri e infligge 44 (8d10) danni da forza.
+I bastoni da assedio, la forma principale di artiglieria arcana, sono fatti di legno, in genere sono lunghi 4,5 metri, sono ricoperti di incisioni mistiche e intarsiati di frammenti del drago. L’attivazione di un bastone d’assedio richiede tre azioni: una per approntare il bastone, una per mirare e una per sprigionare l’incantesimo. Esistono vari modelli di base, ognuno dei quali ha uno scopo diverso. Quando un bastone viene attivato, produce uno degli effetti seguenti, determinato dal modello specifico: 
+**Bastone Deflagrante**. Questo modello veniva solitamente utilizzato per bombardare truppe o villaggi in massa, scatenando una vasta esplosione di energia. Ha una gittata di 90/360 metri e bersaglia tutte le creature entro una sfera del raggio di 18 metri. Questo attacco infligge 9 (2d8) danni da forza, o la metà di quei danni in caso di un tiro salvezza su Destrezza superato.
+**Bastone di Forza**. Questo modello sprigiona esplosioni concentrate di pura energia. I bastoni di questo tipo, sviluppati alla fine della guerra, venivano usati principalmente per bersagliare fortificazioni, forgiati titani e aeronavi. Ha una gittata di 180/720 metri e infligge 44 (8d10) danni da forza.
+**Bastone Focalizzante.** Questo modello amplifica gli incantesimi lanciati da un incantatore in sintonia con esso. Ogni incantesimo che richieda un tiro per colpire o un tiro salvezza può essere lanciato tramite questo modello di bastone da assedio. La gittata viene moltiplicata per 5 e la gittata lunga può arrivare fino a 10 volte la gittata normale dell’incantesimo, quindi un dardo di fuoco lanciato attraverso un bastone da assedio ha una gittata di 180 metri e una gittata lunga di 360 metri. L’area d’effetto dell’incantesimo è raddoppiata. Se l’incantesimo normalmente colpisce un singolo bersaglio, ora colpisce invece una sfera del raggio di 6 metri; se l’incantesimo normalmente richiede un tiro per colpire, ora i bersagli devono invece effettuare un tiro salvezza su Destrezza. In caso di tiro salvezza superato, il bersaglio subisce danni dimezzati e non subisce altri effetti.
+
+##### Verga Lunga
+*Artiglieria arcana Grande (verga), richiede sintonia con un incantatore*
+
+***Classe Armatura:*** 15
+***Punti Ferita:*** 40
+***Immunità ai Danni:*** psichico, veleno
+
+Una verga lunga è una versione più maneggevole di un bastone da assedio e misura circa 2,4 metri in lunghezza. Compreso il supporto necessario per sostenerla, pesa circa 175 chilogrammi. Sono richieste cinque azioni per montare una verga lunga e altrettante per smontarla a fini di trasporto. Una volta preparata, è necessaria un’azione per approntare la verga, una per mirare e una per fare fuoco. Qualsiasi incantesimo che richieda un tiro per colpire o un tiro salvezza può essere lanciato attraverso la verga lunga. La gittata viene moltiplicata per 3 e la gittata lunga può arrivare fino a 6 volte la gittata normale dell’incantesimo. L’area d’effetto dell’incantesimo aumenta al 150%. Se l’incantesimo normalmente colpisce un bersaglio singolo, ora influenza invece una sfera del raggio di 3 metri; se l’incantesimo normalmente richiede un tiro per colpire, ora i bersagli devono invece effettuare un tiro salvezza su Destrezza. In caso di tiro salvezza superato, il bersaglio subisce la metà dei danni e non subisce altri effetti.
 
 
 
