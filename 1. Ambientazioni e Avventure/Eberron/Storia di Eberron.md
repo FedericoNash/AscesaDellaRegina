@@ -99,6 +99,9 @@ La più grande potenza dell'e poca moderna era il regno di Galifar, il cui terri
 #### Il Trattato di Fortetrono
 Il Trattato di Fortetrono sancì ufficialmente la fine dell'Ultima Guerra. Il trattato riconobbe le seguenti nazioni come stati sovrani: Aundair, Breland, Darguun, Karrnath, Pianure Talenta, Principati di Lhazaar, Q' barra, Rocche di Mror, Terre dell'Eldeen, Thrane, Valenar e Zilargo. Queste nazioni aderiscono a un comune codice di leggi e mantengono rapporti diplomatici tra loro. Le Distese Demoniache e le Marche dell'Ombra non possiedono un governo unificato. Il Droaam si è autoproclamato nazione, ma deve ancora essere riconosciuto come tale dai paesi firmatari del trattato.
 
+# La Profezia Draconica
+
+
 # Cronologia Abbreviata
 
 | Data        | Evento                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
