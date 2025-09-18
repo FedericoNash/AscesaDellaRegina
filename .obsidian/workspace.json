@@ -8,6 +8,29 @@
         "type": "tabs",
         "children": [
           {
+            "id": "5b6ed2c5d0898434",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlante di Eberron.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atlante di Eberron"
+            }
+          },
+          {
             "id": "c98a59901f7e27b2",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -35,31 +58,9 @@
               "icon": "lucide-file",
               "title": "Storia di Eberron"
             }
-          },
-          {
-            "id": "5b6ed2c5d0898434",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlante di Eberron.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Atlante di Eberron"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
