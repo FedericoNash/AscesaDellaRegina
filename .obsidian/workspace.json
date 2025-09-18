@@ -31,83 +31,6 @@
             }
           },
           {
-            "id": "c98a59901f7e27b2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Callout-  Info",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/3.Template - Callout/Callout-  Info.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Callout-  Info\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":6},\"to\":{\"line\":1,\"ch\":0}}}"
-                },
-                {
-                  "title": "Callout - Successo",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/3.Template - Callout/Callout - Successo.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Callout - Successo\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Callout - Tesoro",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/3.Template - Callout/Callout - Tesoro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Callout - Tesoro\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Callout - Astratto",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/3.Template - Callout/Callout - Astratto.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Callout - Astratto\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Veleni",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/2. Template -  Meccaniche/Template - Veleni.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Template - Veleni\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Template - Malattie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/2. Template -  Meccaniche/Template - Malattie.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Template - Malattie\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.886899124033767}"
-                },
-                {
-                  "title": "Template - Creatura",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/2. Template -  Meccaniche/Template - Creatura.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Template - Creatura\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":60.057352585790234}"
-                },
-                {
-                  "title": "Callout - Oggetto Magico",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/3.Template - Callout/Callout - Oggetto Magico.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Callout - Oggetto Magico\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Storia di Eberron",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Storia di Eberron\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":147,\"ch\":0},\"to\":{\"line\":147,\"ch\":0}},\"scroll\":127.85090032511471}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Allegati/z_Template/3.Template - Callout/Callout - Oggetto Magico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Callout - Oggetto Magico"
-            }
-          },
-          {
             "id": "a7e69dbd81cfab4d",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -118,57 +41,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Template - Creatura",
+                  "title": "Callout - Armi da Assedio",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/2. Template -  Meccaniche/Template - Creatura.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Template - Creatura\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Malattie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/2. Template -  Meccaniche/Template - Malattie.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Template - Malattie\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Pericolo",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/2. Template -  Meccaniche/Template - Pericolo.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Template - Pericolo\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Talento",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/2. Template -  Meccaniche/Template - Talento.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Template - Talento\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Trappole",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/2. Template -  Meccaniche/Template - Trappole.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Template - Trappole\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Callout - Armi da Guerra",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/3.Template - Callout/Callout - Armi da Assedio.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Callout - Armi da Guerra\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":18},\"to\":{\"line\":3,\"ch\":18}}}"
-                },
-                {
-                  "title": "Callout-  Info",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/3.Template - Callout/Callout-  Info.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Callout-  Info\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Callout - Oggetto Magico",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/3.Template - Callout/Callout - Oggetto Magico.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Callout - Oggetto Magico\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":17},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Callout - Armi da Guerra",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/3.Template - Callout/Callout - Armi da Assedio.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Callout - Armi da Guerra\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/2. Template -  Meccaniche/Template- Armi da Assedio.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Callout - Armi da Assedio\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -176,16 +51,57 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Allegati/z_Template/3.Template - Callout/Callout - Armi da Assedio.md",
+                "file": "1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Callout - Armi da Assedio"
+              "title": "Storia di Eberron"
+            }
+          },
+          {
+            "id": "1e4229846c61485a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Template - Talento",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/2. Template -  Meccaniche/Template - Talento.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Template - Talento\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":18},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Template - Trappole",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/2. Template -  Meccaniche/Template - Trappole.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Template - Trappole\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.6062785938815938}"
+                },
+                {
+                  "title": "Template- Armi da Assedio",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/2. Template -  Meccaniche/Template- Armi da Assedio.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Template- Armi da Assedio\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Allegati/z_Template/2. Template -  Meccaniche/Template- Armi da Assedio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Template- Armi da Assedio"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -983,22 +899,22 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Creatura.md",
-    "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Malattie.md",
-    "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Pericolo.md",
+    "z_Allegati/z_Template/2. Template -  Meccaniche/Template- Armi da Assedio.md",
     "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Talento.md",
     "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Trappole.md",
-    "z_Allegati/z_Template/3.Template - Callout/Callout - Armi da Assedio.md",
-    "z_Allegati/z_Template/3.Template - Callout/Callout-  Info.md",
+    "1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md",
     "z_Allegati/z_Template/3.Template - Callout/Callout - Oggetto Magico.md",
+    "z_Allegati/z_Template/3.Template - Callout/Callout-  Info.md",
+    "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Pericolo.md",
+    "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Malattie.md",
+    "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Creatura.md",
+    "Atlante di Eberron.md",
     "z_Allegati/z_Template/3.Template - Callout/Callout - Successo.md",
     "z_Allegati/z_Template/3.Template - Callout/Callout - Tesoro.md",
     "z_Allegati/z_Template/3.Template - Callout/Callout - Astratto.md",
     "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Veleni.md",
-    "1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md",
     "Soffio di Siberys.md",
     "().md",
-    "Atlante di Eberron.md",
     "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap0. Introduzione.md",
     "1. Ambientazioni e Avventure/Forgotten Realms/Faerun/Phandalin.md",
     "3. Meccaniche/Oggetti Magici/Maschera del Drago Nero.md",
