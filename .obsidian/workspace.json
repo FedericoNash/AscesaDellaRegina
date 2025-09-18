@@ -14,9 +14,9 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "()",
+                  "title": "Soffio di Siberys",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"().md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"()\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Soffio di Siberys.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Soffio di Siberys\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -857,8 +857,9 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "().md",
+    "Soffio di Siberys.md",
     "1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md",
+    "().md",
     "Atlante di Eberron.md",
     "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap0. Introduzione.md",
     "1. Ambientazioni e Avventure/Forgotten Realms/Faerun/Phandalin.md",
@@ -887,7 +888,6 @@
     "0. Schermo Del Master/Equipaggiamento",
     "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap4. La Caverna dell'onda Tonante.md",
     "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap5. L'attacco del Drago.md",
-    "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap1. Le Frecce dei Goblin.md",
     "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli",
     "z_Allegati/Misc/021-map-ih-dm-1.webp",
     "z_Allegati/Misc/013-map-db-dm-1.webp",
