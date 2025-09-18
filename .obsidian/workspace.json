@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "1e4229846c61485a",
+            "id": "c05b19bc5527048f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -68,40 +68,22 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Template - Talento",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/2. Template -  Meccaniche/Template - Talento.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Template - Talento\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":18},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Template - Trappole",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/2. Template -  Meccaniche/Template - Trappole.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Template - Trappole\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.6062785938815938}"
-                },
-                {
-                  "title": "Template- Armi da Assedio",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Allegati/z_Template/2. Template -  Meccaniche/Template- Armi da Assedio.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Template- Armi da Assedio\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Trappole.md",
+                "file": "Callout - Incantesimo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template - Trappole"
+              "title": "Callout - Incantesimo"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -894,16 +876,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a7e69dbd81cfab4d",
+  "active": "c05b19bc5527048f",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Trappole.md",
+    "Callout - Incantesimo.md",
     "1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md",
+    "z_Allegati/z_Template/3.Template - Callout/Callout - Oggetto Magico.md",
+    "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Trappole.md",
     "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Talento.md",
     "z_Allegati/z_Template/2. Template -  Meccaniche/Template- Armi da Assedio.md",
-    "z_Allegati/z_Template/3.Template - Callout/Callout - Oggetto Magico.md",
     "z_Allegati/z_Template/3.Template - Callout/Callout-  Info.md",
     "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Pericolo.md",
     "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Malattie.md",
@@ -927,7 +910,6 @@
     "0. Schermo Del Master/Equipaggiamento/Strumenti.md",
     "0. Schermo Del Master/Equipaggiamento/Armature.md",
     "0. Schermo Del Master/Equipaggiamento/Armi.md",
-    "0. Schermo Del Master/Guarigione e Morte/Riposare.md",
     "0. Schermo Del Master/Guarigione e Morte",
     "0. Schermo Del Master/Equipaggiamento",
     "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli",
