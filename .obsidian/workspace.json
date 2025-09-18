@@ -52,38 +52,8 @@
               "icon": "lucide-file",
               "title": "Atlante di Eberron"
             }
-          },
-          {
-            "id": "4db6a8a2eb640198",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Phandalin",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Forgotten Realms/Faerun/Phandalin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Phandalin\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap0. Introduzione.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cap0. Introduzione"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -876,16 +846,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4db6a8a2eb640198",
+  "active": "c98a59901f7e27b2",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "1. Ambientazioni e Avventure/Forgotten Realms/Faerun/Phandalin.md",
+    "Atlante di Eberron.md",
     "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap0. Introduzione.md",
+    "1. Ambientazioni e Avventure/Forgotten Realms/Faerun/Phandalin.md",
     "3. Meccaniche/Oggetti Magici/Maschera del Drago Nero.md",
     "1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md",
-    "Atlante di Eberron.md",
     "z_Allegati/z_Template/3.Template - Callout/Callout - Astratto.md",
     "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Veleni.md",
     "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Pericolo.md",
