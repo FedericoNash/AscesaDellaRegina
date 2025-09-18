@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "z_Allegati/Misc",
   "alwaysUpdateLinks": true,
-  "livePreview": true
+  "livePreview": true,
+  "vimMode": false
 }
