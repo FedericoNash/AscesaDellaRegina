@@ -233,7 +233,19 @@ Un tipico PNG bacchetta da guerra può essere basato su qualsiasi scheda delle s
 **Marchio di Fuoco Brelandiano**. Trucchetti noti: dardo di fuoco, luce. Incantesimi conosciuti: mani brucianti (1/giorno). 
 **Miraggio Cyrano**. Trucchetti noti: deflagrazione di forza, illusione minore. Incantesimi conosciuti: scudo (1/giorno).
 
+##### Magie da Battaglia: Gittata e Raggio
+Man mano che l’Aundair ampliava l’uso dei dragoni arcani, capì che essi avevano bisogno di incantesimi che potessero contrastare la gittata degli arcieri Thranesi, o abbattere un gran numero di truppe di contadini. Deflagrazione di forza è un semplice incantesimo che non ha l’impatto offensivo di un dardo di fuoco, ma ha una gittata superiore a quella di un arco lungo e infligge un tipo di danni a cui è difficile resistere. Esplosione concussiva non è mortale come mani brucianti o onda tonante, ma copre la stessa area di una palla di fuoco pur essendo accessibile a una bacchetta da guerra. Ai personaggi giocanti questi incantesimi potrebbero non piacere troppo, ma le bacchette da guerra nemiche potrebbero farne ampio uso.
 
+>[!note]+ Deflagrazione di Forza
+>*(nome inglese)*
+> *Trucchetto di invocazione*
+> ***Tempo di Lancio***: 1 azione
+> ***Gittata***: 54 metri
+> ***Componenti***:  *(materiale)*
+>
+***Durata***: 
+> 
+> ***Ai livelli Superiori.***
 
 # La Tragedia
 La nazione del Cyre era un tempo il cuore del regno di Galifar. L'Ultima Guerra finì per esigere un drammatico tributo dal Cyre e dai suoi abitanti, poiché la nazione divenne il teatro principale degli scontri tra le Cinque Nazioni. Ma nessuno era preparato al disastro che lo colpì nel 994 AR. Le testimonianze relative alla Tragedia non sono concordi. Alcuni dicono che il campo di battaglia vicino alla Strada Saerun fu avvolto da una luce abbacinante. Altri raccontano che nella capitale Metro! si levò una nebbia grigiastra e poi si diffuse ovunque. Nel giro di un solo giorno, la nazione del Cyre fu inghiottita da una coltre di nebbia e tutto ciò che si trovava al suo interno subì un'orribile trasformazione. Nel giorno della Tragedia, restarono uccisi più di un milione di Cyrani. Sopravvissero solo i soldati che si trovavano a combattere in territorio nemico, chi abitava al confine e trovò un modo per sfuggire all'avanzata delle nebbie e quei pochi che poterono lasciare le aree interne del paese tramite mezzi magici. Il giorno 20 Olarune 994 AR, la nazione del Cyre cessò di esistere. La Tragedia precipitò il Khorvaire nello sgomento. Chi poteva avere scatenato un simile potere? Si trattava di un'arma? E in tal caso, quando i responsabili avrebbero dettato le loro condizioni? I confini della fluttuante muraglia di nebbia erano stabili o potevano ricominciare a espandersi da un momento all'altro? Cosa andava fatto per gli esuli Cyrani che invadevano le nazioni vicine? La paura della Tragedia pose fine alla guerra, ma tutte queste domande restano senza risposta. Il Breland ha aperto i suoi confini ai profughi e il Principe Oargev rappresenta il sovrano de facto dell'area oggi conosciuta come il Nuovo Cyre. A dispetto del nome altisonante, il Nuovo Cyre è poco più di un grande campo profughi. Altri esuli sono dispersi in tutto il territorio del Khorvaire; alcuni ricevono compassione, altri sono visti con sospetto o astio. E il terrore della Tragedia è un'ombra che aleggia su tutto il continente. Potrebbe accadere di nuovo? È così che finirà il mondo?

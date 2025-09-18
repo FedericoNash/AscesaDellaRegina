@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Callout - Incantesimo.md",
+                "file": "z_Allegati/z_Template/3.Template - Callout/Callout - Incantesimo.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -876,12 +876,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c05b19bc5527048f",
+  "active": "a7e69dbd81cfab4d",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Callout - Incantesimo.md",
+    "z_Allegati/z_Template/3.Template - Callout/Callout - Incantesimo.md",
     "1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md",
     "z_Allegati/z_Template/3.Template - Callout/Callout - Oggetto Magico.md",
     "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Trappole.md",

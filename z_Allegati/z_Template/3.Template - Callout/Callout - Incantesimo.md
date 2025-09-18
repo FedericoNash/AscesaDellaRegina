@@ -5,9 +5,8 @@
 > 
 > ***Gittata***: 
 > 
-> ***Componenti***: 
->  *(mater):*
+> ***Componenti***:  *(materiale)*
 >
-***Consumabile***: 
+***Durata***: 
 > 
-> ***Effetto***:
+> ***Ai livelli Superiori.***
