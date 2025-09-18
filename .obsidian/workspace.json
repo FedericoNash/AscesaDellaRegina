@@ -60,10 +60,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Maschera del Drago Nero",
+                  "title": "Phandalin",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. Meccaniche/Oggetti Magici/Maschera del Drago Nero.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Maschera del Drago Nero\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7002762381349673}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Ambientazioni e Avventure/Forgotten Realms/Faerun/Phandalin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Phandalin\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
@@ -881,8 +881,9 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "3. Meccaniche/Oggetti Magici/Maschera del Drago Nero.md",
+    "1. Ambientazioni e Avventure/Forgotten Realms/Faerun/Phandalin.md",
     "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/Capitoli/Cap0. Introduzione.md",
+    "3. Meccaniche/Oggetti Magici/Maschera del Drago Nero.md",
     "1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md",
     "Atlante di Eberron.md",
     "z_Allegati/z_Template/3.Template - Callout/Callout - Astratto.md",
@@ -897,7 +898,6 @@
     "1. Ambientazioni e Avventure/Eberron/Esplorando Eberron/Esplorando Eberron.md",
     "1. Ambientazioni e Avventure/Eberron/Esplorando Eberron/Esplorando Eberron.pdf",
     "1. Ambientazioni e Avventure/Eberron/Esplorando Eberron",
-    "1. Ambientazioni e Avventure/Forgotten Realms/Faerun/Phandalin.md",
     "0. Schermo Del Master/Equipaggiamento/Strumenti.md",
     "0. Schermo Del Master/Equipaggiamento/Armature.md",
     "0. Schermo Del Master/Equipaggiamento/Armi.md",
