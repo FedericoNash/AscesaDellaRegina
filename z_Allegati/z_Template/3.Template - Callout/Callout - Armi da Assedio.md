@@ -1,6 +1,6 @@
 >[!note]+ Oggetto Magico
 >*Descrizione*
-> ***Classe Armatura ***: 
+> ***Classe Armatura : 
 > 
 > Punti Ferita: 
 > 
