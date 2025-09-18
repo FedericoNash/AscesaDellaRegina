@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e974544ee5385ab8",
+        "id": "09e2983a2db143a0",
         "type": "tabs",
         "children": [
           {
-            "id": "c215a68f650cfd0c",
+            "id": "c98a59901f7e27b2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,18 +16,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Guarigione e Morte",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Guarigione e Morte/Guarigione e Morte.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Guarigione e Morte\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.655275106158462}"
-                },
-                {
-                  "title": "Schermo del Master",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Schermo Del Master/Schermo del Master.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Schermo del Master\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":4.6646828762852754}"
                 }
               ]
             },
@@ -835,13 +823,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c215a68f650cfd0c",
+  "active": "c98a59901f7e27b2",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "0. Schermo Del Master/Guarigione e Morte/Guarigione e Morte.md",
+    "z_Allegati/z_Template/3.Template - Callout/Callout - Astratto.md",
+    "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Veleni.md",
+    "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Pericolo.md",
+    "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Talento.md",
+    "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Malattie.md",
+    "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Creatura.md",
     "1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md",
+    "0. Schermo Del Master/Guarigione e Morte/Guarigione e Morte.md",
     "1. Ambientazioni e Avventure/Eberron/Eberron - Rinascita dopo l'ultima Guerra 5e.pdf",
     "0. Schermo Del Master/Schermo del Master.md",
     "1. Ambientazioni e Avventure/Eberron/Esplorando Eberron/Esplorando Eberron.md",
@@ -873,14 +867,8 @@
     "z_Allegati/Misc/043-03-008.map303-wyvern-tor-1.webp",
     "z_Allegati/Misc/036-03-003.map301-old-owl-well-1.webp",
     "z_Allegati/Misc/The Driftwood Tavern neverwinter.webp",
-    "z_Allegati/z_Template/1. Template - Mondo/Template - Quest.md",
-    "Cosa sanno i Marchi Rossi.md",
     "z_Allegati/Misc/027-map-2.02-redbrand-hideout-1.webp",
     "z_Allegati/Misc/028-map-2.02-redbrand-hideout-player-1.webp",
-    "z_Allegati/z_Template/1. Template - Mondo/Template - NPC.md",
-    "z_Allegati/z_Template/1. Template - Mondo/Template - Luogo.md",
-    "2. Campagne/Campagne/Moduli Ufficiali/Ascesa della Regina/La Miniera Perduta di Phandelver/NPC Rilevanti/Gundren Rockseeker.md",
-    "z_Allegati/z_Template/1. Template - Mondo/Organizzazione_appunti/Template - Note di Preparazione Sessione.md",
     "z_Allegati/z_PDF/bastion-sheet.pdf",
     "z_Allegati/z_PDF/settlement-tracker.pdf",
     "z_Allegati/Misc/Pasted image 20250116201127.webp",
