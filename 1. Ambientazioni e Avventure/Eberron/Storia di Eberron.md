@@ -180,6 +180,21 @@ l disco deflagrante è la forma più comune di esplosivo magico utilizzata nelle
 Sebbene il disco deflagrante di base sia un oggetto magico comune, in base al Codice di Galifar ai civili è proibito sia possedere che trasportare questi oggetti. Il Casato Cannith produce i dischi deflagranti, ma non li vende ai civili (almeno, non apertamente). Quindi, chi è in cerca di un disco deflagrante, deve avere qualche contatto con il mondo del crimine o crearselo da solo. Le statistiche seguenti descrivono le regole standard relative ai dischi deflagranti, ma è possibile crearne delle versioni più potenti per soddisfare le esigenze di una storia specifica. Un disco deflagrante particolarmente potente potrebbe avere un raggio di varie decine di metri anziché soltanto di sei, mentre un disco nube mortale potrebbe scatenare una forza che si espande, si muove o rimane ad aleggiare sul posto per ore o giorni. Durante la guerra furono sviluppate molte forme diverse di artiglieria ed esplosivi che furono poi abbandonate quando si rivelarono troppo costose o difficili da produrre. Quelli soprastanti sono solo alcuni esempi degli strumenti potenziati dalla magia utilizzati durante la guerra e, come sempre, il DM è incoraggiato a introdurne degli altri, se tornano a beneficio della storia.
 
 
+# Disco Deflagrante
+*Oggetto meraviglioso, comune, non comune o raro*
+
+***Innesco.***
+***Tempo.***
+***Prossimità.***
+***Impatto.***
+***Contromisure.***
+***Effetto.***
+
+
+
+
+
+
 # La Tragedia
 La nazione del Cyre era un tempo il cuore del regno di Galifar. L'Ultima Guerra finì per esigere un drammatico tributo dal Cyre e dai suoi abitanti, poiché la nazione divenne il teatro principale degli scontri tra le Cinque Nazioni. Ma nessuno era preparato al disastro che lo colpì nel 994 AR. Le testimonianze relative alla Tragedia non sono concordi. Alcuni dicono che il campo di battaglia vicino alla Strada Saerun fu avvolto da una luce abbacinante. Altri raccontano che nella capitale Metro! si levò una nebbia grigiastra e poi si diffuse ovunque. Nel giro di un solo giorno, la nazione del Cyre fu inghiottita da una coltre di nebbia e tutto ciò che si trovava al suo interno subì un'orribile trasformazione. Nel giorno della Tragedia, restarono uccisi più di un milione di Cyrani. Sopravvissero solo i soldati che si trovavano a combattere in territorio nemico, chi abitava al confine e trovò un modo per sfuggire all'avanzata delle nebbie e quei pochi che poterono lasciare le aree interne del paese tramite mezzi magici. Il giorno 20 Olarune 994 AR, la nazione del Cyre cessò di esistere. La Tragedia precipitò il Khorvaire nello sgomento. Chi poteva avere scatenato un simile potere? Si trattava di un'arma? E in tal caso, quando i responsabili avrebbero dettato le loro condizioni? I confini della fluttuante muraglia di nebbia erano stabili o potevano ricominciare a espandersi da un momento all'altro? Cosa andava fatto per gli esuli Cyrani che invadevano le nazioni vicine? La paura della Tragedia pose fine alla guerra, ma tutte queste domande restano senza risposta. Il Breland ha aperto i suoi confini ai profughi e il Principe Oargev rappresenta il sovrano de facto dell'area oggi conosciuta come il Nuovo Cyre. A dispetto del nome altisonante, il Nuovo Cyre è poco più di un grande campo profughi. Altri esuli sono dispersi in tutto il territorio del Khorvaire; alcuni ricevono compassione, altri sono visti con sospetto o astio. E il terrore della Tragedia è un'ombra che aleggia su tutto il continente. Potrebbe accadere di nuovo? È così che finirà il mondo?
 
