@@ -141,7 +141,14 @@ L’uso di queste armi richiede un addestramento specializzato, simile a quello 
 
 ^9e6996
 
+# Bastone da Assedio
+*Artiglieria arcana Enorme (bastone), richiede sintonia con un incantatore*
 
+***Classe Armatura:*** 15
+***Punti Ferita:*** 120
+***Immunità ai Danni:*** psichico, veleno
+
+I bastoni da assedio, la forma principale di artiglieria arcana, sono fatti di legno, in genere sono lunghi 4,5 metri, sono ricoperti di incisioni mistiche e intarsiati di frammenti del drago. L’attivazione di un bastone d’assedio richiede tre azioni: una per approntare il bastone, una per mirare e una per sprigionare l’incantesimo. Esistono vari modelli di base, ognuno dei quali ha uno scopo diverso. Quando un bastone viene attivato, produce uno degli effetti seguenti, determinato dal modello specifico: Bastone Deflagrante. Questo modello veniva solitamente utilizzato per bombardare truppe o villaggi in massa, scatenando una vasta esplosione di energia. Ha una gittata di 90/360 metri e bersaglia tutte le creature entro una sfera del raggio di 18 metri. Questo attacco infligge 9 (2d8) danni da forza, o la metà di quei danni in caso di un tiro salvezza su Destrezza superato. Bastone di Forza. Questo modello sprigiona esplosioni concentrate di pura energia. I bastoni di questo tipo, sviluppati alla fine della guerra, venivano usati principalmente per bersagliare fortificazioni, forgiati titani e aeronavi. Ha una gittata di 180/720 metri e infligge 44 (8d10) danni da forza.
 
 
 
