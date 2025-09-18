@@ -1,23 +1,6 @@
 Template - Trap
 
 # Nome Trappola
+*Descrizione*
 
-## Panoramica
 
-Placeholder
-
-## Condizioni
-
-Placeholder
-
-## Effetti
-
-Placeholder
-
-## Evitabilità
-
-Placeholder
-
-## Dettagli Aggiuntivi
-
-Placeholder

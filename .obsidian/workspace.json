@@ -92,16 +92,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Allegati/z_Template/2. Template -  Meccaniche/Template- Armi da Assedio.md",
+                "file": "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Trappole.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template- Armi da Assedio"
+              "title": "Template - Trappole"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e27670feb9fc5389",
@@ -895,14 +894,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a7e69dbd81cfab4d",
+  "active": "1e4229846c61485a",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Talento.md",
     "z_Allegati/z_Template/2. Template -  Meccaniche/Template- Armi da Assedio.md",
     "1. Ambientazioni e Avventure/Eberron/Storia di Eberron.md",
-    "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Talento.md",
     "z_Allegati/z_Template/2. Template -  Meccaniche/Template - Trappole.md",
     "z_Allegati/z_Template/3.Template - Callout/Callout - Oggetto Magico.md",
     "z_Allegati/z_Template/3.Template - Callout/Callout-  Info.md",
